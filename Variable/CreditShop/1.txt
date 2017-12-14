@@ -1,0 +1,9 @@
+[ENTRY]
+Description=Buy a new character slot for your account
+PriceCurrency=CREDITS
+PriceCopper=0
+PriceCredits=500
+ItemID=8110
+Category=RECIPES
+Status=<undefined>
+
