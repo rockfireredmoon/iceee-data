@@ -5,6 +5,7 @@ Name=Untitled
 Pos=72890,1004.94,56671.6
 Orient=0,0.0649542,0,0.997888
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 links_count=1
 link=1091349,1
 
@@ -91,6 +92,7 @@ Name=Untitled
 Pos=72844.3,1002.35,56735.7
 Orient=0,-0.593177,0,0.805072
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 links_count=1
 link=1091351,1
 
@@ -112,6 +114,7 @@ Name=Untitled
 Pos=72758,973.506,56539.6
 Orient=0,-0.741297,0,0.671178
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091387
@@ -120,6 +123,7 @@ Name=Untitled
 Pos=72898.4,991.266,56551
 Orient=0,-0.747971,0,0.663731
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
 ID=1091390
@@ -128,6 +132,7 @@ Name=Untitled
 Pos=73164.6,1006.21,56690.4
 Orient=0,0.874789,0,0.484504
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
 ID=1091391
@@ -136,6 +141,7 @@ Name=Untitled
 Pos=73189.4,1040.78,56458.4
 Orient=0,-0.636537,0,0.771246
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
 ID=1091392
@@ -144,6 +150,7 @@ Name=Untitled
 Pos=73390.4,1049.27,56538.5
 Orient=0,0.9871,0,0.160104
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091393
@@ -152,6 +159,7 @@ Name=Untitled
 Pos=73331.3,1053.51,56382.4
 Orient=0,-0.655617,0,0.755093
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091394
@@ -160,46 +168,34 @@ Name=Untitled
 Pos=73438.2,1052.5,56417.5
 Orient=0,0.955572,0,-0.294759
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091415
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
-Pos=73067.8,1021.71,56828.1
+Pos=72999.4,1021.71,56828.1
 Orient=0,0.969944,0,0.243329
 Scale=1,1,1
+spawnPackage=wastecult_creature
+wanderRadius=55
 
 [ENTRY]
-ID=1133150
-Asset=Prop-Fog#Prop-Fog_Green_Ground
+ID=1154711
+Asset=Sound?SOUND=Sound-Ambient-Radiation1.ogg&GAIN=1
+Name=Untitled
+Pos=73027,1030.98,56664.2
+Orient=0,0.948985,0,0.315322
+Scale=1,1,1
+
+[ENTRY]
+ID=1155074
+Asset=Manipulator#Manipulator-SpawnPoint
 Name=
-Pos=72890.2,1004.33,56684
+Pos=73385.5,1050.37,56498.9
 Orient=0,0,0,1
 Scale=1,1,1
-
-[ENTRY]
-ID=1133151
-Asset=Prop-Fog#Prop-Fog_Green_Ground
-Name=
-Pos=72909.6,1058.14,56856.3
-Orient=-0.183944,0.00491466,0.000919729,0.982924
-Scale=1,1,1
-
-[ENTRY]
-ID=1133152
-Asset=Prop-Fog#Prop-Fog_Green_Ground
-Name=
-Pos=73381.6,1052.28,56423.6
-Orient=0,0,0,1
-Scale=1,1,1
-
-[ENTRY]
-ID=1133153
-Asset=Prop-Fog#Prop-Fog_Green_Ground
-Name=
-Pos=73179.2,1026.94,56555.4
-Orient=0.0249524,-0.00149894,0.0599453,0.997889
-Scale=1,1,1
+spawnPackage=#F3531
 
 [ENTRY]
 ID=151020215

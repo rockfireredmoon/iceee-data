@@ -487,7 +487,7 @@ mMinUseLevel=1
 [ENTRY]
 mID=8117
 mType=5
-mDisplayName=Ghastly Purse
+mDisplayName=Vampidersilk Purse
 mAppearance=[{}]
 mIcon=Icon-32-Loot-Bag1.png|Icon-32-BG-Blue.png
 mIvType1=1
@@ -495,37 +495,10 @@ mIvMax1=1
 mLevel=1
 mBindingType=1
 mValue=1
-mFlavorText=Double click to open! Contains credits for use in the new Credit Shop
+mFlavorText=Double click to open! Contains credits for use in the Credit Shop and 100 heroism
 mQualityLevel=3
 mMinUseLevel=1
-Params=credits=1000
-
-[ENTRY]
-mID=8118
-mType=5
-mDisplayName=New Empty Dungeon
-mAppearance=[{}]
-mIcon=Icon-32-Grove3.png|Icon-32-BG-Red.png
-mIvType1=1
-mIvMax1=1
-mLevel=1
-mBindingType=1
-mValue=1
-mFlavorText=Double click to open!
-mQualityLevel=3
-mMinUseLevel=10
-mUseAbilityId=27104
-
-[ENTRY]
-mID=8119
-mType=9
-mDisplayName=Rope
-mIcon=Icon-32-Rope_Coil.png|Icon-32-BG-Green.png
-mIvType1=5
-mIvMax1=217
-mSv1=A Hopeless Cause
-mValue=1
-mQualityLevel=1
+Params=credits=1000&heroism=100
 
 [ENTRY]
 mID=8200
@@ -1022,6 +995,7 @@ mSpecialItemType=3
 mQualityLevel=4
 mMinUseLevel=1
 mUseAbilityId=27005
+
 [ENTRY]
 mID=8501
 mType=3
@@ -1043,149 +1017,239 @@ mArmorResistDeath=20000
 mFlavorText=It's Really Strong
 
 [ENTRY]
-mID=8600
-mType=9
-mDisplayName=Battle Survivor
-mIcon=Icon-32-1hSword-Medium1.png|Icon-32-BG-Green.png
-mIvType1=5
-mIvMax1=1006
-mSv1=The Battle of North Beach
+mID=8502
+mType=8
+mDisplayName=Micro Tome of Experience
+mIcon=Icon-32-Book1.png|Icon-32-Ability-Resto_Healing_Breeze.png
+mIvType1=10
+mIvMax1=100
+mIvType2=9
+mIvMax2=1
+mLevel=1
+mBindingType=1
 mValue=1
-mQualityLevel=1
+mValueType=1
+mSpecialItemType=3
+mQualityLevel=3
+mMinUseLevel=1
+mActionAbilityId=27010
+
+[ENTRY]
+mID=8600
+mType=3
+mDisplayName=Ring of Light Rain
+mAppearance=[{["a"]={["type"]="Particle-Weather_Rain1",["effect"]="Par-Weather_Rain1",["point_override"]="head_particles"}}]
+mIcon=Icon-32-Ring3.png|Icon-IGIS-Alert-Glow.png
+mLevel=1
+mBindingType=1
+mEquipType=17
+mArmorType=1
+mValue=69
+mFlavorText=A rainy day.
+mQualityLevel=5
+mMinUseLevel=1
 
 [ENTRY]
 mID=8601
-mType=9
-mDisplayName=Archery Tower Parts
-mIcon=Icon-32-1hSword-Medium1.png|Icon-32-BG-Green.png
-mIvType1=5
-mIvMax1=1007
-mSv1=Base of Operations
-mValue=1
-mQualityLevel=1
+mType=3
+mDisplayName=Ring of Medium Rain
+mAppearance=[{["a"]={["type"]="Particle-Weather_Rain2",["effect"]="Par-Weather_Rain2",["point_override"]="head_particles"}}]
+mIcon=Icon-32-Ring3.png|Icon-IGIS-Alert-Glow.png
+mLevel=1
+mBindingType=1
+mEquipType=17
+mArmorType=1
+mValue=69
+mFlavorText=A rainy day.
+mQualityLevel=5
+mMinUseLevel=1
 
 [ENTRY]
 mID=8602
-mType=9
-mDisplayName=Barricade Parts
-mIcon=Icon-32-1hSword-Medium1.png|Icon-32-BG-Green.png
-mIvType1=5
-mIvMax1=1007
-mSv1=Base of Operations
-mValue=1
-mQualityLevel=1
+mType=3
+mDisplayName=Ring of Heavy Rain
+mAppearance=[{["a"]={["type"]="Particle-Weather_Rain3",["effect"]="Par-Weather_Rain3",["point_override"]="head_particles"}}]
+mIcon=Icon-32-Ring3.png|Icon-IGIS-Alert-Glow.png
+mLevel=1
+mBindingType=1
+mEquipType=17
+mArmorType=1
+mValue=69
+mFlavorText=A rainy day.
+mQualityLevel=5
+mMinUseLevel=1
 
 [ENTRY]
 mID=8603
-mType=9
-mDisplayName=Spike Trap
-mIcon=Icon-32-1hSword-Medium1.png|Icon-32-BG-Green.png
-mIvMax1=1007
-mSv1=Base of Operations
-mValue=1
-mQualityLevel=1
+mType=3
+mDisplayName=Ring of Light Snow
+mAppearance=[{["a"]={["type"]="Particle-Weather_Snow1",["effect"]="Par-Weather_Snow1",["point_override"]="head_particles"}}]
+mIcon=Icon-32-Ring3.png|Icon-IGIS-Alert-Glow.png
+mLevel=1
+mBindingType=1
+mEquipType=17
+mArmorType=1
+mValue=69
+mFlavorText=A snowy day.
+mQualityLevel=5
+mMinUseLevel=1
+
+[ENTRY]
+mID=8604
+mType=3
+mDisplayName=Ring of Medium Snow
+mAppearance=[{["a"]={["type"]="Particle-Weather_Snow2",["effect"]="Par-Weather_Snow2",["point_override"]="head_particles"}}]
+mIcon=Icon-32-Ring3.png|Icon-IGIS-Alert-Glow.png
+mLevel=1
+mBindingType=1
+mEquipType=17
+mArmorType=1
+mValue=69
+mFlavorText=A snowy day.
+mQualityLevel=5
+mMinUseLevel=1
+
+[ENTRY]
+mID=8605
+mType=3
+mDisplayName=Ring of Heavy Snow
+mAppearance=[{["a"]={["type"]="Particle-Weather_Snow3",["effect"]="Par-Weather_Snow3",["point_override"]="head_particles"}}]
+mIcon=Icon-32-Ring3.png|Icon-IGIS-Alert-Glow.png
+mLevel=1
+mBindingType=1
+mEquipType=17
+mArmorType=1
+mValue=69
+mFlavorText=A snowy day.
+mQualityLevel=5
+mMinUseLevel=1
 
 [ENTRY]
 mID=8700
 mType=8
-mDisplayName=Book of Books
-mIcon=Icon-32-Talisman_Book.png|Icon-32-BG-Green.png
+mDisplayName=Mystery Quest Reward
+mIcon=Icon-32-MysteryBox.png|Icon-32-BG-Green.png
 mLevel=1
-mIvType1=11
-mIvMax1=1
-mIvMax2=1
+mIvType1=5
 mBindingType=1
+mEquipType=0
+mArmorType=0
 mValue=1
-mQualityLevel=1
+mFlavorText=Reward will be revealed when the quest is complete.
+mQualityLevel=2
 mMinUseLevel=1
-mFlavorText=Double-click to open, or use /books
 
 [ENTRY]
 mID=8701
 mType=8
-mDisplayName=Book of Books
-mIcon=Icon-32-Talisman_Book.png|Icon-32-BG-Green.png
+mDisplayName=Mystery Quest Reward
+mIcon=Icon-32-MysteryBox.png|Icon-32-BG-Green.png
 mLevel=1
-mIvType1=11
-mIvMax1=1
-mIvMax2=2
+mIvType1=5
 mBindingType=1
+mEquipType=0
+mArmorType=0
 mValue=1
-mQualityLevel=1
+mFlavorText=Reward will be revealed when the quest is complete.
+mQualityLevel=3
 mMinUseLevel=1
-mFlavorText=Double-click to open, or use /books 
 
 [ENTRY]
 mID=8702
 mType=8
-mDisplayName=Book of Classes
-mIcon=Icon-32-Talisman_Book.png|Icon-32-BG-Green.png
+mDisplayName=Mystery Quest Reward
+mIcon=Icon-32-MysteryBox.png|Icon-32-BG-Green.png
 mLevel=1
-mIvType1=11
-mIvMax1=2
-mIvMax2=1
+mIvType1=5
 mBindingType=1
+mEquipType=0
+mArmorType=0
 mValue=1
-mQualityLevel=1
+mFlavorText=Reward will be revealed when the quest is complete.
+mQualityLevel=4
 mMinUseLevel=1
-mFlavorText=Double-click to open, or use /books
 
 [ENTRY]
 mID=8703
 mType=8
-mDisplayName=Book of Classes
-mIcon=Icon-32-Talisman_Book.png|Icon-32-BG-Green.png
+mDisplayName=Mystery Quest Reward
+mIcon=Icon-32-MysteryBox.png|Icon-32-BG-Green.png
 mLevel=1
-mIvType1=11
-mIvMax1=2
-mIvMax2=2
+mIvType1=5
 mBindingType=1
+mEquipType=0
+mArmorType=0
 mValue=1
-mQualityLevel=1
+mFlavorText=Reward will be revealed when the quest is complete.
+mQualityLevel=5
 mMinUseLevel=1
-mFlavorText=Double-click to open, or use /books
 
 [ENTRY]
 mID=8704
-mType=8
-mDisplayName=Book of Classes
-mIcon=Icon-32-Talisman_Book.png|Icon-32-BG-Green.png
+mType=7
+mDisplayName=Junk Materials
+mIcon=Icon-32-Box.png|Icon-32-BG-Aqua.png
+mIvType1=1
+mIvMax1=20
+mIvType2=8
 mLevel=1
-mIvType1=11
-mIvMax1=2
-mIvMax2=3
-mBindingType=1
 mValue=1
-mQualityLevel=1
 mMinUseLevel=1
-mFlavorText=Double-click to open, or use /books
 
 [ENTRY]
 mID=8705
 mType=8
-mDisplayName=Book of Classes
-mIcon=Icon-32-Talisman_Book.png|Icon-32-BG-Green.png
+mSpecialItemType=4
+mDisplayName=Cheap Refashioning Device
+mIcon=Icon-32-Scissors.png|Icon-32-BG-Green.png
 mLevel=1
-mIvType1=11
-mIvMax1=2
-mIvMax2=4
-mBindingType=1
 mValue=1
-mQualityLevel=1
 mMinUseLevel=1
-mFlavorText=Double-click to open, or use /books
+mQualityLevel=1
+mBindingType=0
+mFlavorText=Double-click to refashion items wherever you are. This cheaply made but compact device will only work once!
+mIvMax1=10
+mIvMax2=0
+mIvType1=1
 
 [ENTRY]
 mID=8706
 mType=8
-mDisplayName=Book of Classes
-mIcon=Icon-32-Talisman_Book.png|Icon-32-BG-Green.png
+mSpecialItemType=4
+mDisplayName=Sturdy Refashioning Device
+mIcon=Icon-32-Scissors.png|Icon-32-BG-Yellow.png
 mLevel=1
-mIvType1=11
-mIvMax1=2
-mIvMax2=5
-mBindingType=1
 mValue=1
-mQualityLevel=1
 mMinUseLevel=1
-mFlavorText=Double-click to open, or use /books
+mQualityLevel=1
+mBindingType=1
+mFlavorText=Double-click to refashion items wherever you are. This sturdy device will last a lifetime!
+
+[ENTRY]
+mID=8707
+mType=8
+mSpecialItemType=5
+mDisplayName=Cheap Crafting Kit
+mIcon=Icon-32-SewingKit.png|Icon-32-BG-Green.png
+mLevel=1
+mValue=1
+mMinUseLevel=1
+mQualityLevel=1
+mBindingType=0
+mFlavorText=Double-click to craft items wherever you are. This cheaply made but compact kit will only work once!
+mIvMax1=10
+mIvMax2=0
+mIvType1=1
+
+[ENTRY]
+mID=8708
+mType=8
+mSpecialItemType=5
+mDisplayName=Sturdy Crafting Kit
+mIcon=Icon-32-SewingKit.png|Icon-32-BG-Yellow.png
+mLevel=1
+mValue=1
+mMinUseLevel=1
+mQualityLevel=1
+mBindingType=1
+mFlavorText=Double-click to craft items wherever you are. This sturdy kit will last a lifetime!

@@ -84,7 +84,7 @@ Obj.0.markerLocations=21731,1485,26775,58;
 ID=752
 Requires=751
 Title=The Gate: Gathering the Components
-BodyText=Yes, yes, Anubian Gates are interesting devices. You see, they work much the same way the Henges of Europe work; but they can be left open - like a sieve! If they were to open a gate here, then their armies could just pour through - quite bad indeed. Though there is no need for fear! As it turns out, I am very familiar with the inner workings of the magics that power these gates and they can indeed be disabled. There are a few things I will need first.
+BodyText=Yes, yes, Anubian Gates are interesting devices. You see, they work much the same way the Henges of Europe work; but they can be left open - like a sieve! If they were to open a gate here, then their armies could just pour through - quite bad indeed. Though there is no need for fear! As it turns out I am very familiar with the inner workings of the magics that power these gates and they can indeed be disabled. There are a few things I will need first.
 
 I can fashion a device that can disrupt the controls of the gate; but I need three things in particular. First, I need one of the amulets worn by an Anubian Magus. As fortune would have it, there is one to be easily found in this area. In the Anubian camp to the southwest you will find Kepi - be careful - he is quite powerful and very skilled with magic. Next I will need some Earth-Ash. Earth-Ash can be found on the corpses of the Smoldering Walkers. Yes, you will have to kill the beasts in order to get what I need. They can be found nearby at the southern ridge and scattered around the northern reaches
 of Earthrise. Finally I need some Glinting Stones. Not really a stone, but a crystalline form that is common south of here - especially in the area up where the Vespin hive is.
@@ -315,9 +315,9 @@ Obj.0.markerLocations=15308,1570,31833,58;
 ID=756
 Requires=755
 Title=The Summoner and the Beast
-BodyText=If you are truly the hero I am hearing so much about these days, then I can surely use your assistance. We are flanked by Anubians to the north and the southeast. Worse, some time ago a massive shard of the Spirit Mother fell from the sky and crashed to the earth, landing just south of town. If that were not enough, our local druidess has fallen victim to the power of the shard. Things are certainly in disarray around here. More pressing right now is another issue. Another smaller shard fragment crashed into the earth just east of here. I am being told that a group of Anubian magicians of some sort have excavated the shard and are performing strange rituals out there. My last report was that they had summoned up some kind of "thing". Thing is the best description anyone could give me. Whatever it is, it is something dark.
+BodyText=If you are truly the hero I am hearing so much about these days, then I can surely use your assistance. We are flanked by Anubians to the north and the southeast. Worse, some time ago a massive shard of the Spirit Mother fell from the sky and crashed into the earth, landing just south of town. If that were not enough, our local druidess has fallen victim to the power of the shard. Things are certainly in disarray around here. More pressing right now is another issue. Another smaller shard fragment crashed into the earth just east of here. I am being told that a group of Anubian magicians of some sort have excavated the shard and are performing strange rituals out there. My last report was that they had summoned up some kind of "thing". Thing is the best description anyone could give me. Whatever it is, it is something dark.
 
-My first task for you hero is to travel to the eastern shard crater and destroy this "thing" along with the one responsible for bringing it into this world. She is called Nubiti - a powerful mage. If you are truly a hero - then you should be able to finish this task.
+My first task for you hero, is to travel to the eastern shard crater and destroy this "thing", along with the one responsible for bringing it into this world. She is called Nubiti - a powerful mage. If you are truly a hero - then you should be able to finish this task.
 CompleteText=Perhaps you ARE a hero after all. Thank you for your assistance in this matter.
 Level=7
 Suggested=9
@@ -495,7 +495,7 @@ RewardItem.1=5328,1,0
 ID=759
 Requires=756
 Title=The Lost Brother
-BodyText=Hail! I have heard of your deeds and have hope that you can assist me as well? My brother Anton has gone missing. I fear he may in fact already be dead. I told him not to go, but he insisted it was "in the interest of learning"! You see, he is an aspiring mage and had a strong belief that the large crystal shard to the south would help him unlock some hidden power deep inside him. My attempts to stop him from going were in vain. It has been almost a week and I have not heard from him! Please seek out my brother - may he still live! If indeed he has passed, then I beg of you bring me some proof of his passing! Please, if you can spare the time, help me!
+BodyText=Hail! I have heard of your deeds and have hope that you can assist me as well? My brother Anton has gone missing. I fear he may in fact already be dead. I told him not to go, but he insisted it was "in the interest of learning"! You see he is an aspiring mage and had a strong belief that the large crystal shard to the south would help him unlock some hidden power deep inside him. My attempts to stop him from going were in vain. It has been almost a week and I have not heard from him! Please seek out my brother - may he still live! If indeed he has passed, then I beg of you bring me some proof of his passing! Please, if you can spare the time, help me!
 CompleteText=My fears realized...sigh...why would he not listen!? Sorry friend but I am
 overcome with grief. Please take this and my thanks for your efforts. Farewell.
 Level=8
@@ -565,7 +565,7 @@ RewardItem.0=5108,1,1
 ID=760
 Requires=756
 Title=The Road to Earthend
-BodyText=Hero! I have word from the Earthend Warcamp. They could use some help there! Before you go to the camp, though, you will pass by an Anubian Warcamp just north of your destination. In that camp you will find Commander Bakari. He is leading a push to press our troops between the sieged city of Earthend and his newly formed camp. Go to the camp and thin their numbers but also kill Bakari. This should help those at the Earthend camp breathe a little easier. Once that task is completed, report to Garren Greypaw in the Earthend Warcamp.
+BodyText=Hero! I have word from the Earthend Warcamp. They could use some help there! Before you go to the camp, though, you will pass by an Anubian Warcamp just north of your destination. In that camp you will find Commander Bakari. He is leading a push to press our troops between the sieged city of Earthend and his newly formed camp. Go to the camp and thin their numbers but also kill Bakari. This should help those at the Earthend camp breath a little easier. Once that task is completed, report to Garren Greypaw in the Earthend Warcamp.
 
 Good luck!
 CompleteText=Welcome hero! You have been expected.

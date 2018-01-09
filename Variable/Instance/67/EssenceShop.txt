@@ -1,0 +1,10 @@
+; Dungeon Loot
+[ENTRY]
+CreatureDefID=7879
+EssenceID=10045
+Item=142000,1
+Item=141553,1
+Item=2371,1
+Item=141905,1
+Item=142262,1
+Item=142277,1

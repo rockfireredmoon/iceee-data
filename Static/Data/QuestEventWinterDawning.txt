@@ -141,7 +141,7 @@ RewardItem.3=143584,1,0
 [ENTRY]
 ID=10000
 Title=A Special Gift
-BodyText=Bark! Or rather, greetings! Perhaps you're wondering how I'm speaking to you. That's not important. Do you see that tree over there? Apparently the townsfolk decided that a giant tree was too easy to miss, so they added colorful lights and decorations too. Bizarre, don't you think? They even call it the Winter Dawning Tree. Anyway, there are several gift boxes underneath it and among them is something for you. Go take a look.
+BodyText=Bark! Or rather, greetings! Perhaps you're wondering how I'm speaking to you. That's not important. Do you see that tree over there? Apparently the townsfolk decided that a giant tree was too easy to miss, so they added colorful lights and decorations too. Bizarre, don't you think? They call it the Winter Dawning Tree. Anyway, there are several gift boxes underneath it and among them is something for you. Go take a look.
 CompleteText=You unwrap the gift, finding an assortment of items. But there is yet another box within. Open it! (Double click the inventory item)
 Level=15
 Suggested=15

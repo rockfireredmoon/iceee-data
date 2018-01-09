@@ -793,86 +793,85 @@ Obj.0.markerLocations=54909.3,154.673,63594.9,81;
 
 [ENTRY]
 ID=553
-Title=BOUNTY: Fierce Fowlbeast
-BodyText=Kill 10 Fierce Fowlbeasts.
+Title=Daily: Snatchclaw
+BodyText=Test your heroism by hunting down and killing the vicious Hulking Crab known as Snatchclaw.  He can be found Northwest of Fort Stonehenge along the water.
 CompleteText=
-Level=12,16
-Exp=893
-PartySize=1
+Level=15,20
+Suggested=15
+Exp=5000
+PartySize=2
 NumRewards=0
-Coin=117
+Coin=5000
+Heroism=50
 Unabandon=0
 QuestGiverID=2787
 QuestEnderID=2787
 Repeat=1
-sGiver=54792.0,148.0,63594.0,81
-sEnder=54792.0,148.0,63594.0,81
-Heroism=6
+RepeatDelay=1D
+sGiver=54792.0,63594.0,148.0,81
+sEnder=54792.0,63594.0,148.0,81
 [ACT]
-Act.BodyText=Kill 10 Fierce Fowlbeasts.
+Act.BodyText=Hunt down and kill Snatchclaw
 Obj.0.type=kill
-Obj.0.data1=1685,1686
-Obj.0.data2=10
-Obj.0.description=Kill 10 Fierce Fowlbeasts
-Obj.0.complete=0
+Obj.0.data1=1654
+Obj.0.data2=1
+Obj.0.description=Find and kill Snatchclaw
 Obj.0.myCreatureDefID=
 Obj.0.myItemID=
-Obj.0.completeText=0 of 10
-Obj.0.markerLocations=54510.1,178.341,61405.0,81;
+Obj.0.completeText=0 of 1
+Obj.0.markerLocations=39822.0,60010.0,115.011,81;
 [ACT]
 Act.BodyText=Return to the Bounty Board!
 Obj.0.type=talk
 Obj.0.data1=0
 Obj.0.data2=0
 Obj.0.description=Return to the Bounty Board!
-Obj.0.complete=0
 Obj.0.myCreatureDefID=2787
 Obj.0.myItemID=
 Obj.0.completeText=
-Obj.0.markerLocations=54792.9,148.167,63594.5,81;
+Obj.0.markerLocations=54792.9,63594.5,148.167,81;
 RewardItem.0=21329,1,1
 
 [ENTRY]
 ID=554
-Title=BOUNTY: Steppe-Slimer 
-BodyText=Kill 10 Steppe-Slimers.
+Title=Daily: Petrie
+BodyText=Test your Heroism by hunting down and killing aerial predator known as Petrie.  He can be found East of Tallgrass Farm.
 CompleteText=
-Level=12,16
-Exp=825
-PartySize=1
+Level=15,20
+Suggested=15
+Exp=5000
+PartySize=2
 NumRewards=0
-Coin=99
+Coin=5000
+Heroism=50
 Unabandon=0
 QuestGiverID=2788
 QuestEnderID=2788
 Repeat=1
-sGiver=43652.0,186.0,65635.0,81
-sEnder=43652.0,186.0,65635.0,81
-Heroism=6
+RepeatDelay=1D
+sGiver=43652.0,65635.0,186.0,81
+sEnder=43652.0,65635.0,186.0,81
 [ACT]
-Act.BodyText=Kill 10 Steppe-Slimers.
+Act.BodyText=Kill Petrie the Aerial Predator
 Obj.0.type=kill
-Obj.0.data1=1609,1610
-Obj.0.data2=10
-Obj.0.description=Kill 10 Steppe-Slimers
-Obj.0.complete=0
+Obj.0.data1=1716
+Obj.0.data2=1
+Obj.0.description=Kill Petrie
 Obj.0.myCreatureDefID=
 Obj.0.myItemID=
-Obj.0.completeText=0 of 10
-Obj.0.markerLocations=53385,292.998,67891,81;
+Obj.0.completeText=0 of 1
+Obj.0.markerLocations=59014.0,56000.0,246.323,81;
 [ACT]
 Act.BodyText=Return to the Bounty Board!
 Obj.0.type=talk
 Obj.0.data1=0
 Obj.0.data2=0
 Obj.0.description=Return to the Bounty Board!
-Obj.0.complete=0
 Obj.0.myCreatureDefID=2788
 Obj.0.myItemID=
 Obj.0.completeText=
-Obj.0.markerLocations=54649.2,233.192,67553.8,81;
+Obj.0.markerLocations=54649.2,67553.8,233.192,81;
 RewardItem.0=21329,1,1
-
 
 [ENTRY]
 ID=281
@@ -1209,8 +1208,8 @@ Unabandon=0
 QuestGiverID=174
 QuestEnderID=179
 Repeat=0
-sGiver=57616.0,364.446,61884.0,81
-sEnder=56310.7,355.85,64235.7,81
+sGiver=57616.0,61884.0,364.446,81
+sEnder=56310.7,64235.7,355.85,81
 [ACT]
 Act.BodyText=Travel to the Camelot Great Library.
 Obj.0.type=travel
@@ -1759,7 +1758,7 @@ Obj.0.complete=0
 Obj.0.myCreatureDefID=
 Obj.0.myItemID=500021
 Obj.0.completeText=0 of 30
-Obj.0.markerLocations=
+Obj.0.markerLocations=49494.4,128.303,64761.8,81
 [ACT]
 Act.BodyText=Return to Master Sergeant Dunn.
 Obj.0.type=talk
@@ -2940,7 +2939,7 @@ ID=292
 Title=The Fate of Baron Unger
 BodyText=Greetings traveler. I am Lady Kathryn Rose, of the House of Rose. My family has lived in Bath and owned much of the surrounding land for many years. Our family has seen many highs and lows and it is a current low that I wish to discuss with you.
 
-This regards my uncle, Baron Unger. While it is common for him to be very much a hermit, I now have grown to worry about his well being. He lives high on the hill in the Overwatch Keep. Once a watch post, it was deeded to our family many years ago. Uncle Unger took the place as his own private sanctuary in which to study. I fear that his studies have gone from the mere hypothetical to the real. He was always obsessed with Beast consciousness, asking, "What makes us self aware in ways that more common creatures are not?". People spoke of him doing experiments on local creatures.
+This regards my uncle, Baron Unger. While it is common for him to be very much a hermit, I now have grown to worry about his well being. He lives high on the hill in the Overwatch Keep. Once a watch post, it was deeded to our family many years ago. Uncle Unger took the place as his own private sanctuary in which to study. I fear that his studies have gone from the mere hypothetical to the real. He was always obsessed with Beast consciousness; asking "What makes us self aware in ways that more common creatures are not?". People spoke of him doing experiments on local creatures.
 
 I have not heard a word from him in over three months. I sent a servant to speak with him - the servant never returned. I sent some of the local militia to speak with him - they returned with horrible news. It would seem the entire keep is overrun with strange creatures and they could not get inside to see if my uncle was there.
 
@@ -3065,7 +3064,7 @@ Obj.0.myItemID=
 Obj.0.completeText=
 Obj.0.markerLocations=55496.3,177.254,69420.8,81;
 [ACT]
-Act.BodyText=The map text has changed once again! "You found the three by the sea. Now seek the stone upon the stone upon the stone upon the stone."
+Act.BodyText=The map text has changed again! "You found the three by the sea. Now seek the stone upon the stone upon the stone upon the stone."
 
 (You're starting to notice a pattern in the clues. This one seems a bit murky though...literally. Close inspection of the crude map now seems to show that now familiar mark has relocated to a spot somewhere in the northeastern section of the Moors due west of Nottingham. You begin to wonder how many piles of stones match the description provided in the clue...)
 Obj.0.type=travel
@@ -3580,7 +3579,7 @@ Obj.0.markerLocations=56255.1,347.535,64243.0,81;
 Act.BodyText=You found a book that mentions a Glindergloom. There are two entries: One is a mushroom that is native to most of the continent. The other is a wand that can be fashioned, also known as Glindergloom. To fashion Glindergloom, you need three components: A Petrified Twig, a Perfect Ruby Eye of Earth and the toe bone of a Black Lich. The three pieces must be placed in a Putrefied Urn to fashion Glindergloom. You can only assume Teressa Doomfeather wants that wand.
 Petrified Twigs are commonly created by Mossback Sliders, which are large snails found in the swamp. Something in their excretions turns common twigs into rock-hard, Petrified Twigs. Search the swamp near the Mossback Sliders for a Petrified Twig.
 Ruby Eye of Earth is the eye of an earth elemental also found in the swamp. A Perfect Ruby Eye, though, would require one from the elder earth elemental, Grohlum.
-The toe bone of a Black Lich requires you to know where to find a Black Lich! Search the undead ruins just south of the road through the swamp. It is rumored that a Black Lich has made those ruins his home.
+The toe bone of a Black Lich requires you know where to find a Black Lich! Search the undead ruins just south of the road through the swamp. It is rumored that a Black Lich has made those ruins his home.
 If you can find these three things, then you must find a Putrefied Urn. As luck would have it, there is such a thing in the lands of Anglorum, but the text mentions that it is near the entrance to Coldstorm Cavern, which is just north of here.
 If you truly wish to chase away the dooms, then you have quite a journey ahead of you.
 Obj.0.type=gather
@@ -4010,39 +4009,39 @@ RewardItem.0=21331,1,1
 
 [ENTRY]
 ID=560
-Title=BOUNTY: Ferocious Fowlbeast
-BodyText=Kill 12 Ferocious Fowlbeasts.
+Title=Daily: Mosk
+BodyText=There's a GIANT blood sucking Bloodfiend known as Mosk who is terrorizing locals just East of the Crossroads Inn.  The Crown is offering a generous reward for anyone willing to get these pests under control
 CompleteText=
-Level=19,23
-Exp=1187
-PartySize=1
+Level=18,22
+Suggested=20
+Exp=8000
+PartySize=2
 NumRewards=0
-Coin=216
+Coin=10000
+Heroism=50
 Unabandon=0
 QuestGiverID=2803
 QuestEnderID=2803
 Repeat=1
+RepeatDelay=1D
 sGiver=53436.0,282.0,48254.0,81
 sEnder=53436.0,282.0,48254.0,81
-Heroism=6
 [ACT]
-Act.BodyText=Kill 12 Ferocious Fowlbeasts.
+Act.BodyText=Defeat the Bloodfiend known as Mosk
 Obj.0.type=kill
-Obj.0.data1=1727,1728
-Obj.0.data2=12
-Obj.0.description=Kill 12 Ferocious Fowlbeasts
-Obj.0.complete=0
+Obj.0.data1=1764
+Obj.0.data2=1
+Obj.0.description=Defeat Mosk
 Obj.0.myCreatureDefID=
 Obj.0.myItemID=
-Obj.0.completeText=0 of 12
-Obj.0.markerLocations=51198.6,314.916,45254.4,81;
+Obj.0.completeText=0 of 1
+Obj.0.markerLocations=44826.0,49314.0,297.803,81;
 [ACT]
 Act.BodyText=Return to the Bounty Board!
 Obj.0.type=talk
 Obj.0.data1=0
 Obj.0.data2=0
 Obj.0.description=Return to the Bounty Board!
-Obj.0.complete=0
 Obj.0.myCreatureDefID=2803
 Obj.0.myItemID=
 Obj.0.completeText=
@@ -4141,7 +4140,7 @@ Obj.0.markerLocations=57078.0,168.688,57246.0,81;
 [ENTRY]
 ID=313
 Title=The Amulet
-BodyText=Hello traveler. I stand here and look at the Broken Tower, knowing the dangers that lurk inside, yet yearning for the knowledge stored up in its walls. Do you know the story of the Tower? You see, many years ago it was once a centre for magical learning. While many in Anglorum have taken up the ways of druidic study, some search for more elemental power without the burdens of joining the Order and praising Gaia with the rest of that lot. The Tower, was taken over by a Lisian mage known as Sneath. He sought to train the best and brightest, to be a new generation of mages with real power. All was well until one day - boom! - something happened inside the Tower. The earth shook and many of the surrounding structures sank into the lake. Not long after, Merlin arrived and looked very displeased. He entered the Tower. Several hours later he came back outside with most of the students of the Tower. He then declared the Tower sealed and simply left. The door would no longer open and not even the entrance teleportation device would function.
+BodyText=Hello traveler. I stand here and look at the Broken Tower, knowing the dangers that lurk inside, yet yearning for the knowledge stored up in its walls. Do you know the story of the Tower? You see, many years ago it was once a centre for magical learning. While many in Anglorum have taken up the ways of druidic study, some search for more elemental power without the burdens of joining the Order and praising Gaia with the rest of that lot. The Tower was taken over by a Lisian mage known as Sneath. He sought to train the best and brightest, to be a new generation of mages with real power. All was well until one day - boom! - something happened inside the Tower. The earth shook and many of the surrounding structures sank into the lake. Not long after, Merlin arrived and looked very displeased. He entered the Tower. Several hours later he came back outside with most of the students of The Tower. He then declared the Tower sealed and simply left. The door would no longer open and not even the entrance teleportation device would function.
 
 There was much speculation as to what happened. Some say Merlin was the cause of the entire thing. Some say Sneath tapped into some unknown power. No one is really sure, especially now that time has passed. I know the truth of it, though. I was there all those years ago. I can tell you Merlin was not to blame. In fact, without his help, many more may have died.
 
@@ -4397,7 +4396,7 @@ Act.BodyText=Use the teleporter to enter the Broken Tower.
 Obj.0.type=travel
 Obj.0.data1=471,205,759,33
 Obj.0.data2=1000
-Obj.0.description=Enter the Broken Tower.
+Obj.0.description=Enter the Broken Tower
 Obj.0.complete=0
 Obj.0.myCreatureDefID=
 Obj.0.myItemID=
@@ -4783,39 +4782,39 @@ Obj.0.markerLocations=48308.2,221.414,44412.0,81;
 
 [ENTRY]
 ID=562
-Title=BOUNTY: Nottingham Deputies
-BodyText=Kill 12 Nottingham Deputies. (Enthralled Deputies and Spellbound Deputies)
+Title=Daily: Trabid
+BodyText=An enormous hare who's been referred to before as Trabid is attacking local gardens in Southshield stealing their carrots!! The Crown is offering a generous reward to rid the world of the vermin
 CompleteText=
-Level=19,23
-Exp=1187
-PartySize=1
+Level=18,22
+Suggested=20
+Exp=8000
+PartySize=2
 NumRewards=0
-Coin=216
+Coin=10000
+Heroism=50
 Unabandon=0
 QuestGiverID=2805
 QuestEnderID=2805
 Repeat=1
+RepeatDelay=1D
 sGiver=48427.0,172.488,44638.2,81
 sEnder=48427.0,172.488,44638.2,81
-Heroism=6
 [ACT]
-Act.BodyText=Kill 12 Nottingham Deputies. (Enthralled Deputies and Spellbound Deputies)
+Act.BodyText=Defeat the enormous hare known as Trabid
 Obj.0.type=kill
-Obj.0.data1=1862,1863,1864,1865
-Obj.0.data2=12
-Obj.0.description=Kill 12 Nottingham Deputies
-Obj.0.complete=0
+Obj.0.data1=1752
+Obj.0.data2=1
+Obj.0.description=Defeat Trabid
 Obj.0.myCreatureDefID=
 Obj.0.myItemID=
-Obj.0.completeText=0 of 12
-Obj.0.markerLocations=51942.5,207.575,46189.7,81;
+Obj.0.completeText=0 of 1
+Obj.0.markerLocations=42389.0,46312.0,225.597,81;
 [ACT]
 Act.BodyText=Return to the Bounty Board!
 Obj.0.type=talk
 Obj.0.data1=0
 Obj.0.data2=0
 Obj.0.description=Return to the Bounty Board!
-Obj.0.complete=0
 Obj.0.myCreatureDefID=2805
 Obj.0.myItemID=
 Obj.0.completeText=
@@ -4870,7 +4869,7 @@ Obj.0.markerLocations=48503.1,172.137,44668.0,81;
 ID=318
 Requires=317
 Title=Return to Nottingham
-BodyText=You found Faerie Food in the Deputy camps? Oh, this is terrible news. You see, the Faeries are always on the move up here in the north. They themselves cannot pass Hadrian's Wall, but their influence is always felt to those up here. Some fall prey to the whispers in the night and become puppets to the Faeries' string pulling. Eating Faerie Food is akin to signing your soul over to them! The Sheriff himself has always been a glutton. If he has been tainted directly by Faerie Food, then there is no recourse and he must be put down. His will is not his own and we cannot allow the Faeries to seed this land with any more dissent than they already have.
+BodyText=You found Faerie Food in the deputy camps? Oh, this is terrible news. You see, the Faeries are always on the move up here in the north. They themselves cannot pass Hadrian's Wall, but their influence is always felt to those up here. Some fall prey to the whispers in the night and become puppets to the Faeries' string pulling. Eating Faerie Food is akin to signing your soul over to them! The Sheriff himself has always been a glutton. If he has been tainted directly by Faerie Food, then there is no recourse and he must be put down. His will is not his own and we cannot allow the Faeries to seed this land with any more dissent than they already have.
 
 Return to Master Sergeant Illius and let him know what you plan to do. He will not stop you but, he will not aid you.
 

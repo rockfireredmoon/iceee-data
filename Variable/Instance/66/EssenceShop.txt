@@ -1,0 +1,8 @@
+; Valkal's Chest
+[ENTRY]
+CreatureDefID=7878
+EssenceID=10044
+Item=90046,1
+Item=90050,1
+Item=90044,1
+Item=90061,1

@@ -1,7 +1,7 @@
 [ENTRY]
 ID=1127490
 Asset=Manipulator#Manipulator-PathNode
-Name=
+Name=Untitled
 Pos=66625,609.455,56915
 Orient=0,0,0,1
 Scale=1,1,1
@@ -12,7 +12,7 @@ link=1127495,1
 [ENTRY]
 ID=1127491
 Asset=Manipulator#Manipulator-PathNode
-Name=
+Name=Untitled
 Pos=66565,622.875,56745
 Orient=0,0,0,1
 Scale=1,1,1
@@ -23,7 +23,7 @@ link=1127490,1
 [ENTRY]
 ID=1127492
 Asset=Manipulator#Manipulator-PathNode
-Name=
+Name=Untitled
 Pos=66530,618.725,56610
 Orient=0,0,0,1
 Scale=1,1,1
@@ -34,7 +34,7 @@ link=1127491,1
 [ENTRY]
 ID=1127493
 Asset=Manipulator#Manipulator-PathNode
-Name=
+Name=Untitled
 Pos=66690,618.417,56515
 Orient=0,0,0,1
 Scale=1,1,1
@@ -44,7 +44,7 @@ link=1127492,1
 [ENTRY]
 ID=1127494
 Asset=Manipulator#Manipulator-SpawnPoint
-Name=
+Name=Untitled
 Pos=66280,622.414,56715
 Orient=0,0,0,1
 Scale=1,1,1
@@ -54,7 +54,7 @@ wanderRadius=150
 [ENTRY]
 ID=1127495
 Asset=Manipulator#Manipulator-SpawnPoint
-Name=
+Name=Untitled
 Pos=66630,604.582,56980
 Orient=0,0,0,1
 Scale=1,1,1
@@ -65,7 +65,7 @@ link=1127490,1
 [ENTRY]
 ID=1127528
 Asset=Manipulator#Manipulator-SpawnPoint
-Name=
+Name=Untitled
 Pos=66149.3,622.406,56952.8
 Orient=0,0,0,1
 Scale=1,1,1

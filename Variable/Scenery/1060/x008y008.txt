@@ -5,8 +5,6 @@ Name=Untitled
 Pos=17262.7,1170.51,15610.2
 Orient=0,0,0,1
 Scale=1,1,1
-links_count=1
-link=1129676,1
 
 [ENTRY]
 ID=1028789
@@ -41,7 +39,7 @@ Name=Untitled
 Pos=16180,1240.28,15408.2
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3141
+spawnPackage=#3238
 links_count=2
 link=1130599,1
 link=1130605,1
@@ -53,7 +51,7 @@ Name=Untitled
 Pos=16085.2,1267.97,15674.5
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3141
+spawnPackage=#893
 links_count=2
 link=1130619,1
 link=1130617,1
@@ -65,7 +63,6 @@ Name=Untitled
 Pos=16201.7,1214.72,15985.8
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3180
 
 [ENTRY]
 ID=1028845
@@ -74,7 +71,7 @@ Name=Untitled
 Pos=16416.8,1197.76,15752.6
 Orient=0,-0.609159,0,0.793048
 Scale=1,1,1
-spawnPackage=#3180
+spawnPackage=#3238
 wanderRadius=100
 
 [ENTRY]
@@ -84,7 +81,7 @@ Name=Untitled
 Pos=16689.3,1231.89,16127.4
 Orient=0,-0.416871,0,0.908966
 Scale=1,1,1
-spawnPackage=#893
+spawnPackage=#3238
 wanderRadius=50
 
 [ENTRY]
@@ -338,10 +335,10 @@ spawnPackage=#3180
 ID=1028935
 Asset=Manipulator-SpawnPoint
 Name=Untitled
-Pos=15555.8,1129.24,15455.9
-Orient=0,0,0,1
+Pos=15555.8,1129.24,15474.3
+Orient=0,-0.560509,0,0.828149
 Scale=1,1,1
-spawnPackage=#3180
+spawnPackage=#3302
 
 [ENTRY]
 ID=1028938
@@ -371,17 +368,6 @@ Pos=15505.5,1111.77,15736.4
 Orient=0.0382077,0.682041,0.0190258,0.730067
 Scale=0.8,0.8,0.8
 Flags=1
-
-[ENTRY]
-ID=1129676
-Asset=Manipulator#Manipulator-SpawnPoint
-Name=Untitled
-Pos=17265.1,1161.3,15687
-Orient=0,0.488177,0,0.872745
-Scale=1.1,1.1,1.1
-spawnPackage=#1989
-links_count=1
-link=1028785,1
 
 [ENTRY]
 ID=1129766
@@ -475,7 +461,7 @@ Pos=15730.5,1440.17,16625.1
 Orient=0,0.174108,0,0.984727
 Scale=1,1,1
 spawnPackage=#F3396
-aiModule=Bastion_NPC_CatapultFiringAnimation(3397)
+aiModule=Bastion_NPC_CatapultFiringAnimation
 
 [ENTRY]
 ID=1129787
@@ -930,7 +916,7 @@ Scale=1,1,1
 ID=1129999
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
-Pos=15629.6,1132.67,15561.9
+Pos=15629.6,1132.19,15561.9
 Orient=0,-0.585097,0,0.810963
 Scale=1,1,1
 spawnPackage=#f3223
@@ -1036,7 +1022,7 @@ Name=Untitled
 Pos=15408.1,1137,16390.1
 Orient=0,0.576959,0,0.816774
 Scale=1,1,1
-spawnPackage=#3180
+spawnPackage=#3300
 
 [ENTRY]
 ID=1130394
@@ -1074,7 +1060,7 @@ Name=Untitled
 Pos=15646.3,1122.41,15945.5
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3180
+spawnPackage=#3299
 wanderRadius=50
 
 [ENTRY]
@@ -1084,7 +1070,7 @@ Name=Untitled
 Pos=15621.9,1128.2,15657.5
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3180
+spawnPackage=#3247
 wanderRadius=50
 
 [ENTRY]
@@ -1257,7 +1243,7 @@ Name=Untitled
 Pos=15549.5,1133.18,16081.8
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3180
+spawnPackage=#3300
 wanderRadius=50
 
 [ENTRY]
@@ -1522,6 +1508,14 @@ Orient=0,0,-0.535416,0.844589
 Scale=1,1,1
 
 [ENTRY]
+ID=1130495
+Asset=Environment-Marker?type=Fire1
+Name=Untitled
+Pos=16459.5,1225.82,16071.8
+Orient=0,0,0,1
+Scale=0.6,0.6,0.6
+
+[ENTRY]
 ID=1130498
 Asset=Sound?SOUND=crackling_fire_loop.ogg&GAIN=1
 Name=Untitled
@@ -1550,7 +1544,7 @@ spawnPackage=#F1285
 ID=1130514
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
-Pos=15403.8,1112.48,15581.4
+Pos=15401.4,1112.62,15580.1
 Orient=0,0,0,1
 Scale=1,1,1
 spawnPackage=#3202
@@ -1562,7 +1556,7 @@ Name=Untitled
 Pos=16572,1204.74,15407
 Orient=0,0.597195,0,0.802096
 Scale=1,1,1
-spawnPackage=#1997
+spawnPackage=#3238
 
 [ENTRY]
 ID=1130576
@@ -1571,7 +1565,7 @@ Name=Untitled
 Pos=16587,1203,15574.3
 Orient=0,-0.475032,0,0.879969
 Scale=1,1,1
-spawnPackage=#1997
+spawnPackage=#3238
 
 [ENTRY]
 ID=1130577
@@ -1588,17 +1582,17 @@ Name=Untitled
 Pos=16580.4,1204.17,15507.3
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3175
+spawnPackage=#3238
 wanderRadius=100
 
 [ENTRY]
 ID=1130580
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
-Pos=16237.4,1218.92,15455.3
+Pos=16237.6,1219.03,15454.8
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3141
+spawnPackage=#3238
 links_count=2
 link=1130617,1
 link=1130624,1
@@ -1689,7 +1683,7 @@ Name=Untitled
 Pos=15965.7,1335.89,15407.4
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3141
+spawnPackage=#3238
 links_count=1
 link=1130594,1
 
@@ -1700,7 +1694,7 @@ Name=Untitled
 Pos=16035.3,1264.89,15525.1
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3141
+spawnPackage=#3238
 links_count=1
 link=1130600,1
 
@@ -1746,7 +1740,7 @@ Name=Untitled
 Pos=16233,1216.63,15588.6
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3141
+spawnPackage=#3238
 links_count=1
 link=1130622,1
 
@@ -1757,7 +1751,7 @@ Name=Untitled
 Pos=16388.9,1203.63,15553.9
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3141
+spawnPackage=#893
 links_count=2
 link=1130625,1
 link=1130624,1
@@ -1859,7 +1853,7 @@ Name=Untitled
 Pos=16347.3,1257.81,16195.2
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3180
+spawnPackage=#893
 wanderRadius=50
 
 [ENTRY]
@@ -1869,7 +1863,7 @@ Name=Untitled
 Pos=16442.9,1228.98,16239.8
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#3180
+spawnPackage=#3238
 wanderRadius=50
 
 [ENTRY]
@@ -1879,7 +1873,7 @@ Name=Untitled
 Pos=16565.5,1217.31,16227.1
 Orient=0,0.998248,0,-0.0591691
 Scale=1,1,1
-spawnPackage=#3200
+spawnPackage=#3238
 
 [ENTRY]
 ID=1130633
@@ -1984,7 +1978,7 @@ Name=Untitled
 Pos=16791.4,1255.89,16202.6
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#893
+spawnPackage=#3238
 wanderRadius=50
 
 [ENTRY]
@@ -1994,46 +1988,6 @@ Name=Untitled
 Pos=16875.7,1242.46,16267.2
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#893
+spawnPackage=#3238
 wanderRadius=50
-
-[ENTRY]
-ID=1133308
-Asset=Manipulator#Manipulator-SpawnPoint
-Name=Untitled
-Pos=16502.6,1206.24,15599.5
-Orient=0,0.706825,0,0.707388
-Scale=1,1,1
-spawnPackage=#N7876
-sequential=1
-
-[ENTRY]
-ID=1133309
-Asset=Manipulator#Manipulator-SpawnPoint
-Name=Untitled
-Pos=16479.1,1204.15,15635.2
-Orient=0,0.42141,0,0.90687
-Scale=1,1,1
-spawnPackage=#E7875
-maxActive=0
-
-[ENTRY]
-ID=1133310
-Asset=Manipulator#Manipulator-SpawnPoint
-Name=Untitled
-Pos=16541.4,1205.9,15622.6
-Orient=0,0.87959,0,0.475732
-Scale=1,1,1
-spawnPackage=#E7875
-maxActive=0
-
-[ENTRY]
-ID=1133311
-Asset=Manipulator#Manipulator-SpawnPoint
-Name=Untitled
-Pos=16507.6,1204.93,15634.9
-Orient=0,0.601198,0,0.7991
-Scale=1,1,1
-spawnPackage=#E7875
-maxActive=0
 

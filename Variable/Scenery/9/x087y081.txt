@@ -1,7 +1,7 @@
 [ENTRY]
 ID=1127505
 Asset=Manipulator-PathNode
-Name=
+Name=Untitled
 Pos=65615,1017.89,60760
 Orient=0,0,0,1
 Scale=1,1,1
@@ -12,7 +12,7 @@ link=151027894,1
 [ENTRY]
 ID=1127512
 Asset=Manipulator#Manipulator-SpawnPoint
-Name=
+Name=Untitled
 Pos=65965,1023.66,60965
 Orient=0,0,0,1
 Scale=1,1,1
@@ -56,6 +56,7 @@ Pos=65580,919.908,61315
 Orient=0,0,0,1
 Scale=1,1,1
 spawnPackage=11_dth_wilds_42_43
+maxActive=0
 wanderRadius=100
 
 [ENTRY]
@@ -66,6 +67,7 @@ Pos=65830,916.096,61343
 Orient=0,0,0,1
 Scale=1,1,1
 spawnPackage=11_dth_wilds_42_43
+maxActive=0
 wanderRadius=100
 
 [ENTRY]
@@ -76,6 +78,7 @@ Pos=65507,899.76,61463
 Orient=0,0,0,1
 Scale=1,1,1
 spawnPackage=11_dth_wilds_42_43
+maxActive=0
 wanderRadius=100
 
 [ENTRY]

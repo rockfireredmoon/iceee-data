@@ -230,7 +230,6 @@ Name=Untitled
 Pos=15062.1,1270.63,13386.7
 Orient=0,0.958016,0,0.286715
 Scale=1,1,1
-spawnPackage=#F1975
 
 [ENTRY]
 ID=1129456
@@ -239,7 +238,6 @@ Name=Untitled
 Pos=15074.3,1270.63,13334.9
 Orient=0,-0.924606,0,0.380925
 Scale=1,1,1
-spawnPackage=#F1975
 
 [ENTRY]
 ID=1129457
@@ -248,7 +246,6 @@ Name=Untitled
 Pos=15009.5,1298.89,13294.8
 Orient=0,-0.483807,0,0.875174
 Scale=1,1,1
-spawnPackage=#F1975
 
 [ENTRY]
 ID=1129458
@@ -257,7 +254,6 @@ Name=Untitled
 Pos=14940.5,1270.63,13308.9
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#F1975
 
 [ENTRY]
 ID=1129459
@@ -266,16 +262,15 @@ Name=Untitled
 Pos=14952.7,1270.63,13309.2
 Orient=0,0.999942,0,0.0107962
 Scale=1,1,1
-spawnPackage=#F1975
 
 [ENTRY]
 ID=1129460
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
-Pos=14909.4,1270.11,13331.1
+Pos=14909.4,1265.54,13331.1
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#F2084
+spawnPackage=#2261
 
 [ENTRY]
 ID=1129461
@@ -284,7 +279,7 @@ Name=Untitled
 Pos=14904.1,1270.63,13384.2
 Orient=0,0,0,1
 Scale=1,1,1
-spawnPackage=#F2088
+spawnPackage=#F2091
 
 [ENTRY]
 ID=1129462
@@ -293,7 +288,7 @@ Name=Untitled
 Pos=15035.7,1270.63,13424.7
 Orient=0,0.681639,0,0.731689
 Scale=1,1,1
-spawnPackage=#F3501
+spawnPackage=#2092
 
 [ENTRY]
 ID=1129479

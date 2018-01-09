@@ -13,6 +13,7 @@ Name=Untitled
 Pos=76788.5,833.049,50799.3
 Orient=0,-0.773915,0,0.63329
 Scale=1,1,1
+spawnPackage=#F3663
 links_count=1
 link=1091252,1
 
@@ -62,9 +63,10 @@ link=1091267,1
 ID=1091277
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
-Pos=77054.7,966.371,50453.5
+Pos=77042.5,971.161,50453.5
 Orient=0,0.994576,0,-0.104015
 Scale=1,1,1
+spawnPackage=#F3664
 
 [ENTRY]
 ID=1091278
@@ -73,6 +75,7 @@ Name=Untitled
 Pos=77030.8,968.562,50488.3
 Orient=0,0.928369,0,0.37166
 Scale=1,1,1
+spawnPackage=#F3664
 
 [ENTRY]
 ID=1091279
@@ -81,13 +84,14 @@ Name=Untitled
 Pos=76978,978.714,50473.8
 Orient=0,0,0,1
 Scale=1,1,1
+spawnPackage=#F3664
 
 [ENTRY]
 ID=1091281
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
 Pos=76709,984.499,50334.3
-Orient=0,0,0,1
+Orient=0,0.535416,0,0.844589
 Scale=1,1,1
 spawnPackage=#F1315
 
@@ -98,6 +102,24 @@ Name=Untitled
 Pos=76888.4,843.618,50732.3
 Orient=0,-0.888928,0,0.458046
 Scale=1,1,1
+spawnPackage=#F3664
+
+[ENTRY]
+ID=1154682
+Asset=Sound?SOUND=crackling_fire_loop.ogg&GAIN=1
+Name=Untitled
+Pos=76822.6,991.801,50280.5
+Orient=0,0,0,1
+Scale=1,1,1
+
+[ENTRY]
+ID=1155092
+Asset=Manipulator#Manipulator-SpawnPoint
+Name=
+Pos=76961.1,974.927,50328.7
+Orient=0,0.795602,0,0.60582
+Scale=1,1,1
+spawnPackage=#F3518
 
 [ENTRY]
 ID=151023967

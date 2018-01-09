@@ -1663,16 +1663,17 @@ Spawn=1312,50  ;Ice Goliath (46)
 
 [ENTRY]
 Name=12_dbh_skrilldrones_48
+Spawn=1405,100
 spawnDelay=300
-Spawn=1405,100  ;Skrill Hivedrone (48) at 1
 
 [ENTRY]
 Name=12_dbh_skrillmix_48
-spawnDelay=300
+;Spawn=1402,100
 Spawn=1396,25  ;Skrill Hiveguard (48) at 0
 Spawn=1399,25  ;Skrill Hivesoldier (48) at 3
 Spawn=1402,25  ;Skrill Hivemender (48) at 1
 Spawn=1408,25  ;Skrill Hivemaker (48) at 1
+spawnDelay=300
 
 ; TODO: unknown
 ; Guessed for this one.  A quest involves killing these.
@@ -2994,3 +2995,18 @@ Spawn=3634,100  ; Hell "Twelve"
 Flags=3
 Name=gt01_mushroomChunks
 Spawn=7797,100  ;Mushroom Chunks
+
+[ENTRY]
+Name=Valley_Guardian
+Flags=224
+loyaltyRadius=50
+wanderRadius=50
+
+[ENTRY]
+Name=valkarabrood
+Flags=32
+Spawn=3541,33
+Spawn=3540,34
+Spawn=3542,33
+loyaltyRadius=75
+wanderRadius=75

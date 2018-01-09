@@ -3,7 +3,7 @@
 [ENTRY]
 Name=stonehenge_fortstonehenge
 Type=henge
-WarpTo=henge,43333,263,67813,81
+WarpTo=43333,263,67813,81
 
 [ENTRY]
 Name=stonehenge_northwall
@@ -1341,6 +1341,15 @@ Message=Deadwood
 Cost=5300
 
 [ENTRY]
+Name=henge_sanct_grunes
+Type=henge
+ObjectID=3599
+WarpTo=50711,930,60757,9
+Message=Grunes Tal
+Cost=6300
+Facing=252
+
+[ENTRY]
 Name=grunes_to_wailingcrypt
 Type=warp
 ObjectID=7786
@@ -1386,13 +1395,13 @@ WarpTo=63798,780,56598,9
 Message=Exiting Protectorates' Compound
 
 [ENTRY]
-Name=henge_frostpeak
+Name=henge_swineland
 Type=henge
 ObjectID=7792
 WarpTo=71586,932,63326,9
 Facing=124
-Message=Frost Peak
-Cost=5547
+Message=Swineland
+Cost=7547
 
 [ENTRY]
 Name=folkirk_manor_upper_to_lower
@@ -1489,7 +1498,7 @@ Name=valkals_blood_keep_to_swineland
 Type=warp
 ObjectID=7867
 WarpTo=79437,1316,53082,9
-Message=Entering Swineland
+Message=Exiting To Swineland
 Facing=107
 
 [ENTRY]
@@ -1523,3 +1532,34 @@ ObjectID=7870
 WarpTo=2671,1080,4334,69
 Message=Entering Skrill Queen Lair
 Facing=123
+
+[ENTRY]
+Name=iron_maw_to_grunes_tal
+Type=warp
+ObjectID=3477
+WarpTo=61870,891,70941,9
+Message=Exiting To Grunes Tal
+Facing=130
+
+[ENTRY]
+Name=grunes_tal_to_iron_maw
+Type=warp
+ObjectID=7874
+WarpTo=19352,1458,17513,50
+Message=Entrance To Junk Palace
+
+[ENTRY]
+Name=swineland_to_the_mausoleum
+Type=warp
+ObjectID=7877
+WarpTo=985,0,876,3080
+Message=Entering The Mausoleum
+Facing=1
+
+[ENTRY]
+Name=the_mausoleum_to_swineland
+Type=warp
+ObjectID=7876
+WarpTo=74318,885,50938,9
+Message=Exiting To Swineland
+Facing=50

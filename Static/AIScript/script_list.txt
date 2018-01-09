@@ -29,6 +29,7 @@ thunderwalker_brave.txt
 4_mage_30.txt
 4_rogue_30.txt
 4_druid_melee_30.txt
+4_druid_range_30.txt
 FailsafeAI.txt
 druid_bow_brave_1.txt
 custom_henge_glow.txt
@@ -36,7 +37,6 @@ custom_dekkerquest_it.txt
 custom_dekkerquest_healer.txt
 custom_dekkerquest_offense.txt
 custom_dekkerquest_hell12.txt
-custom_heathendel_deathdruid40.txt
 custom_heathendel_deathknight40.txt
 custom_heathendel_deathknight40b.txt
 custom_heathendel_deathknight40c.txt

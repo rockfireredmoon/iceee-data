@@ -1,11 +1,12 @@
 [ENTRY]
 ID=1127529
 Asset=Manipulator#Manipulator-SpawnPoint
-Name=
+Name=Untitled
 Pos=66059.2,618.388,57187.6
 Orient=0,0,0,1
 Scale=1,1,1
 spawnPackage=11_jld_HogcatcherMix_43_44
+maxActive=0
 wanderRadius=50
 
 [ENTRY]

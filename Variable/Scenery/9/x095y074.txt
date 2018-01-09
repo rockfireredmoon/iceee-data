@@ -172,6 +172,7 @@ Name=Untitled
 Pos=71874.8,975.056,56021.8
 Orient=0,0,0,1
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 links_count=1
 link=1091317,1
 
@@ -193,6 +194,7 @@ Name=Untitled
 Pos=71267.5,981.257,56114.9
 Orient=0,0.914795,0,0.403919
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
 ID=1091375
@@ -201,6 +203,7 @@ Name=Untitled
 Pos=71538.5,981.319,55975.9
 Orient=0,0,0,1
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091376
@@ -209,6 +212,7 @@ Name=Untitled
 Pos=71834.7,983.054,55950.7
 Orient=0,-0.659385,0,0.751806
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091377
@@ -217,6 +221,7 @@ Name=Untitled
 Pos=71865.9,962.603,56115.6
 Orient=0,0.933839,0,0.357693
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
 ID=1091378
@@ -225,6 +230,7 @@ Name=Untitled
 Pos=71757.2,959.319,56197.2
 Orient=0,0.984865,0,-0.173324
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 links_count=1
 link=1091423,1
 
@@ -232,9 +238,11 @@ link=1091423,1
 ID=1091416
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
-Pos=71705.2,973.53,56047.3
+Pos=71668.7,973.53,56047.3
 Orient=0,0.830497,0,0.557023
 Scale=1,1,1
+spawnPackage=wastecult_creature
+wanderRadius=45
 
 [ENTRY]
 ID=1091419
@@ -278,6 +286,7 @@ Name=Untitled
 Pos=71748.6,971.7,56077.6
 Orient=0,-0.836026,0,0.54869
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091434
@@ -286,6 +295,8 @@ Name=Untitled
 Pos=71676.5,976.7,55879.2
 Orient=0,-0.613117,0,0.789992
 Scale=1,1,1
+spawnPackage=wastecult_creature
+wanderRadius=55
 
 [ENTRY]
 ID=1091435
@@ -294,38 +305,17 @@ Name=Untitled
 Pos=71451.2,1038.71,56191.3
 Orient=0,-0.703279,0,0.710914
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
-ID=1133142
-Asset=Prop-Fog#Prop-Fog_Green_Ground
+ID=1154254
+Asset=Manipulator#Manipulator-SpawnPoint
 Name=
-Pos=71606.6,971.609,56108.6
+Pos=71621.1,1058.86,55633.9
 Orient=0,0,0,1
 Scale=1,1,1
-
-[ENTRY]
-ID=1133143
-Asset=Prop-Fog#Prop-Fog_Green_Ground
-Name=
-Pos=71368.9,981.532,56000.5
-Orient=0,0,0,1
-Scale=1,1,1
-
-[ENTRY]
-ID=1133146
-Asset=Prop-Fog#Prop-Fog_Green_Ground
-Name=
-Pos=71936,978.854,55978.7
-Orient=0,0,0,1
-Scale=1,1,1
-
-[ENTRY]
-ID=1133159
-Asset=Environment-Marker?type=Rotted
-Name=
-Pos=71478.9,991.03,56126.3
-Orient=0,0,0,1
-Scale=5,5,5
+spawnPackage=12_wpg_Wilds_44_45
+wanderRadius=100
 
 [ENTRY]
 ID=151017829

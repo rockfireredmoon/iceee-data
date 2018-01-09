@@ -82,6 +82,7 @@ Name=Untitled
 Pos=72974.5,1107.3,57185.8
 Orient=0,0,0,1
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
 ID=1091396
@@ -90,6 +91,7 @@ Name=Untitled
 Pos=73250.8,1110.44,57227.5
 Orient=0,0.999816,0,-0.0192024
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091405
@@ -98,6 +100,7 @@ Name=Untitled
 Pos=73422.3,1195.72,57693.7
 Orient=0,0.333487,0,0.942755
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091406
@@ -106,6 +109,7 @@ Name=Untitled
 Pos=73381.1,1196.13,57580
 Orient=0,0,0,1
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091408
@@ -114,6 +118,8 @@ Name=Untitled
 Pos=73159.7,1109.25,57346.7
 Orient=0,0.539632,0,0.841901
 Scale=1,1,1
+spawnPackage=wastecult_creature
+wanderRadius=55
 
 [ENTRY]
 ID=1091427
@@ -122,6 +128,7 @@ Name=Untitled
 Pos=73348.8,1170.29,57445
 Orient=0,0.859862,0,0.510526
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091429
@@ -130,14 +137,39 @@ Name=Untitled
 Pos=73492.5,1191.89,57422.9
 Orient=0,0.9871,0,0.160104
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
-ID=1133161
-Asset=Environment-Marker?type=Rotted
+ID=1154718
+Asset=Sound?SOUND=Sound-Ambient-Radiation1.ogg&GAIN=1
 Name=
-Pos=73457.9,1196.91,57616.6
+Pos=73135.4,1121.76,57195
+Orient=0,0.948985,0,0.315322
+Scale=1,1,1
+
+[ENTRY]
+ID=1154719
+Asset=Sound?SOUND=Sound-Ambient-Radiation2.ogg&GAIN=1
+Name=
+Pos=73331.6,1152.32,57373
+Orient=0,-0.943622,0,-0.331024
+Scale=1,1,1
+
+[ENTRY]
+ID=1154721
+Asset=Sound?SOUND=Sound-Ambient-Radiation3.ogg&GAIN=1
+Name=
+Pos=73477.7,1219.54,57479.2
 Orient=0,0,0,1
-Scale=5,5,5
+Scale=1,1,1
+
+[ENTRY]
+ID=1154722
+Asset=Sound?SOUND=Sound-Ambient-Radiation3.ogg&GAIN=1
+Name=
+Pos=73497.5,1219.54,57716.5
+Orient=0,0,0,1
+Scale=1,1,1
 
 [ENTRY]
 ID=151020213
@@ -228,14 +260,6 @@ Pos=73205,1104.33,57192
 Orient=0,0.0399893,0,0.9992
 Scale=5.65,5.65,5.65
 Flags=1
-
-[ENTRY]
-ID=151026560
-Asset=Prop-Fog_Green
-Name=Untitled
-Pos=72797,1131.62,57319
-Orient=-0.0149964,-0.000299969,0.0199964,0.999688
-Scale=2.325,2.325,2.325
 
 [ENTRY]
 ID=151026571
