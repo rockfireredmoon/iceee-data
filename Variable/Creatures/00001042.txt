@@ -1,0 +1,17 @@
+[ENTRY]
+ID=1042
+defHints=64
+appearance=c2:{["a"]=[{["type"]="Armor-Base1A-Left_Pauldron",["colors"]=[],["effect"]="Par-WE-2hSword-Blue",["node"]="left_shoulder"},{["type"]="Item-1hSword-Epic3",["node"]="right_hand",["colors"]=["BFBFBF","7F7F6A","941400","FFFD00","FFFD00","BF0000"]}],["c"]={["boots"]={["type"]="Armor-CC-Clothing8",["colors"]=["4c3a2f","6a4639","696248","806b3e","ad6b33"]},["chest"]={["type"]="Armor-CC-Clothing8",["colors"]=[]},["leggings"]={["type"]="Armor-CC-Clothing8",["colors"]=[]},["belt"]={["type"]="Armor-Medium-Low6",["colors"]=[]},["collar"]={["type"]="Armor-Medium-Low6",["colors"]=[]},["arms"]={["type"]="Armor-Medium-Low6",["colors"]=[]}},["b"]="m",["sk"]={["wood"]="AA7342",["crest"]="6A6A34",["eyes"]="4650E9",["foliage"]="6A6A34",["fringe"]="6A6A34"},["sz"]="1",["h"]=0,["es"]="1",["g"]="m",["r"]="q",["ts"]="1"}
+level=1
+display_name=Nicholai Stutterfail
+will_regen=1
+might_regen=1
+sub_name=Craft Artisan
+size=1
+profession=1
+creature_category=Mortal
+rarity=2
+ai_package=example
+mod_casting_speed=1.4013e-45
+health_regen=1
+max_health_pc=100

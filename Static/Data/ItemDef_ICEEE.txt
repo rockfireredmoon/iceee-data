@@ -501,6 +501,70 @@ mMinUseLevel=1
 Params=credits=1000&heroism=100
 
 [ENTRY]
+mID=8118
+mType=5
+mDisplayName=New Tranquil Spring Grove
+mAppearance=[{}]
+mIcon=Icon-32-Grove3.png|Icon-32-BG-Blue.png
+mIvType1=1
+mIvMax1=1
+mLevel=1
+mBindingType=1
+mValue=1
+mFlavorText=Double click to open!
+mQualityLevel=3
+mMinUseLevel=10
+mUseAbilityId=27104
+
+[ENTRY]
+mID=8119
+mType=5
+mDisplayName=New Forest Clearing Grove
+mAppearance=[{}]
+mIcon=Icon-32-Grove3.png|Icon-32-BG-Blue.png
+mIvType1=1
+mIvMax1=1
+mLevel=1
+mBindingType=1
+mValue=1
+mFlavorText=Double click to open!
+mQualityLevel=3
+mMinUseLevel=10
+mUseAbilityId=27105
+
+[ENTRY]
+mID=8120
+mType=5
+mDisplayName=New Ancient Atoll Grove
+mAppearance=[{}]
+mIcon=Icon-32-Grove3.png|Icon-32-BG-Blue.png
+mIvType1=1
+mIvMax1=1
+mLevel=1
+mBindingType=1
+mValue=1
+mFlavorText=Double click to open!
+mQualityLevel=3
+mMinUseLevel=10
+mUseAbilityId=27106
+
+[ENTRY]
+mID=8121
+mType=5
+mDisplayName=New Desert Oasis Grove
+mAppearance=[{}]
+mIcon=Icon-32-Grove3.png|Icon-32-BG-Blue.png
+mIvType1=1
+mIvMax1=1
+mLevel=1
+mBindingType=1
+mValue=1
+mFlavorText=Double click to open!
+mQualityLevel=3
+mMinUseLevel=10
+mUseAbilityId=27107
+
+[ENTRY]
 mID=8200
 mType=2
 mDisplayName=Searoxinohn
@@ -526,23 +590,21 @@ mFlavorText=Searoxinohn's origins aren't entirely known. Named after its owner t
 mID=8201
 mType=2
 mDisplayName=Excalibur
-mAppearance=[{["a"]={["type"]="Item-1hMace-Epic4",["colors"]=["AFB1D4","AAA91A","FFFFFF","2147DF","00FF0F"],["effect"]="Par-WE-1hMace-Yellow",["node"]="left_hand"}},null]
+mAppearance=[{["a"]={["type"]="Item-1hSword-Epic2",["colors"]=["949494","FFFD00"],["effect"]="Par-WE-1hSword-Yellow",["node"]="left_hand"}},null]
 mIcon=Icon-32-Sword10.png|Icon-32-BG-Yellow.png
 mLevel=50
-mBindingType=2
+mValue=20170
+mMinUseLevel=50
+mQualityLevel=6
 mEquipType=1
-mMeleeCritMod=7.5
-mMagicCritMod=7.5
+mBindingType=2
+mFlavorText=The famous "Sword in the Stone" once destined for King Arthur. Stolen by the Mystarch they performed powerful magic to try and destroy the unmatched weapon.  Although somewhat succeeding the Sword is no long bound to Arthur, however still retains unimaginable powers.
+mBonusConstitution=40
+mBonusDexterity=30
+mBonusStrength=50
 mWeaponType=2
 mWeaponDamageMin=128
 mWeaponDamageMax=185
-mBonusStrength=50
-mBonusDexterity=30
-mBonusConstitution=40
-mValue=20170
-mQualityLevel=6
-mMinUseLevel=50
-mFlavorText=The famous "Sword in the Stone" once destined for King Arthur. Stolen by the Mystarch they performed powerful magic to try and destroy the unmatched weapon.  Although somewhat succeeding the Sword is no long bound to Arthur, however still retains unimaginable powers.
 
 [ENTRY]
 mID=8202
@@ -653,20 +715,41 @@ mID=8207
 mType=2
 mDisplayName=Perfect Storm
 mAppearance=[{["a"]={["type"]="Item-Staff-Epic5",["effect"]="Par-WE-Staff-Green",["colors"]=["555555","3C407F","00FF0F","978F97","009409"]}},null]
-mIcon=Icon-32-Axe10.png|Icon-32-BG-Yellow.png
+mIcon=Icon-32-Staff6.png|Icon-32-BG-Yellow.png
 mLevel=50
-mBindingType=2
+mValue=22651
+mMinUseLevel=50
+mQualityLevel=6
 mEquipType=5
-mWeaponType=3
-mWeaponDamageMin=184
-mWeaponDamageMax=240
+mBindingType=2
+mFlavorText=A staff of unimaginable power the crystal shards the gravitate around the staff are said to come from a different plain entirely powers from beyond this world pulsate through arcane powerhouse. Rumor has it the wielder of Perfect Storm can control the weather using its power.
+mBonusConstitution=35
 mBonusPsyche=52
 mBonusSpirit=45
-mBonusConstitution=35
-mValue=22651
-mQualityLevel=6
+mWeaponType=4
+mWeaponDamageMin=184
+mWeaponDamageMax=240
+
+[ENTRY]
+mID=8208
+mType=2
+mDisplayName=Merlins Wand
+mAppearance=[{["a"]={["type"]="Item-Wand-Epic3",["colors"]=["949494","FFFD00"],["effect"]="Par-WE-1hSword-Yellow",["node"]="left_hand"}},null]
+mIcon=Icon-32-Ability-W_Wand_Weapons_S.png|Icon-32-BG-Yellow.png
+mLevel=50
+mValue=20170
 mMinUseLevel=50
-mFlavorText=A staff of unimaginable power the crystal shards the gravitate around the staff are said to come from a different plain entirely powers from beyond this world pulsate through arcane powerhouse. Rumor has it the wielder of Perfect Storm can control the weather using its power.
+mQualityLevel=6
+mEquipType=6
+mBindingType=2
+mFlavorText=This wand was owned by Merlin, it was believed to be made of English oak. It is unconfirmed whether he made it himself or bought it. He did not always use it as he could perform Wandless magic.
+mBonusConstitution=40
+mBonusDexterity=30
+mBonusPsyche=75
+mBonusSpirit=100
+mWeaponType=5
+mWeaponDamageMin=128
+mWeaponDamageMax=185
 
 [ENTRY]
 mID=8300
@@ -1009,12 +1092,11 @@ mEquipType=8
 mFlavorText=It's Really Strong
 mBonusConstitution=9999
 mArmorType=4
-mArmorResistMelee=20000
-mArmorResistFire=20000
-mArmorResistFrost=20000
-mArmorResistMystic=20000
-mArmorResistDeath=20000
-mFlavorText=It's Really Strong
+mArmorResistMelee=6553
+mArmorResistFire=6553
+mArmorResistFrost=6553
+mArmorResistMystic=6553
+mArmorResistDeath=6553
 
 [ENTRY]
 mID=8502

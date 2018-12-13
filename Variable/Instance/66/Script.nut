@@ -16,7 +16,7 @@
 	author = "Emerald Icemoon",
 	description = "Handles the final fight!",
 	queue_events = true,
-	vm_size = 4098
+	vm_size = 8096
 }
 
 // Supporting classes
@@ -48,6 +48,8 @@ class TargetPos {
 
 // Abilities
 const HEALING_SCREAM = 24009;
+const HEALING_SCREAM_FIRST = 24013;
+const HEALING_SCREAM_SECOND = 24014;
 const SELF_STUN = 24008;
 const TRIBUTE = 24005;
 const BRINGING_DOWN_THE_HOUSE = 24006;
@@ -144,7 +146,7 @@ finished <- false;
 
 // Debug
 no_adds <- false;
-debug <- true;
+debug <- false;
 verbose_debug <- false;
 manual_trigger <- false;
 
@@ -301,7 +303,7 @@ function valkal_2_engage() {
 					
         		heal(cid_valkal2, 100, function() {
         			valkal2_health();
-        		});
+        		}, HEALING_SCREAM);
         		return; 
         	}
         }
@@ -313,11 +315,11 @@ function valkal_2_engage() {
 
 /* Keeping a creature self healing until they gets to a limit, then queue
  * another function */
-function heal(cid, limit, on_healed) {
+function heal(cid, limit, on_healed, ability) {
 	if(inst.get_health_pc(cid) < limit) {
-    	inst.creature_use(cid, HEALING_SCREAM);
+    	inst.creature_use(cid, ability);
     	inst.exec(function() {
-    		heal(cid, limit, on_healed);
+    		heal(cid, limit, on_healed, ability);
     	});
     }
     else
@@ -326,12 +328,12 @@ function heal(cid, limit, on_healed) {
 
 /* Starts the sequence of Valkal 1 running from the fight his platform to
    heal. */
-function valkal_1_heal_sequence() {
+function valkal_1_heal_sequence(ability) {
     if(debug)
 		inst.info("Heal sequence");
     disengage_valkal(cid_valkal1);
 	inst.walk_then(cid_valkal1, loc_platform_centre, loc_platform_rot, CREATURE_JOG_SPEED, 0, function(res) {
-        heal(cid_valkal1, 95, valkal_1_engage); 
+        heal(cid_valkal1, 95, valkal_1_engage, ability); 
 	});
 }
 
@@ -348,7 +350,7 @@ function valkal_2_heal_sequence(spawns) {
         	if(debug)
         		inst.info("Looking for spot to walk to");
        		valkal_2_pick_spot(spawns);
-        }); 
+        }, HEALING_SCREAM); 
 	});
 }
 
@@ -459,7 +461,8 @@ function tribute() {
         if(debug)
         	inst.info("Valkal home");
         inst.queue(function() {
-        	inst.info("Finding targets");
+        	if(debug)
+        		inst.info("Finding targets");
 	        local targets = inst.get_nearby_creature(300, cid_valkal2, TS_ENEMY_ALIVE, TS_ENEMY_ALIVE, TS_ENEMY_ALIVE);
 	        if(debug) {
 	            foreach(l in targets) {
@@ -467,32 +470,41 @@ function tribute() {
 	            }
 	        }
 	        if(targets.len() > 0) {
-	            local cid = targets[randmodrng(0, targets.len())];
-	            inst.set_target(cid_valkal2, cid);
+	        	local roll = randmodrng(0, targets.len());
 	            if(debug)
-	            	inst.info("Targetted " + inst.get_display_name(cid));
-				
-	            if(!inst.creature_use(cid_valkal2, TRIBUTE)) {
-	            	if(debug)
-	                	inst.info("Failed to tribute " + cid);
+	            	inst.info("Rolled " + roll + " / " + targets.len());
+	            	
+	            local cid = targets[roll];
+	            if(inst.set_target(cid_valkal2, cid)) {
+		            if(debug)
+		            	inst.info("Targetted " + inst.get_display_name(cid));
+		            	
+		            if(!inst.creature_use(cid_valkal2, TRIBUTE)) {
+		            	if(debug)
+		                	inst.info("Failed to tribute " + cid);
+		            }
+		            	
 	            }
 	            else {
-	                inst.queue(function() {
-	            		inst.target_self(cid_valkal2);
-		            	if(inst.creature_use(cid_valkal2, SELF_STUN)) {
-					        inst.queue(function() {
-								inst.leave_combat(cid_valkal2);  
-					            valkal_2_engage();
-					        }, 12000);
-					    }
-		            	else {	     
-							inst.leave_combat(cid_valkal2);
-	            			if(debug)       	
-	                			inst.info("Stunned fail"); 
-					        valkal_2_engage();
-					    }
-		            }, 6000);
+		            if(debug)
+		            	inst.info("Failed to Target " + inst.get_display_name(cid));
 	            }
+                inst.queue(function() {
+            		inst.target_self(cid_valkal2);
+	            	if(inst.creature_use(cid_valkal2, SELF_STUN)) {
+				        inst.queue(function() {
+							inst.leave_combat(cid_valkal2);  
+				            valkal_2_engage();
+				        }, 12000);
+				    }
+	            	else {	     
+						inst.leave_combat(cid_valkal2);
+            			if(debug)       	
+                			inst.info("Stunned fail"); 
+				        valkal_2_engage();
+				    }
+	            }, 6000);
+
 	        }
 	        else {
 	            if(debug)       	
@@ -599,7 +611,7 @@ function valkal1_health() {
 		tod("Sunset");
     	valkal1_full_health_count = 0;
     	
-	    if(health <= 5 && phase < 9) {
+	    if(health <= 10 && phase < 9) {
 	        // Flee and leave this loop
 	        if(debug)
 	        	inst.info("Flee!");
@@ -629,7 +641,7 @@ function valkal1_health() {
 	        if(debug)
 	        	inst.info("Heal 2");
 	        phase = 5;
-	        valkal_1_heal_sequence();
+	        valkal_1_heal_sequence(HEALING_SCREAM_SECOND);
 			spawn_adds(valkal_1_palatine_adds.len() / 2, valkal_1_palatine_adds);
 	        return;
 	    }
@@ -643,7 +655,7 @@ function valkal1_health() {
 	        if(debug)
 	        	inst.info("Heal 1");
 	        phase = 3;
-	        valkal_1_heal_sequence();
+	        valkal_1_heal_sequence(HEALING_SCREAM_FIRST);
 			spawn_adds(valkal_1_palatine_adds.len() / 2, valkal_1_palatine_adds);
 	        return;
 	    }
@@ -786,11 +798,11 @@ function on_kill(cdefid, cid) {
 	}
 	else if(cdefid == CDEF_VAJ_1) {
 		death_toll.append(cid);
-   		inst.creature_chat(cid_valkal1, "s/", "No! This cannot be! My son ..");
+   		inst.creature_chat(cid_valkal2, "s/", "No! This cannot be! My son ..");
 	}
 	else if(cdefid == CDEF_VAJ_2) {
 		death_toll.append(cid);
-   		inst.creature_chat(cid_valkal1, "s/", "You .. you will pay .. I swear ...");
+   		inst.creature_chat(cid_valkal2, "s/", "You .. you will pay .. I swear ...");
 	}
 	
 }

@@ -739,6 +739,7 @@ Spawn=660,50  ;Verdant Snaptrap (33) at 1
 Name=4_ewd_waywardMurkflyCamps
 Spawn=1027,50  ;Wayward Murkfly (32) at 3
 Spawn=1030,50  ;Wayward Murkfly (33) at 2
+wanderRadius=200
 
 [ENTRY]
 Name=4_ewd_nilus
@@ -996,7 +997,6 @@ Spawn=1119,100  ;Black Shroomling Spore Cropper (38) at 0
 
 [ENTRY]
 Name=4_hwo_greysunMix_35
-loyaltyRadius=120
 spawnDelay=300
 Spawn=1090,50  ;Greysun Assassin (35) at 0
 Spawn=1091,50  ;Greysun Brawler (35) at 0
@@ -1004,13 +1004,11 @@ Spawn=1091,50  ;Greysun Brawler (35) at 0
 ; TODO: is this a boss? it has 3 spawn points
 [ENTRY]
 Name=4_hwo_greysun_GalenFrostfist_h_35
-loyaltyRadius=120
 spawnDelay=300
 Spawn=1092,100  ;Galen Frostfist (35) at 18
 
 [ENTRY]
 Name=4_hwo_greysunAssassin_35
-loyaltyRadius=120
 spawnDelay=300
 Spawn=1090,100  ;Greysun Assassin (35) at 0
 
@@ -1122,11 +1120,15 @@ Spawn=1184,40  ;Stumpslayer Pyreguard (42) at 0
 Spawn=950,10  ;Stump Slayer (42) at 0
 Spawn=951,10  ;Stump Slayer (43) at 0
 
-
 [ENTRY]
 Name=4_ewd_greySunMix2_35
 spawnDelay=300
-loyaltyRadius=120
+Spawn=1093,50  ;Greysun Armsman (35) at 0
+Spawn=1094,50  ;Greysun Brigand (35) at 0
+
+[ENTRY]
+Name=4_ewd_greySunMix2_35_nowander
+spawnDelay=300
 Spawn=1093,50  ;Greysun Armsman (35) at 0
 Spawn=1094,50  ;Greysun Brigand (35) at 0
 
@@ -2372,14 +2374,15 @@ Spawn=510,25  ;Knife Twirler (27) at 0
 Spawn=2276,25  ;Sea Charmer (26) at 0
 Spawn=2277,25  ;Beach Brute (27) at 0
 
-; TODO: need a divider since they're spawning near the warpig camp
 [ENTRY]
 Name=2a_rhl_madCowCamp_general
-Spawn=540,25  ;Madcow Basher (24) at 0
-Spawn=541,25  ;Madcow Mootilator (26) at 0
-Divide=67144,1,51
-Spawn=3117,25  ;Warpig Brewmaster (25)
-Spawn=3118,25  ;Warpig Brewslinker (26)
+Spawn=540,50  ;Madcow Basher (24) at 0
+Spawn=541,50  ;Madcow Mootilator (26) at 0
+
+[ENTRY]
+Name=2a_rhl_dunkelhimerBrewery_general
+Spawn=3117,50  ;Warpig Brewmaster (25)
+Spawn=3118,50  ;Warpig Brewslinker (26)
 
 [ENTRY]
 Name=2a_rhl_dunkelhimerBrewery_outside

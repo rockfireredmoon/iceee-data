@@ -1344,7 +1344,7 @@ Cost=5300
 Name=henge_sanct_grunes
 Type=henge
 ObjectID=3599
-WarpTo=50711,930,60757,9
+WarpTo=57009,902,60760,9
 Message=Grunes Tal
 Cost=6300
 Facing=252
@@ -1489,9 +1489,10 @@ Message=Exit To Valkals Blood Keep
 Name=swineland_to_valkals_blood_keep
 Type=warp
 ObjectID=7866
-Facing=64
 WarpTo=676,660,2791,66
 Message=Entering Valkals Blood Keep
+Facing=64
+Quest=943
 
 [ENTRY]
 Name=valkals_blood_keep_to_swineland
@@ -1563,3 +1564,9 @@ ObjectID=7876
 WarpTo=74318,885,50938,9
 Message=Exiting To Swineland
 Facing=50
+
+[ENTRY]
+Name=open_dungeon_scaler
+Type=scalepoint
+ObjectID=7886
+Message=Opening Dungeon Scale...

@@ -865,9 +865,6 @@ will_regen=1
 might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
-
-
-
 channeling_break_chance=500
 appearance=c2:{["a"]=[{["type"]="Item-Dagger-Basic5",["node"]="right_hand"}],["h"]=1,["c"]={["leggings"]={["type"]="Armor-CC-Clothing1",["colors"]=["293f2a","3f2105","ffaf16"]},["boots"]={["type"]="Armor-CC-Clothing1",["colors"]=["293f2a","3f2105","ffaf16"]},["chest"]={["type"]="Armor-CC-Clothing1",["colors"]=["293f2a","3f2105","ffaf16"]}},["b"]="n",["sk"]={["hair"]="843C2B",["leg_patches"]="843C2B",["chest_patch"]="974632",["tusks"]="C8BBA5",["eye_white"]="ADADAD",["nails"]="63594E",["base"]="847668",["inner_ear"]="994936",["eye"]="B18B65",["eye_brows"]="994936",["snout"]="994936",["arm_patches"]="6E3325"},["g"]="m",["r"]="k"}
 level=16
@@ -3171,6 +3168,7 @@ damage_resist_death=6000
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
+appearance=n4:{["c"]="Boss-Dragon",["sz"]="2.5"}
 level=55
 display_name=Fengarian
 profession=2
@@ -3179,7 +3177,6 @@ rarity=3
 base_damage_melee=300
 base_health=20000
 ai_package=example
-total_size=2
 
 [ENTRY]
 ID=124
@@ -25696,20 +25693,16 @@ total_size=5
 
 [ENTRY]
 ID=1095
-ExtraData=namedmob=1
 strength=55
 dexterity=71
 constitution=80
 psyche=89
 spirit=100
-base_damage_melee=126
 damage_resist_melee=1565
 damage_resist_fire=1565
 damage_resist_frost=1252
 damage_resist_mystic=1173
 damage_resist_death=1565
-will_regen=1
-might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
@@ -25719,7 +25712,9 @@ display_name=Ezra Darktouch
 sub_name=Greysun Captain
 profession=5
 creature_category=Mortal
-rarity=1
+rarity=2
+base_damage_melee=126
+ExtraData=namedmob=
 ai_package=druid_bow_brave_6
 total_size=5
 
@@ -31683,55 +31678,51 @@ appearance=n4:{["sk"]={["stinger"]="FFFFFF",["eyes"]="FF2300",["shell"]="7F1100"
 
 [ENTRY]
 ID=1366
-strength=195
-dexterity=195
-constitution=220
-psyche=150
-spirit=150
-base_damage_melee=218
+strength=210
+dexterity=210
+constitution=275
+psyche=220
+spirit=220
 damage_resist_melee=4250
 damage_resist_fire=4250
 damage_resist_frost=4250
 damage_resist_mystic=4250
 damage_resist_death=4250
-will_regen=1
-might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
+appearance=n4:{["a"]=[{["type"]="Armor-Base1A-Right_Pauldron",["node"]="right_shoulder",["colors"]=["940D0D","940D0D","BFBF9F"]},{["type"]="Armor-Base1A-Left_Pauldron",["node"]="left_shoulder",["colors"]=["940D0D","940D0D","BFBF9F"]},{["type"]="Item-1hMace-Epic4",["colors"]=["5F6878","A79C80","D17F19","2147DF","56FEFF"],["effect"]="Par-WE-1hMace-Fire",["node"]="right_hand"},{["type"]="Item-1hMace-High3",["node"]="left_hand",["colors"]=["71856E","EBAF20","652C2C","816F2B"]}],["c"]="Horde-Vampire_Bloodletter",["sk"]={["accent1"]="7F0000",["skin"]="7986AD",["cloth"]="000000",["eye"]="ED1C24",["accent2"]="590E0E",["mouth"]="A87077",["teeth"]="A99D94"},["sz"]="1.4"}
 level=50
 display_name=Palatine Guard
 profession=2
 creature_category=Unliving
 rarity=1
-ai_package=4_knight_30
-appearance=n4:{["a"]=[{["type"]="Armor-Base1A-Right_Pauldron",["node"]="right_shoulder",["colors"]=["940D0D","940D0D","BFBF9F"]},{["type"]="Armor-Base1A-Left_Pauldron",["node"]="left_shoulder",["colors"]=["940D0D","940D0D","BFBF9F"]},{["type"]="Item-1hMace-Epic4",["colors"]=["5F6878","A79C80","D17F19","2147DF","56FEFF"],["effect"]="Par-WE-1hMace-Fire",["node"]="right_hand"},{["type"]="Item-1hMace-High3",["node"]="left_hand",["colors"]=["71856E","EBAF20","652C2C","816F2B"]}],["c"]="Horde-Vampire_Bloodletter",["sk"]={["accent1"]="7F0000",["skin"]="7986AD",["cloth"]="000000",["eye"]="ED1C24",["accent2"]="590E0E",["mouth"]="A87077",["teeth"]="A99D94"},["sz"]="1.4"}
+base_damage_melee=295
+ai_package=custom_heathendel_knight40
 
 [ENTRY]
 ID=1367
-strength=195
-dexterity=195
-constitution=220
-psyche=150
-spirit=150
-base_damage_melee=218
+strength=220
+dexterity=220
+constitution=275
+psyche=220
+spirit=220
 damage_resist_melee=4250
 damage_resist_fire=4250
 damage_resist_frost=4250
 damage_resist_mystic=4250
 damage_resist_death=4250
-will_regen=1
-might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
+appearance=n4:{["a"]=[{["type"]="Armor-Base1A-Right_Pauldron",["node"]="right_shoulder",["colors"]=["940D0D","940D0D","BFBF9F"]},{["type"]="Armor-Base1A-Left_Pauldron",["node"]="left_shoulder",["colors"]=["940D0D","940D0D","BFBF9F"]},{["type"]="Item-1hMace-Epic4",["colors"]=["5F6878","A79C80","D17F19","2147DF","56FEFF"],["effect"]="Par-WE-1hMace-Fire",["node"]="right_hand"},{["type"]="Item-1hMace-High3",["node"]="left_hand",["colors"]=["71856E","EBAF20","652C2C","816F2B"]}],["c"]="Horde-Vampire_Bloodletter",["sk"]={["accent1"]="7F0000",["skin"]="7986AD",["cloth"]="000000",["eye"]="ED1C24",["accent2"]="590E0E",["mouth"]="A87077",["teeth"]="A99D94"},["sz"]="1.4"}
 level=50
 display_name=Palatine Guard
 profession=2
 creature_category=Unliving
 rarity=1
-ai_package=4_knight_30
-appearance=n4:{["a"]=[{["type"]="Armor-Base1A-Right_Pauldron",["node"]="right_shoulder",["colors"]=["940D0D","940D0D","BFBF9F"]},{["type"]="Armor-Base1A-Left_Pauldron",["node"]="left_shoulder",["colors"]=["940D0D","940D0D","BFBF9F"]},{["type"]="Item-1hMace-Epic4",["colors"]=["5F6878","A79C80","D17F19","2147DF","56FEFF"],["effect"]="Par-WE-1hMace-Fire",["node"]="right_hand"},{["type"]="Item-1hMace-High3",["node"]="left_hand",["colors"]=["71856E","EBAF20","652C2C","816F2B"]}],["c"]="Horde-Vampire_Bloodletter",["sk"]={["accent1"]="7F0000",["skin"]="7986AD",["cloth"]="000000",["eye"]="ED1C24",["accent2"]="590E0E",["mouth"]="A87077",["teeth"]="A99D94"},["sz"]="1.4"}
+base_damage_melee=265
+ai_package=custom_heathendel_knight40
 
 [ENTRY]
 ID=1368
@@ -32173,16 +32164,16 @@ ai_package=knight_brave_6
 
 [ENTRY]
 ID=1385
-strength=250
-dexterity=250
+strength=325
+dexterity=325
 constitution=500
-psyche=250
-spirit=250
-damage_resist_melee=5500
-damage_resist_fire=5500
-damage_resist_frost=5500
-damage_resist_mystic=5500
-damage_resist_death=5500
+psyche=325
+spirit=325
+damage_resist_melee=6500
+damage_resist_fire=6500
+damage_resist_frost=6500
+damage_resist_mystic=6500
+damage_resist_death=6500
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
@@ -32193,9 +32184,10 @@ sub_name=The Eternal
 profession=5
 creature_category=Unliving
 rarity=3
-base_damage_melee=250
+base_damage_melee=422
 ai_package=custom_heathendel_deathdruid40
 total_size=2
+min_health_pc=5
 
 [ENTRY]
 ID=1386
@@ -32712,24 +32704,22 @@ dexterity=85
 constitution=125
 psyche=107
 spirit=125
-base_damage_melee=155
 damage_resist_melee=2194
 damage_resist_fire=2194
 damage_resist_frost=2194
 damage_resist_mystic=2194
 damage_resist_death=2194
-will_regen=1
-might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
+appearance=n4:{["sk"]={["base"]="7259E9",["eyes"]="FFFD00",["stripes"]="BFBFBF"},["c"]="Horde-Skrill-Worker",["sz"]=".8"}
 level=48
 display_name=Skrill Hivedrone
-profession=5
+profession=2
 creature_category=Mortal
 rarity=1
+base_damage_melee=155
 ai_package=4_druid_range_30
-appearance=n4:{["sk"]={["base"]="7259E9",["eyes"]="FFFD00",["stripes"]="BFBFBF"},["c"]="Horde-Skrill-Worker",["sz"]=".8"}
 total_size=5
 
 [ENTRY]
@@ -32744,15 +32734,13 @@ damage_resist_fire=2292
 damage_resist_frost=2292
 damage_resist_mystic=2292
 damage_resist_death=2292
-will_regen=1
-might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
 appearance=n4:{["sk"]={["stripe2"]="b78338",["skin"]="5c5e46",["wings"]="abc8c6",["stripe1"]="921101"},["c"]="Horde-Skrill-Trooper",["sz"]="1.2"}
 level=49
 display_name=Skrill Hivedrone
-profession=5
+profession=2
 creature_category=Mortal
 rarity=1
 base_damage_melee=164
@@ -32770,15 +32758,13 @@ damage_resist_fire=2341
 damage_resist_frost=2341
 damage_resist_mystic=2341
 damage_resist_death=2341
-will_regen=1
-might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
 appearance=n4:{["sk"]={["stripe2"]="b78338",["skin"]="5c5e46",["wings"]="abc8c6",["stripe1"]="464b94"},["c"]="Horde-Skrill-Trooper",["sz"]="1.2"}
 level=50
 display_name=Skrill Hivedrone
-profession=5
+profession=2
 creature_category=Mortal
 rarity=1
 base_damage_melee=169
@@ -68342,7 +68328,7 @@ might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
-appearance=c2:{["a"]=[{["type"]="Item-Dagger-High1",["node"]="right_hand"},{["type"]="Item-Dagger-Medium1",["node"]="left_hand",["colors"]=["5A6268","F26522","9D0A0E"]}],["c"]={["boots"]={["type"]="Armor-Light-High1",["colors"]=["292a3f","603913","baae95","9e0b0f","d8ccb3"]},["leggings"]={["type"]="Armor-Light-High1",["colors"]=["292a3f","603913","baae95","9e0b0f","d8ccb3"]},["belt"]={["type"]="Armor-Light-High1",["colors"]=["292a3f","603913","baae95","9e0b0f","d8ccb3"]},["chest"]={["type"]="Armor-Light-High1",["colors"]=["292a3f","603913","baae95","9e0b0f","d8ccb3"]}},["b"]="n",["sk"]={["eyeball"]="808080",["body_tat"]="7E855B",["body_spots"]="7E855B",["hair_highlight"]="EAB749",["arm_tat"]="7E855B",["lips"]="697261",["skin"]="48552F",["pupil"]="2B2B2B",["face_tat"]="B98947",["eye"]="537689",["hair"]="BF4538",["horns"]="A6A6A6",["fur"]="7F571F"},["sz"]="1.5",["h"]=0,["g"]="f",["r"]="p"}
+appearance=c2:{["a"]=[{["type"]="Item-Dagger-High1",["node"]="right_hand"},{["type"]="Item-Dagger-Medium1",["node"]="left_hand",["colors"]=["5A6268","F26522","9D0A0E"]}],["c"]={["boots"]={["type"]="Armor-Light-High1",["colors"]=["292a3f","603913","baae95","9e0b0f","d8ccb3"]},["leggings"]={["type"]="Armor-Light-High1",["colors"]=["292a3f","603913","baae95","9e0b0f","d8ccb3"]},["belt"]={["type"]="Armor-Light-High1",["colors"]=["292a3f","603913","baae95","9e0b0f","d8ccb3"]},["chest"]={["type"]="Armor-Light-High1",["colors"]=["292a3f","603913","baae95","9e0b0f","d8ccb3"]}},["b"]="n",["sk"]={["eyeball"]="808080",["body_tat"]="7E855B",["body_spots"]="7E855B",["hair_highlight"]="EAB749",["arm_tat"]="7E855B",["lips"]="697261",["skin"]="48552F",["pupil"]="2B2B2B",["face_tat"]="B98947",["eye"]="537689",["hair"]="BF4538",["horns"]="A6A6A6",["fur"]="7F571F"},["sz"]="1.5",["h"]=0,["g"]="f",["r"]="o"}
 level=35
 display_name=Keyt
 sub_name=Overseer
@@ -68371,7 +68357,7 @@ might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
-appearance=c2:{["a"]=[{["type"]="Item-Wand-High5",["node"]="right_hand"}],["c"]={["leggings"]={["type"]="Armor-Cloth-High3",["colors"]=["2c9dd9","4e4657","dedfe1","c45f0f","feb22b","2c4661"]},["belt"]={["type"]="Armor-Cloth-High3",["colors"]=["2c9dd9","4e4657","dedfe1","c45f0f","feb22b","2c4661"]},["chest"]={["type"]="Armor-Cloth-High3",["colors"]=[]}},["b"]="n",["sk"]={["plates"]="675757",["eyeball"]="999999",["body_tattoo"]="713B3B",["nails"]="4D4141",["arm_tattoo"]="713B3B",["horns"]="674B4B",["head_tattoo"]="713B3B",["leg_tattoo"]="713B3B",["eye"]="43A364",["horn_tips"]="7B6558",["skin"]="3F2105",["teeth"]="BABABA"},["sz"]="1.5",["h"]=0,["g"]="m",["r"]="e"}
+appearance=c2:{["a"]=[{["type"]="Item-Wand-High5",["node"]="right_hand"}],["c"]={["leggings"]={["type"]="Armor-Cloth-High3",["colors"]=["2c9dd9","4e4657","dedfe1","c45f0f","feb22b","2c4661"]},["belt"]={["type"]="Armor-Cloth-High3",["colors"]=["2c9dd9","4e4657","dedfe1","c45f0f","feb22b","2c4661"]},["chest"]={["type"]="Armor-Cloth-High3",["colors"]=[]}},["b"]="n",["sk"]={["plates"]="675757",["eyeball"]="999999",["body_tattoo"]="713B3B",["nails"]="4D4141",["arm_tattoo"]="713B3B",["horns"]="674B4B",["head_tattoo"]="713B3B",["leg_tattoo"]="713B3B",["eye"]="43A364",["horn_tips"]="7B6558",["skin"]="3F2105",["teeth"]="BABABA"},["sz"]="1.5",["h"]=0,["g"]="m",["r"]="v"}
 level=35
 display_name=Flammus
 sub_name=Overseer
@@ -69285,7 +69271,7 @@ might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
-appearance=c2:{["a"]=[{["type"]="Item-Wand-High4",["node"]="right_hand",["colors"]=["E9E9E9","848441"]}],["c"]={["boots"]={["type"]="Armor-Cloth-Mid1",["colors"]=["354f5c","ac6432","704525","808c38","608c71"]},["leggings"]={["type"]="Armor-CC-Mage",["colors"]=["354f5c","ac6432","704525","808c38","608c71"]},["belt"]={["type"]="Armor-Cloth-Mid1",["colors"]=["354f5c","ac6432","704525","808c38","608c71"]},["chest"]={["type"]="Armor-CC-Mage",["colors"]=["354f5c","ac6432","704525","808c38","608c71"]}},["b"]="n",["sk"]={["hair"]="BE892B",["body_tats"]="7E855B",["arm_tats"]="7E855B",["skin"]="517F7F",["head_spots"]="9E9016",["eyeball"]="878787",["horn"]="8E8A6E",["eye_color"]="537EB2",["head_tattoos"]="8F7144",["body_spots"]="7E855B",["teeth"]="808080"},["sz"]="1.5",["h"]=0,["g"]="m",["r"]="p"}
+appearance=c2:{["a"]=[{["type"]="Item-Wand-High4",["node"]="right_hand",["colors"]=["E9E9E9","848441"]}],["c"]={["boots"]={["type"]="Armor-Cloth-Mid1",["colors"]=["354f5c","ac6432","704525","808c38","608c71"]},["leggings"]={["type"]="Armor-CC-Mage",["colors"]=["354f5c","ac6432","704525","808c38","608c71"]},["belt"]={["type"]="Armor-Cloth-Mid1",["colors"]=["354f5c","ac6432","704525","808c38","608c71"]},["chest"]={["type"]="Armor-CC-Mage",["colors"]=["354f5c","ac6432","704525","808c38","608c71"]}},["b"]="n",["sk"]={["hair"]="BE892B",["body_tats"]="7E855B",["arm_tats"]="7E855B",["skin"]="517F7F",["head_spots"]="9E9016",["eyeball"]="878787",["horn"]="8E8A6E",["eye_color"]="537EB2",["head_tattoos"]="8F7144",["body_spots"]="7E855B",["teeth"]="808080"},["sz"]="1.5",["h"]=0,["g"]="m",["r"]="o"}
 level=35
 display_name=Zack Emberfrost
 profession=4
@@ -74021,20 +74007,16 @@ ai_package=knight_brave_6
 
 [ENTRY]
 ID=3403
-strength=23
-dexterity=19
-constitution=23
-psyche=16
-spirit=16
-base_damage_melee=12
-damage_resist_melee=213
-damage_resist_fire=213
-damage_resist_frost=213
-damage_resist_mystic=213
-damage_resist_death=213
-base_health=253
-will_regen=1
-might_regen=1
+strength=15
+dexterity=13
+constitution=18
+psyche=11
+spirit=11
+damage_resist_melee=180
+damage_resist_fire=180
+damage_resist_frost=180
+damage_resist_mystic=180
+damage_resist_death=180
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
@@ -74043,6 +74025,8 @@ level=7
 display_name=Krusty the Crab
 profession=2
 creature_category=Mortal
+base_damage_melee=12
+base_health=253
 ai_package=knight_brave_6
 
 [ENTRY]
@@ -74704,16 +74688,16 @@ total_size=1.2000000476837158
 
 [ENTRY]
 ID=3351
-strength=350
-dexterity=275
-constitution=425
-psyche=225
-spirit=225
-damage_resist_melee=5500
-damage_resist_fire=5500
-damage_resist_frost=5500
-damage_resist_mystic=5500
-damage_resist_death=5500
+strength=325
+dexterity=325
+constitution=500
+psyche=325
+spirit=325
+damage_resist_melee=8000
+damage_resist_fire=8000
+damage_resist_frost=8000
+damage_resist_mystic=8000
+damage_resist_death=8000
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
@@ -74724,9 +74708,10 @@ sub_name=The Eternal
 profession=2
 creature_category=Unliving
 rarity=3
-base_damage_melee=300
+base_damage_melee=422
 ai_package=custom_heathendel_deathdruid40
 total_size=2
+ExtraData=namedmob=&droprateprofile=bloodkeep_valkal
 
 [ENTRY]
 ID=3454
@@ -76219,7 +76204,7 @@ ID=3543
 appearance=p1:{["a"]="Prop-Notice_Board",["sz"]="1.0"}
 level=55
 display_name=Weekly
-sub_name=God's of Europe
+sub_name=Gods of Europe
 profession=5
 creature_category=Inanimate
 rarity=0
@@ -76426,6 +76411,7 @@ creature_category=Divine
 rarity=1
 base_damage_melee=60
 base_health=300
+
 [ENTRY]
 defHints=48
 ID=3553
@@ -76490,6 +76476,28 @@ ID=3559
 appearance=p1:{["a"]="Prop-Crystal_Yellow_Small1",["sz"]="0.5"}
 level=1
 display_name=Yellow Crystal
+profession=1
+creature_category=Inanimate
+ai_package=nothing
+
+[ENTRY]
+defHints=48
+ID=3560
+appearance=c2:{["sz"]="1.0",["g"]="m",["h"]=0,["r"]="y",["b"]="n",["c"]={["boots"]={["type"]="Armor-Cloth-Male-Fancy1",["colors"]=["151515","3f3f3f","fcd3b5","e9dbec","151515","151515","6a2112","606af0"]},["leggings"]={["type"]="Armor-Cloth-Male-Fancy2",["colors"]=["2f625d","ffffff","fae29a","4064c4","e9e94c","ffffff","151515","5d1b01"]},["collar"]={["type"]="Armor-Cloth-Female-Fancy2",["colors"]=[]},["chest"]={["type"]="Armor-Exotic-Valentines",["colors"]=["2b2d33","6a5656","fffe53","2a2a2a","e2e7e9"]},["gloves"]={["type"]="Armor-Warrior-Tauranian",["colors"]=["3f3f3f","583748","656fc6","e9a969"]}},["a"]=[{["node"]="right_hand",["type"]="Item-Talisman-Candelabra",["colors"]=[]}],["sk"]={["skin"]="60d4d4",["detail"]="ffffff",["headdetail"]="00bfbf",["hair"]="15e9e9"}}
+level=1
+display_name=Edward Skrinch
+profession=1
+creature_category=Mortal
+rarity=3
+ai_package=nothing
+
+[ENTRY]
+ID=3561
+will_regen=1
+might_regen=1
+appearance=p1:{["a"]="Prop-Chest1"}
+level=1
+display_name=Iron Chest
 profession=1
 creature_category=Inanimate
 ai_package=nothing

@@ -1,0 +1,18 @@
+[ENTRY]
+ID=1037
+defHints=2
+appearance=c2:{["a"]=[{["type"]="Item-Wand-Epic3",["node"]="right_hand",["colors"]=["949494","FFFD00"]}],["c"]={["boots"]={["type"]="Armor-Cloth-Low1",["colors"]=[]},["chest"]={["type"]="Armor-Cloth-Low1",["colors"]=["905eaa","bfbf9f","cd901f","a74755"]},["leggings"]={["type"]="Armor-Cloth-Mid4",["colors"]=["e8d7b9","f6c52e","cd901f","a74755","cfa43c"]},["belt"]={["type"]="Armor-Cloth-Low1",["colors"]=[]},["collar"]={["type"]="Armor-Cloth-Low1",["colors"]=[]},["arms"]={["type"]="Armor-Cloth-Low1",["colors"]=["7c6ba2","905eaa","e8af5e","905eaa"]}},["b"]="n",["sk"]={["wood"]="6A3425",["crest"]="AA351D",["eyes"]="94660D",["foliage"]="AA351D",["fringe"]="AA351D"},["sz"]="1",["h"]=0,["es"]="1",["g"]="f",["r"]="q",["ts"]="1"}
+level=45
+display_name=Gwin Rahmun'd
+will_regen=1
+might_regen=1
+sub_name=General Merchant
+size=1
+profession=1
+creature_category=Mortal
+rarity=2
+ai_package=example
+mod_casting_speed=1.4013e-45
+total_size=5
+health_regen=1
+max_health_pc=100
