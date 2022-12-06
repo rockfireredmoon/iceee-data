@@ -7,3 +7,4 @@ Data\CreatureDef_Restored.txt
 Data\CreatureDef_Pets.txt
 Data\CreatureDef_ICEEE.txt
 Data\CreatureDef_Books.txt
+Data\CreatureDef_Mounts.txt

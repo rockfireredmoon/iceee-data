@@ -1,0 +1,22 @@
+[ENTITY]
+AccountID=0
+Name=Valkals_Bloodkeep
+Desc=
+TerrainConfig=
+EnvironmentType=Bloodkeep
+MapName=
+Regions=
+GroveName=
+TimeOfDay=
+WarpName=Valkals Bloodkeep
+DropRateProfile=bloodkeep
+Grove=0
+Instance=1
+Persist=0
+GuildHall=0
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+DefLoc=701,660,2794

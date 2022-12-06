@@ -1,0 +1,7069 @@
+[CATEGORY]
+NAME=Props
+
+; First Level
+
+[CATEGORY]
+NAME=Nature
+PARENT=Props
+
+[CATEGORY]
+NAME=Architecture
+PARENT=Props
+
+[CATEGORY]
+NAME=Furniture
+PARENT=Props
+
+[CATEGORY]
+NAME=Decor
+PARENT=Props
+
+[CATEGORY]
+NAME=Heat & Light
+PARENT=Props
+
+[CATEGORY]
+NAME=Weapons
+PARENT=Props
+
+[CATEGORY]
+NAME=Vehicles
+PARENT=Props
+
+[CATEGORY]
+NAME=Chrystals
+PARENT=Props
+
+[CATEGORY]
+NAME=Other Props
+PARENT=Props
+
+; Second Level
+
+; Second Level - Nature
+
+[CATEGORY]
+NAME=Trees
+PARENT=Nature
+
+[CATEGORY]
+NAME=Creatures
+PARENT=Nature
+
+[CATEGORY]
+NAME=Bushes
+PARENT=Nature
+
+[CATEGORY]
+NAME=Grass & Crops
+PARENT=Nature
+
+[CATEGORY]
+NAME=Flowers
+PARENT=Nature
+
+[CATEGORY]
+NAME=Water
+PARENT=Nature
+
+[CATEGORY]
+NAME=Rocks
+PARENT=Nature
+
+; Second Level - Architecture
+
+[CATEGORY]
+NAME=Bridges
+PARENT=Architecture
+
+[CATEGORY]
+NAME=Fences
+PARENT=Architecture
+
+[CATEGORY]
+NAME=Towers
+PARENT=Architecture
+
+[CATEGORY]
+NAME=Statues
+PARENT=Architecture
+
+[CATEGORY]
+NAME=Walls
+PARENT=Architecture
+
+[CATEGORY]
+NAME=Doors & Windows
+PARENT=Architecture
+
+[CATEGORY]
+NAME=Other Structures
+PARENT=Architecture
+
+; Second Level - Furniture
+
+; Second Level - Decor
+
+; Second Level - Decor
+
+[ITEM]
+NAME=Prop-Acacia_Tree1
+DISPLAY=Acacia Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Acacia_Tree2
+DISPLAY=Acacia Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Acacia_Tree3
+DISPLAY=Acacia Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Acacia_Tree4
+DISPLAY=Acacia Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Acacia_Tree5
+DISPLAY=Acacia Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Acacia_Tree6
+DISPLAY=Acacia Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Acacia_Tree7
+DISPLAY=Acacia Tree7
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Alchemy-Alembic
+DISPLAY=Alchemy Alembic
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Alchemy-Boiler
+DISPLAY=Alchemy Boiler
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Alchemy-Bubbling_Bottle1
+DISPLAY=Alchemy Bubbling Bottle1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Alchemy-Calcinator
+DISPLAY=Alchemy Calcinator
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Alchemy-Kit1
+DISPLAY=Alchemy Kit1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Alchemy-Kit2
+DISPLAY=Alchemy Kit2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Alchemy-Mortar
+DISPLAY=Alchemy Mortar
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Altar1
+DISPLAY=Altar1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Altar2
+DISPLAY=Altar2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Amber_Flow1
+DISPLAY=Amber Flow1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Banner1
+DISPLAY=Anubian Banner1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Catapult
+DISPLAY=Anubian Catapult
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Chariot
+DISPLAY=Anubian Chariot
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Gate
+DISPLAY=Anubian Gate
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Gate_Control
+DISPLAY=Anubian Gate Control
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Large_Tent
+DISPLAY=Anubian Large Tent
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Palisade
+DISPLAY=Anubian Palisade
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Tent1
+DISPLAY=Anubian Tent1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Tent2
+DISPLAY=Anubian Tent2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Anubian_Watchtower
+DISPLAY=Anubian Watchtower
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Anvil
+DISPLAY=Anvil
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Apple
+DISPLAY=Apple
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Arc_de_Triomphe
+DISPLAY=Arc de Triomphe
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Archery_Platform
+DISPLAY=Archery Platform
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Aspen_Forest_Tree1
+DISPLAY=Aspen Forest Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Aspen_Forest_Tree2
+DISPLAY=Aspen Forest Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Aspen_Forest_Tree3
+DISPLAY=Aspen Forest Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Aspen_Forest_Tree4
+DISPLAY=Aspen Forest Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Aspen_Forest_Tree5
+DISPLAY=Aspen Forest Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Aspen_Sapling1
+DISPLAY=Aspen Sapling1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Aspen_Sapling2
+DISPLAY=Aspen Sapling2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Autumn_Hill_Tree1
+DISPLAY=Autumn Hill Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Hill_Tree2
+DISPLAY=Autumn Hill Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Hill_Tree3
+DISPLAY=Autumn Hill Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Hill_Tree4
+DISPLAY=Autumn Hill Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Hill_Tree5
+DISPLAY=Autumn Hill Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Hill_Tree6
+DISPLAY=Autumn Hill Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Tree1
+DISPLAY=Autumn Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Tree2
+DISPLAY=Autumn Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Tree3
+DISPLAY=Autumn Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Tree4
+DISPLAY=Autumn Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Tree5
+DISPLAY=Autumn Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Tree6
+DISPLAY=Autumn Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Autumn_Tree7
+DISPLAY=Autumn Tree7
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Backdrop
+DISPLAY=Backdrop
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bait_Bucket
+DISPLAY=Bait Bucket
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ballista
+DISPLAY=Ballista
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-Camelot1
+DISPLAY=Banner Camelot1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-Camelot2
+DISPLAY=Banner Camelot2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-Camelot3
+DISPLAY=Banner Camelot3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-Camelot4
+DISPLAY=Banner Camelot4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-DOTC
+DISPLAY=Banner DOTC
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner_Old1
+DISPLAY=Banner Old1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner_Old2
+DISPLAY=Banner Old2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner_Old3
+DISPLAY=Banner Old3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner_Post1
+DISPLAY=Banner Post1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner_Post2
+DISPLAY=Banner Post2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-StoneLion1
+DISPLAY=Banner StoneLion1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-Warren1
+DISPLAY=Banner Warren1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-Warren2
+DISPLAY=Banner Warren2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-Warren3
+DISPLAY=Banner Warren3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Banner-Warren4
+DISPLAY=Banner Warren4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bar
+DISPLAY=Bar
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Barrel
+DISPLAY=Barrel
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Barrel2
+DISPLAY=Barrel2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Barrel3
+DISPLAY=Barrel3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Barrel_Broken
+DISPLAY=Barrel Broken
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battleaxe
+DISPLAY=Battleaxe
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Arrows
+DISPLAY=Battlefield Arrows
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Axe
+DISPLAY=Battlefield Axe
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Ballista
+DISPLAY=Battlefield Ballista
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Barricade
+DISPLAY=Battlefield Barricade
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Battlefield_Bolt
+DISPLAY=Battlefield Bolt
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Catapult
+DISPLAY=Battlefield Catapult
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Siege_Tower
+DISPLAY=Battlefield Siege Tower
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Battlefield_Skeleton1
+DISPLAY=Battlefield Skeleton1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Skeleton2
+DISPLAY=Battlefield Skeleton2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Skeleton3
+DISPLAY=Battlefield Skeleton3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Skeleton4
+DISPLAY=Battlefield Skeleton4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Skull1
+DISPLAY=Battlefield Skull1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Skull2
+DISPLAY=Battlefield Skull2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Skull3
+DISPLAY=Battlefield Skull3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Spear
+DISPLAY=Battlefield Spear
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Stone
+DISPLAY=Battlefield Stone
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Stone2
+DISPLAY=Battlefield Stone2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Battlefield_Sword
+DISPLAY=Battlefield Sword
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Battlefield_Tree1
+DISPLAY=Battlefield Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Battlefield_Tree2
+DISPLAY=Battlefield Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Bed1
+DISPLAY=Bed1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bed2
+DISPLAY=Bed2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bedroll
+DISPLAY=Bedroll
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bedroll2
+DISPLAY=Bedroll2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Beehive1
+DISPLAY=Beehive1
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-Bench1
+DISPLAY=Bench1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bench2
+DISPLAY=Bench2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Big_Ben
+DISPLAY=Big Ben
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bird1
+DISPLAY=Bird1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bird2
+DISPLAY=Bird2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bird3
+DISPLAY=Bird3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Birdhouse1
+DISPLAY=Birdhouse1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Blood_Pool
+DISPLAY=Blood Pool
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boat1
+DISPLAY=Boat1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boat-Anubian
+DISPLAY=Boat Anubian
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boat_Bobbing
+DISPLAY=Boat Bobbing
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boat_Canoe1
+DISPLAY=Boat Canoe1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boat-Fishing
+DISPLAY=Boat Fishing
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boat_Parts1
+DISPLAY=Boat Parts1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boat_Parts2
+DISPLAY=Boat Parts2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones1
+DISPLAY=Bones1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones2
+DISPLAY=Bones2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones3
+DISPLAY=Bones3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones_Arm1
+DISPLAY=Bones Arm1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones_Dragon1
+DISPLAY=Bones Dragon1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones_DragonSkull1
+DISPLAY=Bones DragonSkull1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones-Femur
+DISPLAY=Bones Femur
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones-Phalanges
+DISPLAY=Bones Phalanges
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones-Rib
+DISPLAY=Bones Rib
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones_RibsCage1
+DISPLAY=Bones RibsCage1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones-Skull_Monster
+DISPLAY=Bones Skull Monster
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bones-Vertebra
+DISPLAY=Bones Vertebra
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Book
+DISPLAY=Book
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Book1
+DISPLAY=Book1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Book2
+DISPLAY=Book2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Book3
+DISPLAY=Book3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Book4
+DISPLAY=Book4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bookcase
+DISPLAY=Bookcase
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bookcase2
+DISPLAY=Bookcase2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder1
+DISPLAY=Boulder1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder2
+DISPLAY=Boulder2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder3
+DISPLAY=Boulder3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder4
+DISPLAY=Boulder4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder5
+DISPLAY=Boulder5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder6
+DISPLAY=Boulder6
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder7
+DISPLAY=Boulder7
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder8
+DISPLAY=Boulder8
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Arid1
+DISPLAY=Boulder Arid1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Arid2
+DISPLAY=Boulder Arid2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Arid3
+DISPLAY=Boulder Arid3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Arid4
+DISPLAY=Boulder Arid4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Arid5
+DISPLAY=Boulder Arid5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Arid6
+DISPLAY=Boulder Arid6
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Arid7
+DISPLAY=Boulder Arid7
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Scary1
+DISPLAY=Boulder Scary1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Scary2
+DISPLAY=Boulder Scary2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Scary3
+DISPLAY=Boulder Scary3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Scary4
+DISPLAY=Boulder Scary4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Scary5
+DISPLAY=Boulder Scary5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Boulder_Scary6
+DISPLAY=Boulder Scary6
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bow
+DISPLAY=Bow
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Brazier
+DISPLAY=Brazier
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Brazier2
+DISPLAY=Brazier2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Brazier_Blue
+DISPLAY=Brazier Blue
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Brazier_Green
+DISPLAY=Brazier Green
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Brazier_Purple
+DISPLAY=Brazier Purple
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Brazier_Unlit
+DISPLAY=Brazier Unlit
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-BreadCrumbs1
+DISPLAY=BreadCrumbs1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bread_Loaf
+DISPLAY=Bread Loaf
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen-Arch_Center
+DISPLAY=Bremen Arch Center
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen-Arch_Cross
+DISPLAY=Bremen Arch Cross
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen-Arch_Post
+DISPLAY=Bremen Arch Post
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen_Banner1
+DISPLAY=Bremen Banner1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen_Banner2
+DISPLAY=Bremen Banner2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen_Banner3
+DISPLAY=Bremen Banner3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen_River1
+DISPLAY=Bremen River1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen_River2
+DISPLAY=Bremen River2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bremen-Scratching_Post
+DISPLAY=Bremen Scratching Post
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bridge1
+DISPLAY=Bridge1
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Bridge2
+DISPLAY=Bridge2
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Bridge_Broken
+DISPLAY=Bridge Broken
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Bridge-Large_Wooden1
+DISPLAY=Bridge Large Wooden1
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Bridge-Large_Wooden2
+DISPLAY=Bridge Large Wooden2
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Broadsword
+DISPLAY=Broadsword
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Bucket
+DISPLAY=Bucket
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bullrush
+DISPLAY=Bullrush
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burlap_Sack
+DISPLAY=Burlap Sack
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Palm1
+DISPLAY=Burnt Palm1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Palm2
+DISPLAY=Burnt Palm2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Palm3
+DISPLAY=Burnt Palm3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Palm4
+DISPLAY=Burnt Palm4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Palm5
+DISPLAY=Burnt Palm5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Pine1
+DISPLAY=Burnt Pine1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Pine2
+DISPLAY=Burnt Pine2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Pine3
+DISPLAY=Burnt Pine3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Pine4
+DISPLAY=Burnt Pine4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Burnt_Pine5
+DISPLAY=Burnt Pine5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Bush1
+DISPLAY=Bush1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush2
+DISPLAY=Bush2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush3
+DISPLAY=Bush3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush4
+DISPLAY=Bush4
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush5
+DISPLAY=Bush5
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush6
+DISPLAY=Bush6
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush7
+DISPLAY=Bush7
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Arid1
+DISPLAY=Bush Arid1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Arid2
+DISPLAY=Bush Arid2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Arid3
+DISPLAY=Bush Arid3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Arid4
+DISPLAY=Bush Arid4
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Arid5
+DISPLAY=Bush Arid5
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Arid6
+DISPLAY=Bush Arid6
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_AridDead1
+DISPLAY=Bush AridDead1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_AridDead2
+DISPLAY=Bush AridDead2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_AridDead3
+DISPLAY=Bush AridDead3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Large1
+DISPLAY=Bush Burnt Large1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Large2
+DISPLAY=Bush Burnt Large2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Large3
+DISPLAY=Bush Burnt Large3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Med1
+DISPLAY=Bush Burnt Med1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Med2
+DISPLAY=Bush Burnt Med2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Med3
+DISPLAY=Bush Burnt Med3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Small1
+DISPLAY=Bush Burnt Small1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Small2
+DISPLAY=Bush Burnt Small2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Burnt_Small3
+DISPLAY=Bush Burnt Small3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Hedge1
+DISPLAY=Bush Hedge1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Hedge2
+DISPLAY=Bush Hedge2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Hedge3
+DISPLAY=Bush Hedge3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Hedge4
+DISPLAY=Bush Hedge4
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Hedge5
+DISPLAY=Bush Hedge5
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Large1
+DISPLAY=Bush Large1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Large2
+DISPLAY=Bush Large2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Large3
+DISPLAY=Bush Large3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Large_Autumn1
+DISPLAY=Bush Large Autumn1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Large_Autumn2
+DISPLAY=Bush Large Autumn2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Med1
+DISPLAY=Bush Med1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Med2
+DISPLAY=Bush Med2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Med3
+DISPLAY=Bush Med3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Med_Autumn1
+DISPLAY=Bush Med Autumn1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Med_Autumn2
+DISPLAY=Bush Med Autumn2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Rotted1
+DISPLAY=Bush Rotted1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Rotted2
+DISPLAY=Bush Rotted2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Rotted3
+DISPLAY=Bush Rotted3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Rotted4
+DISPLAY=Bush Rotted4
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Rotted5
+DISPLAY=Bush Rotted5
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush_Rotted6
+DISPLAY=Bush Rotted6
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Small1
+DISPLAY=Bush Small1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Small2
+DISPLAY=Bush Small2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Small3
+DISPLAY=Bush Small3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Small_Autumn1
+DISPLAY=Bush Small Autumn1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Small_Autumn2
+DISPLAY=Bush Small Autumn2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Large1
+DISPLAY=Bush Swamp Large1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Large2
+DISPLAY=Bush Swamp Large2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Large3
+DISPLAY=Bush Swamp Large3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Med1
+DISPLAY=Bush Swamp Med1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Med2
+DISPLAY=Bush Swamp Med2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Med3
+DISPLAY=Bush Swamp Med3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Small1
+DISPLAY=Bush Swamp Small1
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Small2
+DISPLAY=Bush Swamp Small2
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Bush-Swamp_Small3
+DISPLAY=Bush Swamp Small3
+PARENT=Bushes
+
+[ITEM]
+NAME=Prop-Butter_Churn
+DISPLAY=Butter Churn
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cactus1
+DISPLAY=Cactus1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cactus2
+DISPLAY=Cactus2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cactus3
+DISPLAY=Cactus3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cactus_Flower
+DISPLAY=Cactus Flower
+PARENT=Flowers
+
+[ITEM]
+NAME=Prop-Cage
+DISPLAY=Cage
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Camelot_Bridge
+DISPLAY=Camelot Bridge
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Camelot_Buttress
+DISPLAY=Camelot Buttress
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Camelot_MarketWall
+DISPLAY=Camelot MarketWall
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Camelot_Standard
+DISPLAY=Camelot Standard
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Camelot_Tower1
+DISPLAY=Camelot Tower1
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Camelot_Wall1
+DISPLAY=Camelot Wall1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Camelot_Wall2
+DISPLAY=Camelot Wall2
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Camelot_Wall3
+DISPLAY=Camelot Wall3
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Campfire
+DISPLAY=Campfire
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Campfire2
+DISPLAY=Campfire2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Campfire_Unlit
+DISPLAY=Campfire Unlit
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Candelabra1
+DISPLAY=Candelabra1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Candelabra2
+DISPLAY=Candelabra2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Candle1
+DISPLAY=Candle1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Candle2
+DISPLAY=Candle2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Candle3
+DISPLAY=Candle3
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Carrionite_Awning
+DISPLAY=Carrionite Awning
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Carrionite_Crest
+DISPLAY=Carrionite Crest
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Carrionite_Crest_Pole
+DISPLAY=Carrionite Crest Pole
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Carrionite_Ladder
+DISPLAY=Carrionite Ladder
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Carrionite_Rope
+DISPLAY=Carrionite Rope
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Carrionite_Windchime
+DISPLAY=Carrionite Windchime
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cart
+DISPLAY=Cart
+PARENT=Vehicles
+
+[ITEM]
+NAME=Prop-Cart_Sticks
+DISPLAY=Cart Sticks
+PARENT=Vehicles
+
+[ITEM]
+NAME=Prop-Castle-Door
+DISPLAY=Castle Door
+PARENT=Doors & Windows
+
+[ITEM]
+NAME=Prop-Castle_Gate
+DISPLAY=Castle Gate
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Castle_Gate2
+DISPLAY=Castle Gate2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Castle_Tower1
+DISPLAY=Castle Tower1
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Castle_Wall1
+DISPLAY=Castle Wall1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Catapult
+DISPLAY=Catapult
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cauldron
+DISPLAY=Cauldron
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cave_Entrance1
+DISPLAY=Cave Entrance1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Chair
+DISPLAY=Chair
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Chair2
+DISPLAY=Chair2
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Chair3
+DISPLAY=Chair3
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Chair5
+DISPLAY=Chair5
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Chandelier1
+DISPLAY=Chandelier1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Chandelier2
+DISPLAY=Chandelier2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Chandelier3
+DISPLAY=Chandelier3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Character_Terrain
+DISPLAY=Character Terrain
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Character_Terrain2
+DISPLAY=Character Terrain2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-CharSelect_BG
+DISPLAY=CharSelect BG
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Chasm_Cap
+DISPLAY=Chasm Cap
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Chest1
+DISPLAY=Chest1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Chunks1
+DISPLAY=Chunks1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Chunks2
+DISPLAY=Chunks2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Church_Altar1
+DISPLAY=Church Altar1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Church_Rug
+DISPLAY=Church Rug
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clothesline
+DISPLAY=Clothesline
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Autumn1
+DISPLAY=Clutter Autumn1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Autumn2
+DISPLAY=Clutter Autumn2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Autumn3
+DISPLAY=Clutter Autumn3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Autumn4
+DISPLAY=Clutter Autumn4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Autumn5
+DISPLAY=Clutter Autumn5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Block
+DISPLAY=Clutter Block
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Bolt
+DISPLAY=Clutter Bolt
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Bone1
+DISPLAY=Clutter Bone1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Bone2
+DISPLAY=Clutter Bone2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Burnt_Stump1
+DISPLAY=Clutter Burnt Stump1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Can
+DISPLAY=Clutter Can
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-ClamShell
+DISPLAY=Clutter ClamShell
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-CrackedRock1
+DISPLAY=Clutter CrackedRock1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Clutter-crRock1
+DISPLAY=Clutter crRock1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Clutter-crRock2
+DISPLAY=Clutter crRock2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Clutter-crRock3
+DISPLAY=Clutter crRock3
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Clutter-Dead_Grass1
+DISPLAY=Clutter Dead Grass1
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Dead_Grass2
+DISPLAY=Clutter Dead Grass2
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Dead_Grass3
+DISPLAY=Clutter Dead Grass3
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Dead_Grass4
+DISPLAY=Clutter Dead Grass4
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Dead_Grass5
+DISPLAY=Clutter Dead Grass5
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Fern1
+DISPLAY=Clutter Fern1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-FishBones
+DISPLAY=Clutter FishBones
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Flowers1
+DISPLAY=Clutter Flowers1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Flowers2
+DISPLAY=Clutter Flowers2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Flowers3
+DISPLAY=Clutter Flowers3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Flowers4
+DISPLAY=Clutter Flowers4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Flowers5
+DISPLAY=Clutter Flowers5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Flowers6
+DISPLAY=Clutter Flowers6
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Flowers7
+DISPLAY=Clutter Flowers7
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Grass1
+DISPLAY=Clutter Grass1
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Grass2
+DISPLAY=Clutter Grass2
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Grass3
+DISPLAY=Clutter Grass3
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Grass4
+DISPLAY=Clutter Grass4
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-Grass5
+DISPLAY=Clutter Grass5
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Clutter-MouseSkull
+DISPLAY=Clutter MouseSkull
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Pebble1
+DISPLAY=Clutter Pebble1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Clutter-Pebble2
+DISPLAY=Clutter Pebble2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Clutter-Reeds1
+DISPLAY=Clutter Reeds1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Reeds2
+DISPLAY=Clutter Reeds2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Reeds3
+DISPLAY=Clutter Reeds3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Rotted1
+DISPLAY=Clutter Rotted1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Rotted2
+DISPLAY=Clutter Rotted2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Rotted4
+DISPLAY=Clutter Rotted4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Scrub1
+DISPLAY=Clutter Scrub1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Scrub2
+DISPLAY=Clutter Scrub2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Scrub3
+DISPLAY=Clutter Scrub3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Scrub4
+DISPLAY=Clutter Scrub4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Scrub5
+DISPLAY=Clutter Scrub5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Sign
+DISPLAY=Clutter Sign
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-SnailShell
+DISPLAY=Clutter SnailShell
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Snow_Rock1
+DISPLAY=Clutter Snow Rock1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Clutter-Snow_Rock2
+DISPLAY=Clutter Snow Rock2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Clutter-Spring
+DISPLAY=Clutter Spring
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Starfish
+DISPLAY=Clutter Starfish
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Stump1
+DISPLAY=Clutter Stump1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Tropical1
+DISPLAY=Clutter Tropical1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Tropical2
+DISPLAY=Clutter Tropical2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Tropical3
+DISPLAY=Clutter Tropical3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Tropical4
+DISPLAY=Clutter Tropical4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Tropical5
+DISPLAY=Clutter Tropical5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Tropical6
+DISPLAY=Clutter Tropical6
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Tropical7
+DISPLAY=Clutter Tropical7
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Vines1
+DISPLAY=Clutter Vines1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Clutter-Vines2
+DISPLAY=Clutter Vines2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Collision_Wall1
+DISPLAY=Collision Wall1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Cooking-Big_Spoon
+DISPLAY=Cooking Big Spoon
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cooking-Brick_Oven
+DISPLAY=Cooking Brick Oven
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cooking-Butter_Churn
+DISPLAY=Cooking Butter Churn
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cooking-Huge_Barrel
+DISPLAY=Cooking Huge Barrel
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cooking_Meat
+DISPLAY=Cooking Meat
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cooking_Meathook
+DISPLAY=Cooking Meathook
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cooking_Meathook2
+DISPLAY=Cooking Meathook2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cooking-WineRack_Bottle1
+DISPLAY=Cooking WineRack Bottle1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cooking-WineRack_Rack
+DISPLAY=Cooking WineRack Rack
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cook_Pot
+DISPLAY=Cook Pot
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Corner_Candelabra
+DISPLAY=Corner Candelabra
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Corn_Stalk
+DISPLAY=Corn Stalk
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Corpse_Marker
+DISPLAY=Corpse Marker
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cot
+DISPLAY=Cot
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cot2
+DISPLAY=Cot2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Couch1
+DISPLAY=Couch1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Couch2
+DISPLAY=Couch2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crack1
+DISPLAY=Crack1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crate
+DISPLAY=Crate
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crate2
+DISPLAY=Crate2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crate3
+DISPLAY=Crate3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crate_Broken
+DISPLAY=Crate Broken
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Creature_Load
+DISPLAY=Creature Load
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crypt
+DISPLAY=Crypt
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crypt-Bone_Pit
+DISPLAY=Crypt Bone Pit
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crypt_Coffin
+DISPLAY=Crypt Coffin
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crypt_CoffinB
+DISPLAY=Crypt CoffinB
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crypt_Plinth
+DISPLAY=Crypt Plinth
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crypt_Plinth_Crystal
+DISPLAY=Crypt Plinth Crystal
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crypt-Skull_Pile_Large
+DISPLAY=Crypt Skull Pile Large
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Crypt_Statue1
+DISPLAY=Crypt Statue1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Crystal_Black_Huge1
+DISPLAY=Crystal Black Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Huge2
+DISPLAY=Crystal Black Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Huge3
+DISPLAY=Crystal Black Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Med1
+DISPLAY=Crystal Black Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Med2
+DISPLAY=Crystal Black Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Med3
+DISPLAY=Crystal Black Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Med4
+DISPLAY=Crystal Black Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Med5
+DISPLAY=Crystal Black Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Pipe1
+DISPLAY=Crystal Black Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Pipe2
+DISPLAY=Crystal Black Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Pipe3
+DISPLAY=Crystal Black Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Small1
+DISPLAY=Crystal Black Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Small2
+DISPLAY=Crystal Black Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Small3
+DISPLAY=Crystal Black Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Black_Small4
+DISPLAY=Crystal Black Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Huge1
+DISPLAY=Crystal Blue Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Huge2
+DISPLAY=Crystal Blue Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Huge3
+DISPLAY=Crystal Blue Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Med1
+DISPLAY=Crystal Blue Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Med2
+DISPLAY=Crystal Blue Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Med3
+DISPLAY=Crystal Blue Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Med4
+DISPLAY=Crystal Blue Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Med5
+DISPLAY=Crystal Blue Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Pipe1
+DISPLAY=Crystal Blue Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Pipe2
+DISPLAY=Crystal Blue Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Pipe3
+DISPLAY=Crystal Blue Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Small1
+DISPLAY=Crystal Blue Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Small2
+DISPLAY=Crystal Blue Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Small3
+DISPLAY=Crystal Blue Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Blue_Small4
+DISPLAY=Crystal Blue Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Huge1
+DISPLAY=Crystal Colourful Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Huge2
+DISPLAY=Crystal Colourful Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Huge3
+DISPLAY=Crystal Colourful Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Med1
+DISPLAY=Crystal Colourful Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Med2
+DISPLAY=Crystal Colourful Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Med3
+DISPLAY=Crystal Colourful Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Med4
+DISPLAY=Crystal Colourful Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Med5
+DISPLAY=Crystal Colourful Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Pipe1
+DISPLAY=Crystal Colourful Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Pipe2
+DISPLAY=Crystal Colourful Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Pipe3
+DISPLAY=Crystal Colourful Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Small1
+DISPLAY=Crystal Colourful Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Small2
+DISPLAY=Crystal Colourful Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Small3
+DISPLAY=Crystal Colourful Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Colourful_Small4
+DISPLAY=Crystal Colourful Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Huge1
+DISPLAY=Crystal Cyan Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Huge2
+DISPLAY=Crystal Cyan Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Huge3
+DISPLAY=Crystal Cyan Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Med1
+DISPLAY=Crystal Cyan Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Med2
+DISPLAY=Crystal Cyan Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Med3
+DISPLAY=Crystal Cyan Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Med4
+DISPLAY=Crystal Cyan Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Med5
+DISPLAY=Crystal Cyan Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Pipe1
+DISPLAY=Crystal Cyan Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Pipe2
+DISPLAY=Crystal Cyan Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Pipe3
+DISPLAY=Crystal Cyan Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Small1
+DISPLAY=Crystal Cyan Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Small2
+DISPLAY=Crystal Cyan Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Small3
+DISPLAY=Crystal Cyan Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Cyan_Small4
+DISPLAY=Crystal Cyan Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Huge1
+DISPLAY=Crystal Gold Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Huge2
+DISPLAY=Crystal Gold Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Huge3
+DISPLAY=Crystal Gold Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Med1
+DISPLAY=Crystal Gold Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Med2
+DISPLAY=Crystal Gold Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Med3
+DISPLAY=Crystal Gold Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Med4
+DISPLAY=Crystal Gold Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Med5
+DISPLAY=Crystal Gold Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Pipe1
+DISPLAY=Crystal Gold Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Pipe2
+DISPLAY=Crystal Gold Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Pipe3
+DISPLAY=Crystal Gold Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Small1
+DISPLAY=Crystal Gold Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Small2
+DISPLAY=Crystal Gold Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Small3
+DISPLAY=Crystal Gold Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Gold_Small4
+DISPLAY=Crystal Gold Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Huge1
+DISPLAY=Crystal Green Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Huge2
+DISPLAY=Crystal Green Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Huge3
+DISPLAY=Crystal Green Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Med1
+DISPLAY=Crystal Green Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Med2
+DISPLAY=Crystal Green Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Med3
+DISPLAY=Crystal Green Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Med4
+DISPLAY=Crystal Green Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Med5
+DISPLAY=Crystal Green Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Small1
+DISPLAY=Crystal Green Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Small2
+DISPLAY=Crystal Green Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Small3
+DISPLAY=Crystal Green Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Green_Small4
+DISPLAY=Crystal Green Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Huge1
+DISPLAY=Crystal Orange Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Huge2
+DISPLAY=Crystal Orange Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Huge3
+DISPLAY=Crystal Orange Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Med1
+DISPLAY=Crystal Orange Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Med2
+DISPLAY=Crystal Orange Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Med3
+DISPLAY=Crystal Orange Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Med4
+DISPLAY=Crystal Orange Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Med5
+DISPLAY=Crystal Orange Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Pipe1
+DISPLAY=Crystal Orange Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Pipe2
+DISPLAY=Crystal Orange Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Pipe3
+DISPLAY=Crystal Orange Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Small1
+DISPLAY=Crystal Orange Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Small2
+DISPLAY=Crystal Orange Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Small3
+DISPLAY=Crystal Orange Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Orange_Small4
+DISPLAY=Crystal Orange Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Huge1
+DISPLAY=Crystal RaisedPurples Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Huge2
+DISPLAY=Crystal RaisedPurples Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Huge3
+DISPLAY=Crystal RaisedPurples Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Med1
+DISPLAY=Crystal RaisedPurples Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Med2
+DISPLAY=Crystal RaisedPurples Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Med3
+DISPLAY=Crystal RaisedPurples Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Med4
+DISPLAY=Crystal RaisedPurples Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Med5
+DISPLAY=Crystal RaisedPurples Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Pipe1
+DISPLAY=Crystal RaisedPurples Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Pipe2
+DISPLAY=Crystal RaisedPurples Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Pipe3
+DISPLAY=Crystal RaisedPurples Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Small1
+DISPLAY=Crystal RaisedPurples Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Small2
+DISPLAY=Crystal RaisedPurples Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Small3
+DISPLAY=Crystal RaisedPurples Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_RaisedPurples_Small4
+DISPLAY=Crystal RaisedPurples Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Huge1
+DISPLAY=Crystal Red Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Huge2
+DISPLAY=Crystal Red Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Huge3
+DISPLAY=Crystal Red Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Med1
+DISPLAY=Crystal Red Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Med2
+DISPLAY=Crystal Red Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Med3
+DISPLAY=Crystal Red Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Med4
+DISPLAY=Crystal Red Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Med5
+DISPLAY=Crystal Red Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Pipe1
+DISPLAY=Crystal Red Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Pipe2
+DISPLAY=Crystal Red Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Pipe3
+DISPLAY=Crystal Red Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Small1
+DISPLAY=Crystal Red Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Small2
+DISPLAY=Crystal Red Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Small3
+DISPLAY=Crystal Red Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Red_Small4
+DISPLAY=Crystal Red Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Huge1
+DISPLAY=Crystal Violet Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Huge2
+DISPLAY=Crystal Violet Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Huge3
+DISPLAY=Crystal Violet Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Med1
+DISPLAY=Crystal Violet Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Med2
+DISPLAY=Crystal Violet Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Med3
+DISPLAY=Crystal Violet Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Med4
+DISPLAY=Crystal Violet Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Med5
+DISPLAY=Crystal Violet Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Pipe1
+DISPLAY=Crystal Violet Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Pipe2
+DISPLAY=Crystal Violet Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Pipe3
+DISPLAY=Crystal Violet Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Small1
+DISPLAY=Crystal Violet Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Small2
+DISPLAY=Crystal Violet Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Small3
+DISPLAY=Crystal Violet Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Violet_Small4
+DISPLAY=Crystal Violet Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Huge1
+DISPLAY=Crystal White Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Huge2
+DISPLAY=Crystal White Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Huge3
+DISPLAY=Crystal White Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Med1
+DISPLAY=Crystal White Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Med2
+DISPLAY=Crystal White Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Med3
+DISPLAY=Crystal White Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Med4
+DISPLAY=Crystal White Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Med5
+DISPLAY=Crystal White Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Pipe1
+DISPLAY=Crystal White Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Pipe2
+DISPLAY=Crystal White Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Pipe3
+DISPLAY=Crystal White Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Small1
+DISPLAY=Crystal White Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Small2
+DISPLAY=Crystal White Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Small3
+DISPLAY=Crystal White Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_White_Small4
+DISPLAY=Crystal White Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Huge1
+DISPLAY=Crystal Yellow Huge1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Huge2
+DISPLAY=Crystal Yellow Huge2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Huge3
+DISPLAY=Crystal Yellow Huge3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Med1
+DISPLAY=Crystal Yellow Med1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Med2
+DISPLAY=Crystal Yellow Med2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Med3
+DISPLAY=Crystal Yellow Med3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Med4
+DISPLAY=Crystal Yellow Med4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Med5
+DISPLAY=Crystal Yellow Med5
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Pipe1
+DISPLAY=Crystal Yellow Pipe1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Pipe2
+DISPLAY=Crystal Yellow Pipe2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Pipe3
+DISPLAY=Crystal Yellow Pipe3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Small1
+DISPLAY=Crystal Yellow Small1
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Small2
+DISPLAY=Crystal Yellow Small2
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Small3
+DISPLAY=Crystal Yellow Small3
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-Crystal_Yellow_Small4
+DISPLAY=Crystal Yellow Small4
+PARENT=Chrystals
+
+[ITEM]
+NAME=Prop-CTF_Blue
+DISPLAY=CTF Blue
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-CTF_Red
+DISPLAY=CTF Red
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cup1
+DISPLAY=Cup1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Cup2
+DISPLAY=Cup2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dambat-Gate
+DISPLAY=Dambat Gate
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dead_Bird
+DISPLAY=Dead Bird
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dead-Forest-Tree1
+DISPLAY=Dead Forest Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Dead-Forest-Tree2
+DISPLAY=Dead Forest Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Dead-Forest-Tree3
+DISPLAY=Dead Forest Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Dead-Forest-Tree4
+DISPLAY=Dead Forest Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Dead-Forest-Tree5
+DISPLAY=Dead Forest Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Desert_Accent1
+DISPLAY=Desert Accent1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Accent2
+DISPLAY=Desert Accent2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Accent3
+DISPLAY=Desert Accent3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Accent4
+DISPLAY=Desert Accent4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Accent5
+DISPLAY=Desert Accent5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Dolmen
+DISPLAY=Desert Dolmen
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Grass1
+DISPLAY=Desert Grass1
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Desert_Grass2
+DISPLAY=Desert Grass2
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Desert_Grass3
+DISPLAY=Desert Grass3
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Desert_Grass4
+DISPLAY=Desert Grass4
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Desert_Palm1
+DISPLAY=Desert Palm1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Palm2
+DISPLAY=Desert Palm2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Palm3
+DISPLAY=Desert Palm3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Desert_Rock1
+DISPLAY=Desert Rock1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Desert_Rock2
+DISPLAY=Desert Rock2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Desert_Rock3
+DISPLAY=Desert Rock3
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Desert_Rock4
+DISPLAY=Desert Rock4
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Desert_Rock5
+DISPLAY=Desert Rock5
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Dirk
+DISPLAY=Dirk
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dirt_Borough
+DISPLAY=Dirt Borough
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dock1
+DISPLAY=Dock1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dock2
+DISPLAY=Dock2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dock3
+DISPLAY=Dock3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Door1
+DISPLAY=Door1
+PARENT=Doors & Windows
+
+[ITEM]
+NAME=Prop-Door2
+DISPLAY=Door2
+PARENT=Doors & Windows
+
+[ITEM]
+NAME=Prop-Dragon_Skull
+DISPLAY=Dragon Skull
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon_Chain1
+DISPLAY=Dungeon Chain1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon_Chain2
+DISPLAY=Dungeon Chain2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon_Chain3
+DISPLAY=Dungeon Chain3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon-Cobwebs1
+DISPLAY=Dungeon Cobwebs1
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-Dungeon_Entrance
+DISPLAY=Dungeon Entrance
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon_Entrance-Crypt
+DISPLAY=Dungeon Entrance Crypt
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon-Entrance-Mine1
+DISPLAY=Dungeon Entrance Mine1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon-Huge_Bookcase
+DISPLAY=Dungeon Huge Bookcase
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon-Huge_Bookcase2
+DISPLAY=Dungeon Huge Bookcase2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon-Iron_Maiden
+DISPLAY=Dungeon Iron Maiden
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Dungeon-Rack
+DISPLAY=Dungeon Rack
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon-Shackles
+DISPLAY=Dungeon Shackles
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dungeon-Tattered_Carpet1
+DISPLAY=Dungeon Tattered Carpet1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Anvil
+DISPLAY=Dvergar Anvil
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Banner1
+DISPLAY=Dvergar Banner1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Barrel1
+DISPLAY=Dvergar Barrel1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Bellows
+DISPLAY=Dvergar Bellows
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Bench1
+DISPLAY=Dvergar Bench1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Box1
+DISPLAY=Dvergar Box1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Bucket
+DISPLAY=Dvergar Bucket
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Cart
+DISPLAY=Dvergar Cart
+PARENT=Vehicles
+
+[ITEM]
+NAME=Prop-Dvergar_Chair1
+DISPLAY=Dvergar Chair1
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Dvergar_Contraption
+DISPLAY=Dvergar Contraption
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Driller
+DISPLAY=Dvergar Driller
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Floor_Lamp
+DISPLAY=Dvergar Floor Lamp
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Dvergar_Food1
+DISPLAY=Dvergar Food1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Food2
+DISPLAY=Dvergar Food2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Forge
+DISPLAY=Dvergar Forge
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Hammer
+DISPLAY=Dvergar Hammer
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Hanging_Lamp
+DISPLAY=Dvergar Hanging Lamp
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Dvergar_Scaffolding
+DISPLAY=Dvergar Scaffolding
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Dvergar_Smelter
+DISPLAY=Dvergar Smelter
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Support1
+DISPLAY=Dvergar Support1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Support2
+DISPLAY=Dvergar Support2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Dvergar_Table1
+DISPLAY=Dvergar Table1
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Eggs
+DISPLAY=Eggs
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Eiffel_Tower
+DISPLAY=Eiffel Tower
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Endtable1
+DISPLAY=Endtable1
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Endtable2
+DISPLAY=Endtable2
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-End_Table2
+DISPLAY=End Table2
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Endtable3
+DISPLAY=Endtable3
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Entrance1
+DISPLAY=Entrance1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Evil_Banner1
+DISPLAY=Evil Banner1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fangarian_Cap
+DISPLAY=Fangarian Cap
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Farm-Grapevine1
+DISPLAY=Farm Grapevine1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fat_Bottle
+DISPLAY=Fat Bottle
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fence_Piece1
+DISPLAY=Fence Piece1
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Piece2
+DISPLAY=Fence Piece2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Post
+DISPLAY=Fence Post
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Post_Rotted
+DISPLAY=Fence Post Rotted
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Post_Rotted1
+DISPLAY=Fence Post Rotted1
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Post_Rotted2
+DISPLAY=Fence Post Rotted2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Sticks1
+DISPLAY=Fence Sticks1
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Sticks2
+DISPLAY=Fence Sticks2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone1
+DISPLAY=Fence Stone1
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone2
+DISPLAY=Fence Stone2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone_Blue1
+DISPLAY=Fence Stone Blue1
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone_Blue2
+DISPLAY=Fence Stone Blue2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone_Blue_Curve
+DISPLAY=Fence Stone Blue Curve
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone_Blue_Post
+DISPLAY=Fence Stone Blue Post
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone_Blue_Short
+DISPLAY=Fence Stone Blue Short
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone_Curve
+DISPLAY=Fence Stone Curve
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Stone_Desert
+DISPLAY=Fence Stone Desert
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Stone_Desert2
+DISPLAY=Fence Stone Desert2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Stone_Desert3
+DISPLAY=Fence Stone Desert3
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Stone_Desert4
+DISPLAY=Fence Stone Desert4
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence_Stone_Desert_Post
+DISPLAY=Fence Stone Desert Post
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone_Post
+DISPLAY=Fence Stone Post
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fence-Stone_Short
+DISPLAY=Fence Stone Short
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Fern1
+DISPLAY=Fern1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fish_Line
+DISPLAY=Fish Line
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fish_Rack
+DISPLAY=Fish Rack
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flagon1
+DISPLAY=Flagon1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flagon2
+DISPLAY=Flagon2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flora1
+DISPLAY=Flora1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flora2
+DISPLAY=Flora2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flora3
+DISPLAY=Flora3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flora4
+DISPLAY=Flora4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flora5
+DISPLAY=Flora5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flora_Vine1
+DISPLAY=Flora Vine1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flora_Vine2
+DISPLAY=Flora Vine2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flora_Vine3
+DISPLAY=Flora Vine3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flowers-Agrostemma
+DISPLAY=Flowers Agrostemma
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flowers-BabysBreath
+DISPLAY=Flowers BabysBreath
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flowers-Dahlia
+DISPLAY=Flowers Dahlia
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flowers-Kadzu1
+DISPLAY=Flowers Kadzu1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flowers-Lily1
+DISPLAY=Flowers Lily1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Flowers-Nasturtium
+DISPLAY=Flowers Nasturtium
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fog_Green
+DISPLAY=Fog Green
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fog_Green_Ground
+DISPLAY=Fog Green Ground
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fog_White
+DISPLAY=Fog White
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Fog_White_Ground
+DISPLAY=Fog White Ground
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Forest-LargeTree_Branches1
+DISPLAY=Forest LargeTree Branches1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest-LargeTree_Branches2
+DISPLAY=Forest LargeTree Branches2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest-LargeTree_Leaves1
+DISPLAY=Forest LargeTree Leaves1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest-LargeTree_Leaves2
+DISPLAY=Forest LargeTree Leaves2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest-LargeTree_Leaves3
+DISPLAY=Forest LargeTree Leaves3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest_Tree1
+DISPLAY=Forest Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest_Tree2
+DISPLAY=Forest Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest_Tree3
+DISPLAY=Forest Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest_Tree4
+DISPLAY=Forest Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest_Tree5
+DISPLAY=Forest Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest_Tree6
+DISPLAY=Forest Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest_Tree7
+DISPLAY=Forest Tree7
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Forest_Wall1
+DISPLAY=Forest Wall1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Fountain1_Base
+DISPLAY=Fountain1 Base
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Fountain1_Waterfall
+DISPLAY=Fountain1 Waterfall
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Fountain1_Waterplane
+DISPLAY=Fountain1 Waterplane
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Garden_Berries
+DISPLAY=Garden Berries
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Box
+DISPLAY=Garden Box
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Box2
+DISPLAY=Garden Box2
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Box3
+DISPLAY=Garden Box3
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Carrot
+DISPLAY=Garden Carrot
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Dirt
+DISPLAY=Garden Dirt
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Flower1
+DISPLAY=Garden Flower1
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Flower2
+DISPLAY=Garden Flower2
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Flower3
+DISPLAY=Garden Flower3
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Flower4
+DISPLAY=Garden Flower4
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Food1
+DISPLAY=Garden Food1
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden_Pumpkin
+DISPLAY=Garden Pumpkin
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden-Raised_Bed1
+DISPLAY=Garden Raised Bed1
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden-Raised_Bed2
+DISPLAY=Garden Raised Bed2
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Garden-Raised_Bed_Round
+DISPLAY=Garden Raised Bed Round
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-GiantFlowers1
+DISPLAY=GiantFlowers1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GiantFlowers2
+DISPLAY=GiantFlowers2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GiantFlowers3
+DISPLAY=GiantFlowers3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GiantFlowers4
+DISPLAY=GiantFlowers4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GiantFlowers5
+DISPLAY=GiantFlowers5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GiantFlowers6
+DISPLAY=GiantFlowers6
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GiantFlowers7
+DISPLAY=GiantFlowers7
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GiantFlowers8
+DISPLAY=GiantFlowers8
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GiantFlowers9
+DISPLAY=GiantFlowers9
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Forest_Tree1
+DISPLAY=Giant Forest Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Giant_Forest_Tree2
+DISPLAY=Giant Forest Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Giant_Forest_Tree3
+DISPLAY=Giant Forest Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Giant_Forest_Tree4
+DISPLAY=Giant Forest Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Giant_Forest_Tree5
+DISPLAY=Giant Forest Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Giant_Forest_Tree6
+DISPLAY=Giant Forest Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Giant_Mushroom1
+DISPLAY=Giant Mushroom1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom2
+DISPLAY=Giant Mushroom2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom3
+DISPLAY=Giant Mushroom3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom_Chopped1
+DISPLAY=Giant Mushroom Chopped1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom_Chopped2
+DISPLAY=Giant Mushroom Chopped2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom_Chopped3
+DISPLAY=Giant Mushroom Chopped3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom-Glowing1
+DISPLAY=Giant Mushroom Glowing1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom-Glowing2
+DISPLAY=Giant Mushroom Glowing2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom-Glowing3
+DISPLAY=Giant Mushroom Glowing3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom-Rotted1
+DISPLAY=Giant Mushroom Rotted1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom-Rotted2
+DISPLAY=Giant Mushroom Rotted2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom-Rotted3
+DISPLAY=Giant Mushroom Rotted3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Mushroom_Stump
+DISPLAY=Giant Mushroom Stump
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Giant_Tree1
+DISPLAY=Giant Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Giant_Tree2
+DISPLAY=Giant Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-GlassBottle1
+DISPLAY=GlassBottle1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GlassBottle2
+DISPLAY=GlassBottle2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GlassBottle3
+DISPLAY=GlassBottle3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GlassBottle4
+DISPLAY=GlassBottle4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GlassBottle5
+DISPLAY=GlassBottle5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GlassBottle6
+DISPLAY=GlassBottle6
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GlassBottle7
+DISPLAY=GlassBottle7
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GlassBottle8
+DISPLAY=GlassBottle8
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-GlassBottle_Fancy1
+DISPLAY=GlassBottle Fancy1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Gold_Pile
+DISPLAY=Gold Pile
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Goliath_Mound1
+DISPLAY=Goliath Mound1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Goliath_Mound2
+DISPLAY=Goliath Mound2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Goliath_Mound_Desert1
+DISPLAY=Goliath Mound Desert1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Goliath_Mound_Desert2
+DISPLAY=Goliath Mound Desert2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Goliath_Mound_Ice1
+DISPLAY=Goliath Mound Ice1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Goliath_Mound_Ice2
+DISPLAY=Goliath Mound Ice2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Gourd
+DISPLAY=Gourd
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Grass1
+DISPLAY=Grass1
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Grass2
+DISPLAY=Grass2
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Grass3
+DISPLAY=Grass3
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Grass4
+DISPLAY=Grass4
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Grass5
+DISPLAY=Grass5
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Grass6
+DISPLAY=Grass6
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Grass7
+DISPLAY=Grass7
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Grass8
+DISPLAY=Grass8
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Grey_Pebble1
+DISPLAY=Grey Pebble1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Grey_Pebble2
+DISPLAY=Grey Pebble2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Grey_Pebble3
+DISPLAY=Grey Pebble3
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Grey_Pebble4
+DISPLAY=Grey Pebble4
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Ground_Flower1
+DISPLAY=Ground Flower1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ground_Flower2
+DISPLAY=Ground Flower2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ground_Flower3
+DISPLAY=Ground Flower3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ground_Flower4
+DISPLAY=Ground Flower4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ground_Plant1
+DISPLAY=Ground Plant1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ground_Plant2
+DISPLAY=Ground Plant2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ground_Plant3
+DISPLAY=Ground Plant3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ground_Plant4
+DISPLAY=Ground Plant4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Gypsy_Tent1
+DISPLAY=Gypsy Tent1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Hadrian_Wall1
+DISPLAY=Hadrian Wall1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Hammer_Metal
+DISPLAY=Hammer Metal
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Hand_Axe
+DISPLAY=Hand Axe
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Hanging_Cage1
+DISPLAY=Hanging Cage1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Harpoon
+DISPLAY=Harpoon
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Haystack
+DISPLAY=Haystack
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Helm
+DISPLAY=Helm
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Henge-BlueStone
+DISPLAY=Henge BlueStone
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Henge-Gate
+DISPLAY=Henge Gate
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Henge-Gate_General
+DISPLAY=Henge Gate General
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Henge-SarsenStone_Cross
+DISPLAY=Henge SarsenStone Cross
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Henge-SarsenStone_Post
+DISPLAY=Henge SarsenStone Post
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Henge-SarsenStone_Post2
+DISPLAY=Henge SarsenStone Post2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Hide_Tent1
+DISPLAY=Hide Tent1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Hill_Tree1
+DISPLAY=Hill Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Hill_Tree2
+DISPLAY=Hill Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Hill_Tree3
+DISPLAY=Hill Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Hill_Tree4
+DISPLAY=Hill Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Hill_Tree5
+DISPLAY=Hill Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Hill_Tree6
+DISPLAY=Hill Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Holiday-Harvest_Banner
+DISPLAY=Holiday Harvest Banner
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Holiday-WinterDawning_Banner
+DISPLAY=Holiday WinterDawning Banner
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Holiday-WinterDawning_Bow
+DISPLAY=Holiday WinterDawning Bow
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Holiday-WinterDawning_Lights1
+DISPLAY=Holiday WinterDawning Lights1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Holiday-WinterDawning_Lights2
+DISPLAY=Holiday WinterDawning Lights2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Holiday-WinterDawning_Tree
+DISPLAY=Holiday WinterDawning Tree
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Holiday-WinterDawning_Wreath
+DISPLAY=Holiday WinterDawning Wreath
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Holiday-WinterDrawing_Present_Huge
+DISPLAY=Holiday WinterDrawing Present Huge
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Holiday-WinterDrawing_Present_Large
+DISPLAY=Holiday WinterDrawing Present Large
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Holiday-WinterDrawing_Present_Med
+DISPLAY=Holiday WinterDrawing Present Med
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Holiday-WinterDrawing_Present_Small
+DISPLAY=Holiday WinterDrawing Present Small
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Horn-Generic
+DISPLAY=Horn Generic
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Horn-Thunder_Walker
+DISPLAY=Horn Thunder Walker
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Housepot1
+DISPLAY=Housepot1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Housepot2
+DISPLAY=Housepot2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ice-Gate
+DISPLAY=Ice Gate
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ink_Pot
+DISPLAY=Ink Pot
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Instance_Entrance
+DISPLAY=Instance Entrance
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Interact_Cylinder
+DISPLAY=Interact Cylinder
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Interact_Rectangle
+DISPLAY=Interact Rectangle
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Interact_Sphere
+DISPLAY=Interact Sphere
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Iron_Fence
+DISPLAY=Iron Fence
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Iron_Fence1
+DISPLAY=Iron Fence1
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Iron_Fence2
+DISPLAY=Iron Fence2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Iron_Fence3
+DISPLAY=Iron Fence3
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Iron_Maw
+DISPLAY=Iron Maw
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Kite_Shield
+DISPLAY=Kite Shield
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Lab_Chopper
+DISPLAY=Lab Chopper
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Lab_Distiller
+DISPLAY=Lab Distiller
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Lab_Saw
+DISPLAY=Lab Saw
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Lab_Tray
+DISPLAY=Lab Tray
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Lab_Tubes
+DISPLAY=Lab Tubes
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ladder1
+DISPLAY=Ladder1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ladder_Broken1
+DISPLAY=Ladder Broken1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Lamp_Post1
+DISPLAY=Lamp Post1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post2
+DISPLAY=Lamp Post2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_GF1
+DISPLAY=Lamp Post GF1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_GF2
+DISPLAY=Lamp Post GF2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_GF_Planter
+DISPLAY=Lamp Post GF Planter
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_Junk1
+DISPLAY=Lamp Post Junk1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_Junk2
+DISPLAY=Lamp Post Junk2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_Junk3
+DISPLAY=Lamp Post Junk3
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_NB1
+DISPLAY=Lamp Post NB1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_NB2
+DISPLAY=Lamp Post NB2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_NB_Unlit
+DISPLAY=Lamp Post NB Unlit
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_Rotted1
+DISPLAY=Lamp Post Rotted1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_Undead1
+DISPLAY=Lamp Post Undead1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_Undead2
+DISPLAY=Lamp Post Undead2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_Undead3
+DISPLAY=Lamp Post Undead3
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Post_Undead4
+DISPLAY=Lamp Post Undead4
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lamp_Sphere
+DISPLAY=Lamp Sphere
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lantern1
+DISPLAY=Lantern1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Leathercraft-Hide_Rack
+DISPLAY=Leathercraft Hide Rack
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Leathercraft-Tanning_Kettle
+DISPLAY=Leathercraft Tanning Kettle
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Lever_Floor
+DISPLAY=Lever Floor
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Lever_Torch
+DISPLAY=Lever Torch
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lever_Wall
+DISPLAY=Lever Wall
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Lighthouse_Base
+DISPLAY=Lighthouse Base
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lighthouse_Light
+DISPLAY=Lighthouse Light
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lighthouse_Middle
+DISPLAY=Lighthouse Middle
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lighthouse_Top
+DISPLAY=Lighthouse Top
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Lily_Pads1
+DISPLAY=Lily Pads1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Lily_Pads2
+DISPLAY=Lily Pads2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Log
+DISPLAY=Log
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Log2
+DISPLAY=Log2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Loot-Bag1
+DISPLAY=Loot Bag1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Loot-Boss_Chest1
+DISPLAY=Loot Boss Chest1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Loot-Crate1
+DISPLAY=Loot Crate1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Loot-Gold_Chest1
+DISPLAY=Loot Gold Chest1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Loot-Metal_Chest1
+DISPLAY=Loot Metal Chest1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Loot-Sack1
+DISPLAY=Loot Sack1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Loot-Silver_Chest1
+DISPLAY=Loot Silver Chest1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Loot-Wood_Chest1
+DISPLAY=Loot Wood Chest1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Map
+DISPLAY=Map
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Marker_Far
+DISPLAY=Marker Far
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Marker_Medium
+DISPLAY=Marker Medium
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Marker_Near
+DISPLAY=Marker Near
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Armor
+DISPLAY=Market Sign Armor
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Bar
+DISPLAY=Market Sign Bar
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Crossbar
+DISPLAY=Market Sign Crossbar
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Direction
+DISPLAY=Market Sign Direction
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Food
+DISPLAY=Market Sign Food
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Goods
+DISPLAY=Market Sign Goods
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Magic
+DISPLAY=Market Sign Magic
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Market
+DISPLAY=Market Sign Market
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Reagents
+DISPLAY=Market Sign Reagents
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Refashion
+DISPLAY=Market Sign Refashion
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Vault
+DISPLAY=Market Sign Vault
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Sign-Weapons
+DISPLAY=Market Sign Weapons
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Market_Stall1
+DISPLAY=Market Stall1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mat1
+DISPLAY=Mat1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mat2
+DISPLAY=Mat2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mat3
+DISPLAY=Mat3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Measure_Stick
+DISPLAY=Measure Stick
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Merchant-Goods1
+DISPLAY=Merchant Goods1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Merchant-Goods2
+DISPLAY=Merchant Goods2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Merchant-Goods_Stand
+DISPLAY=Merchant Goods Stand
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mine-Cart
+DISPLAY=Mine Cart
+PARENT=Vehicles
+
+[ITEM]
+NAME=Prop-Mine_Support_Pillar
+DISPLAY=Mine Support Pillar
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mine_Support_Spar
+DISPLAY=Mine Support Spar
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mine_Support_Upright
+DISPLAY=Mine Support Upright
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mining_Pick
+DISPLAY=Mining Pick
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Monster_Marker
+DISPLAY=Monster Marker
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Moss_Rotted
+DISPLAY=Moss Rotted
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mossy_Rock1
+DISPLAY=Mossy Rock1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Mossy_Rock2
+DISPLAY=Mossy Rock2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Mossy_Rock3
+DISPLAY=Mossy Rock3
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Mother_Shard
+DISPLAY=Mother Shard
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mother_Shard-Sm1
+DISPLAY=Mother Shard Sm1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mounted_Flytrap
+DISPLAY=Mounted Flytrap
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mounted_Vespin
+DISPLAY=Mounted Vespin
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Chimney1
+DISPLAY=Mushroom Chimney1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Chimney2
+DISPLAY=Mushroom Chimney2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Glowpod1
+DISPLAY=Mushroom Glowpod1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Glowpod2
+DISPLAY=Mushroom Glowpod2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom-Med_Rotted1
+DISPLAY=Mushroom Med Rotted1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom-Med_Rotted2
+DISPLAY=Mushroom Med Rotted2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom-Med_Rotted3
+DISPLAY=Mushroom Med Rotted3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Shroomie_House1
+DISPLAY=Mushroom Shroomie House1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Shroomie_House2
+DISPLAY=Mushroom Shroomie House2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Small1
+DISPLAY=Mushroom Small1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Small2
+DISPLAY=Mushroom Small2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom-Spewing_Short1
+DISPLAY=Mushroom Spewing Short1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom-Spewing_Short2
+DISPLAY=Mushroom Spewing Short2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom-Spewing_Tall1
+DISPLAY=Mushroom Spewing Tall1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom-Spewing_Tall2
+DISPLAY=Mushroom Spewing Tall2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Mushroom_Tree1
+DISPLAY=Mushroom Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Mushroom_Tree2
+DISPLAY=Mushroom Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Mushroom_Tree3
+DISPLAY=Mushroom Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Nest-Large_Nest
+DISPLAY=Nest Large Nest
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Nest-Platform_A
+DISPLAY=Nest Platform A
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Nest-Platform_B
+DISPLAY=Nest Platform B
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Nest-Platform_C
+DISPLAY=Nest Platform C
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Nest-Ramp
+DISPLAY=Nest Ramp
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Nest-Small_Bridge
+DISPLAY=Nest Small Bridge
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Nest-Small_Nest
+DISPLAY=Nest Small Nest
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Nest-Split_Ramp
+DISPLAY=Nest Split Ramp
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-NewVespin_Great_Hive1
+DISPLAY=NewVespin Great Hive1
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-NewVespin_Hive1
+DISPLAY=NewVespin Hive1
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-NewVespin_Side_Hive1
+DISPLAY=NewVespin Side Hive1
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-Nordic_Carving1
+DISPLAY=Nordic Carving1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note0
+DISPLAY=Note0
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note1
+DISPLAY=Note1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note2
+DISPLAY=Note2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note3
+DISPLAY=Note3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note4
+DISPLAY=Note4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note5
+DISPLAY=Note5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note6
+DISPLAY=Note6
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note7
+DISPLAY=Note7
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note8
+DISPLAY=Note8
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Note9
+DISPLAY=Note9
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Notice_Board
+DISPLAY=Notice Board
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ocean1
+DISPLAY=Ocean1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Painting1
+DISPLAY=Painting1
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Painting1a
+DISPLAY=Painting1a
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Painting1-WantedShadow
+DISPLAY=Painting1 WantedShadow
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Painting2
+DISPLAY=Painting2
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Painting2a
+DISPLAY=Painting2a
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Painting3a
+DISPLAY=Painting3a
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Palm-Tree1
+DISPLAY=Palm Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Palm-Tree2
+DISPLAY=Palm Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Palm-Tree3
+DISPLAY=Palm Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Palm-Tree4
+DISPLAY=Palm Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Palm-Tree5
+DISPLAY=Palm Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Palm-Tree6
+DISPLAY=Palm Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pan
+DISPLAY=Pan
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Paper
+DISPLAY=Paper
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Path_Helper
+DISPLAY=Path Helper
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pedestal1
+DISPLAY=Pedestal1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pedestal2
+DISPLAY=Pedestal2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pie
+DISPLAY=Pie
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pillar
+DISPLAY=Pillar
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pinecone
+DISPLAY=Pinecone
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pine_Forest_Fungus
+DISPLAY=Pine Forest Fungus
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pine_Forest_Tree1
+DISPLAY=Pine Forest Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine_Forest_Tree2
+DISPLAY=Pine Forest Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine_Forest_Tree3
+DISPLAY=Pine Forest Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine_Forest_Tree4
+DISPLAY=Pine Forest Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine_Forest_Tree5
+DISPLAY=Pine Forest Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine_Forest_Tree6
+DISPLAY=Pine Forest Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine_Forest_Tree7
+DISPLAY=Pine Forest Tree7
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine_Forest_Tree8
+DISPLAY=Pine Forest Tree8
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine-Sick_Tree1
+DISPLAY=Pine Sick Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine-Sick_Tree2
+DISPLAY=Pine Sick Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine-Sick_Tree3
+DISPLAY=Pine Sick Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine-Sick_Tree4
+DISPLAY=Pine Sick Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine-Sick_Tree5
+DISPLAY=Pine Sick Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine-Sick_Tree6
+DISPLAY=Pine Sick Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine-Sick_Tree7
+DISPLAY=Pine Sick Tree7
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine-Sick_Tree8
+DISPLAY=Pine Sick Tree8
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Pine_Sticks1
+DISPLAY=Pine Sticks1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pine_Sticks2
+DISPLAY=Pine Sticks2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Plate1
+DISPLAY=Plate1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Plate2
+DISPLAY=Plate2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Potted_Plant3
+DISPLAY=Potted Plant3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Potted_Plant4
+DISPLAY=Potted Plant4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Potted_Plant-Large1
+DISPLAY=Potted Plant Large1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pumpkin1
+DISPLAY=Pumpkin1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pumpkin2
+DISPLAY=Pumpkin2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Pumpkin3
+DISPLAY=Pumpkin3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleNode1
+DISPLAY=PustuleNode1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleNode2
+DISPLAY=PustuleNode2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleNode3
+DISPLAY=PustuleNode3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleNode4
+DISPLAY=PustuleNode4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleNode5
+DISPLAY=PustuleNode5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleShroom1
+DISPLAY=PustuleShroom1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleShroom2
+DISPLAY=PustuleShroom2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleShroom3
+DISPLAY=PustuleShroom3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-PustuleShroom4
+DISPLAY=PustuleShroom4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rabbit
+DISPLAY=Rabbit
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rapunzel_Braid
+DISPLAY=Rapunzel Braid
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rapunzel_Tower
+DISPLAY=Rapunzel Tower
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Redeemer_Banner1
+DISPLAY=Redeemer Banner1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Redeemer_Banner2
+DISPLAY=Redeemer Banner2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Redeemer_Banner3
+DISPLAY=Redeemer Banner3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rich_Stall
+DISPLAY=Rich Stall
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Roast_Turkey
+DISPLAY=Roast Turkey
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Roc_Egg1
+DISPLAY=Roc Egg1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Roc_Egg2
+DISPLAY=Roc Egg2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Roc_Egg3
+DISPLAY=Roc Egg3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rock1
+DISPLAY=Rock1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Rock2
+DISPLAY=Rock2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Rock3
+DISPLAY=Rock3
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Rock4
+DISPLAY=Rock4
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Rock5
+DISPLAY=Rock5
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Roc_Nest
+DISPLAY=Roc Nest
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rod1
+DISPLAY=Rod1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Root1
+DISPLAY=Root1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Root2
+DISPLAY=Root2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rope_Coil
+DISPLAY=Rope Coil
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rotted_Hedge1
+DISPLAY=Rotted Hedge1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rotted_Hedge2
+DISPLAY=Rotted Hedge2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rough_Cave1
+DISPLAY=Rough Cave1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Round_Table
+DISPLAY=Round Table
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Rubble1
+DISPLAY=Rubble1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rubble2
+DISPLAY=Rubble2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Rug_Teal
+DISPLAY=Rug Teal
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Ruin_Wall1
+DISPLAY=Ruin Wall1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Ruin_Wall2
+DISPLAY=Ruin Wall2
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Runestone1
+DISPLAY=Runestone1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Runestone2
+DISPLAY=Runestone2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Sanctuary_Stone
+DISPLAY=Sanctuary Stone
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Sapling1
+DISPLAY=Sapling1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Sapling2
+DISPLAY=Sapling2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Scarecrow
+DISPLAY=Scarecrow
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Scorch1
+DISPLAY=Scorch1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Scroll1
+DISPLAY=Scroll1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Scroll2
+DISPLAY=Scroll2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Sheet_Metal1
+DISPLAY=Sheet Metal1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Sheet_Metal2
+DISPLAY=Sheet Metal2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Sheet_Metal3
+DISPLAY=Sheet Metal3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Shelf
+DISPLAY=Shelf
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Shield1
+DISPLAY=Shield1
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Shield2
+DISPLAY=Shield2
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Shield3
+DISPLAY=Shield3
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Shield4
+DISPLAY=Shield4
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Shield5
+DISPLAY=Shield5
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Shipwreck-Anubian
+DISPLAY=Shipwreck Anubian
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Shipwreck-Anubian1
+DISPLAY=Shipwreck Anubian1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Shipwreck-Anubian2
+DISPLAY=Shipwreck Anubian2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Shipwreck-Anubian3
+DISPLAY=Shipwreck Anubian3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Short_Palm1
+DISPLAY=Short Palm1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Short_Palm2
+DISPLAY=Short Palm2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Short_Palm3
+DISPLAY=Short Palm3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Short_Palm4
+DISPLAY=Short Palm4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Short_Palm5
+DISPLAY=Short Palm5
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Shovel
+DISPLAY=Shovel
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Sick-Forest_Tree1
+DISPLAY=Sick Forest Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Sick-Forest_Tree2
+DISPLAY=Sick Forest Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Sick-Forest_Tree3
+DISPLAY=Sick Forest Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Sick-Forest_Tree4
+DISPLAY=Sick Forest Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Sick-Forest_Tree5
+DISPLAY=Sick Forest Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Siege_Tower
+DISPLAY=Siege Tower
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Sign-Lewt1
+DISPLAY=Sign Lewt1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Signpost_Arrow
+DISPLAY=Signpost Arrow
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Signpost-Bremen
+DISPLAY=Signpost Bremen
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Skrill_Hive
+DISPLAY=Skrill Hive
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-Skrill_Mound
+DISPLAY=Skrill Mound
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Skrill_Rope
+DISPLAY=Skrill Rope
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Skrill_Rope_Small
+DISPLAY=Skrill Rope Small
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Skull_and_Bones
+DISPLAY=Skull and Bones
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Skull_Atavian
+DISPLAY=Skull Atavian
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Skull_Mammal
+DISPLAY=Skull Mammal
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Skull_Pile
+DISPLAY=Skull Pile
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Slumbering_Treekin
+DISPLAY=Slumbering Treekin
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Small_Mushroom1
+DISPLAY=Small Mushroom1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Small_Mushroom2
+DISPLAY=Small Mushroom2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Small_Mushroom3
+DISPLAY=Small Mushroom3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Small_Mushroom4
+DISPLAY=Small Mushroom4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Smithing-Forge-Large_Stone
+DISPLAY=Smithing Forge Large Stone
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Smithing-Forge_Metal
+DISPLAY=Smithing Forge Metal
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Smithing-Forge-Stone-Chimney
+DISPLAY=Smithing Forge Stone Chimney
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Smithing-Forge-Stone-Chimneyb
+DISPLAY=Smithing Forge Stone Chimneyb
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Smithing-Gold_Ingots
+DISPLAY=Smithing Gold Ingots
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Smithing-Iron_Ingots
+DISPLAY=Smithing Iron Ingots
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Smooth_Cave1
+DISPLAY=Smooth Cave1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Snow_Drift1
+DISPLAY=Snow Drift1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Snow_Drift2
+DISPLAY=Snow Drift2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Snow_Drift3
+DISPLAY=Snow Drift3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Snowy_Grass1
+DISPLAY=Snowy Grass1
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Snowy_Grass2
+DISPLAY=Snowy Grass2
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Snowy_Grass3
+DISPLAY=Snowy Grass3
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Snowy_Grass4
+DISPLAY=Snowy Grass4
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree1
+DISPLAY=Snowy Pine Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree2
+DISPLAY=Snowy Pine Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree3
+DISPLAY=Snowy Pine Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree4
+DISPLAY=Snowy Pine Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree5
+DISPLAY=Snowy Pine Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree6
+DISPLAY=Snowy Pine Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree7
+DISPLAY=Snowy Pine Tree7
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree8
+DISPLAY=Snowy Pine Tree8
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Pine_Tree9
+DISPLAY=Snowy Pine Tree9
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Snowy_Rock1
+DISPLAY=Snowy Rock1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Snowy_Rock2
+DISPLAY=Snowy Rock2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Snowy_Rock3
+DISPLAY=Snowy Rock3
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Snowy_Rock4
+DISPLAY=Snowy Rock4
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Snowy_Rock5
+DISPLAY=Snowy Rock5
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Spanish_Moss
+DISPLAY=Spanish Moss
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Spider_Cocoon1
+DISPLAY=Spider Cocoon1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Spider_Cocoon2
+DISPLAY=Spider Cocoon2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Spider_Eggsack1
+DISPLAY=Spider Eggsack1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Spider_Eggsack2
+DISPLAY=Spider Eggsack2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Spider_Webs1
+DISPLAY=Spider Webs1
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-Stall
+DISPLAY=Stall
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Statue-Body_Robed1
+DISPLAY=Statue Body Robed1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Body_Robed2
+DISPLAY=Statue Body Robed2
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Body_Standing1
+DISPLAY=Statue Body Standing1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Body_Standing2
+DISPLAY=Statue Body Standing2
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Broadsword1
+DISPLAY=Statue Broadsword1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Anuran_Female1
+DISPLAY=Statue Head Anuran Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Anuran_Male1
+DISPLAY=Statue Head Anuran Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Atavian_Female1
+DISPLAY=Statue Head Atavian Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Atavian_Male1
+DISPLAY=Statue Head Atavian Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Bandicoon_Female1
+DISPLAY=Statue Head Bandicoon Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Bandicoon_Male1
+DISPLAY=Statue Head Bandicoon Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Bounder_Female1
+DISPLAY=Statue Head Bounder Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Bounder_Male1
+DISPLAY=Statue Head Bounder Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Broccan_Female1
+DISPLAY=Statue Head Broccan Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Broccan_Male1
+DISPLAY=Statue Head Broccan Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Caprican_Female1
+DISPLAY=Statue Head Caprican Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Caprican_Male1
+DISPLAY=Statue Head Caprican Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Fangren_Female1
+DISPLAY=Statue Head Fangren Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Fangren_Male1
+DISPLAY=Statue Head Fangren Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Feline_Female1
+DISPLAY=Statue Head Feline Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Feline_Male
+DISPLAY=Statue Head Feline Male
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Foxen_Female1
+DISPLAY=Statue Head Foxen Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Foxen_Male1
+DISPLAY=Statue Head Foxen Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Hart_Female1
+DISPLAY=Statue Head Hart Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Hart_Male1
+DISPLAY=Statue Head Hart Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Lisian_Female1
+DISPLAY=Statue Head Lisian Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Lisian_Male1
+DISPLAY=Statue Head Lisian Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Longtail_Female1
+DISPLAY=Statue Head Longtail Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Longtail_Male1
+DISPLAY=Statue Head Longtail Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Noctari_Female1
+DISPLAY=Statue Head Noctari Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Noctari_Male1
+DISPLAY=Statue Head Noctari Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Taurian_Female1
+DISPLAY=Statue Head Taurian Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Taurian_Male1
+DISPLAY=Statue Head Taurian Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Tusken_Female1
+DISPLAY=Statue Head Tusken Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Tusken_Male1
+DISPLAY=Statue Head Tusken Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Ursine_Female1
+DISPLAY=Statue Head Ursine Female1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Head_Ursine_Male1
+DISPLAY=Statue Head Ursine Male1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-HillGoliath1
+DISPLAY=Statue HillGoliath1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-HillGoliath2
+DISPLAY=Statue HillGoliath2
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-HillGoliath3
+DISPLAY=Statue HillGoliath3
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Mace1
+DISPLAY=Statue Mace1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Pedestal1
+DISPLAY=Statue Pedestal1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Plaque1
+DISPLAY=Statue Plaque1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Staff1
+DISPLAY=Statue Staff1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Statue-Sword2
+DISPLAY=Statue Sword2
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Stool
+DISPLAY=Stool
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Stool2
+DISPLAY=Stool2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Stool3
+DISPLAY=Stool3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Stump1
+DISPLAY=Stump1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Stump2
+DISPLAY=Stump2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Stump3
+DISPLAY=Stump3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Stump_Cut
+DISPLAY=Stump Cut
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Stump_Cut2
+DISPLAY=Stump Cut2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Stump_Entrance
+DISPLAY=Stump Entrance
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Subway_Entrance
+DISPLAY=Subway Entrance
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swamp-Pampas1
+DISPLAY=Swamp Pampas1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swamp-Pampas2
+DISPLAY=Swamp Pampas2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swamp-Pampas3
+DISPLAY=Swamp Pampas3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swamp-Rushes1
+DISPLAY=Swamp Rushes1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swamp-Rushes2
+DISPLAY=Swamp Rushes2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swamp-Tree1
+DISPLAY=Swamp Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Swamp-Tree2
+DISPLAY=Swamp Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Swamp-Tree3
+DISPLAY=Swamp Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Swamp-Tree4
+DISPLAY=Swamp Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Swamp-Tree5
+DISPLAY=Swamp Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Swineland-Junk_Missle1
+DISPLAY=Swineland Junk Missle1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swineland-Junk_Pig
+DISPLAY=Swineland Junk Pig
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swineland-Junk_Pile1
+DISPLAY=Swineland Junk Pile1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swineland-Junk_Pile2
+DISPLAY=Swineland Junk Pile2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swineland-Junk_TV1
+DISPLAY=Swineland Junk TV1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swineland-Sign_Speed
+DISPLAY=Swineland Sign Speed
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Swineland-Sign_Stop
+DISPLAY=Swineland Sign Stop
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Table1
+DISPLAY=Table1
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Table2
+DISPLAY=Table2
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Table4
+DISPLAY=Table4
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Table5
+DISPLAY=Table5
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Tablet_Small1
+DISPLAY=Tablet Small1
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Tailor-Loom
+DISPLAY=Tailor Loom
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tailor-Thread_Spool
+DISPLAY=Tailor Thread Spool
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Target1
+DISPLAY=Target1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Teddy_Bear
+DISPLAY=Teddy Bear
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tent
+DISPLAY=Tent
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tent2
+DISPLAY=Tent2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tent3
+DISPLAY=Tent3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tent_Earthrise
+DISPLAY=Tent Earthrise
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tent_Pavilion1
+DISPLAY=Tent Pavilion1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tent_TeePee1
+DISPLAY=Tent TeePee1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-The_Great_Nook
+DISPLAY=The Great Nook
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-The_Great_Nook_Scaffold
+DISPLAY=The Great Nook Scaffold
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Throne1
+DISPLAY=Throne1
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Throne2
+DISPLAY=Throne2
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Throne3
+DISPLAY=Throne3
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-TNT
+DISPLAY=TNT
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tombstone1
+DISPLAY=Tombstone1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tombstone2
+DISPLAY=Tombstone2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tombstone3
+DISPLAY=Tombstone3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tombstone_Large1
+DISPLAY=Tombstone Large1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tombstone_Large2
+DISPLAY=Tombstone Large2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tower_Ledge
+DISPLAY=Tower Ledge
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Track_Curved1
+DISPLAY=Track Curved1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Track_Straight1
+DISPLAY=Track Straight1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Track_Straight2
+DISPLAY=Track Straight2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Track_Straight3
+DISPLAY=Track Straight3
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Track_Straight4
+DISPLAY=Track Straight4
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Training_Dummy
+DISPLAY=Training Dummy
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Training_Post
+DISPLAY=Training Post
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tree1
+DISPLAY=Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree2
+DISPLAY=Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree3
+DISPLAY=Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree4
+DISPLAY=Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree5
+DISPLAY=Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree6
+DISPLAY=Tree6
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree_Cut
+DISPLAY=Tree Cut
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree-Cut_Down_Oak1
+DISPLAY=Tree Cut Down Oak1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree-Cut_Down_Pine1
+DISPLAY=Tree Cut Down Pine1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Treehouse_Support
+DISPLAY=Treehouse Support
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Treekin_Dead1
+DISPLAY=Treekin Dead1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Treekin_Dead2
+DISPLAY=Treekin Dead2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Treekin_Dead3
+DISPLAY=Treekin Dead3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Treekin_Dead4
+DISPLAY=Treekin Dead4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Treekin_Dead5
+DISPLAY=Treekin Dead5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Treekin_Pile1
+DISPLAY=Treekin Pile1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Treekin_Pile2
+DISPLAY=Treekin Pile2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree_Platform
+DISPLAY=Tree Platform
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree_Platform_Balcony
+DISPLAY=Tree Platform Balcony
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree_Platform_Balcony_Railing
+DISPLAY=Tree Platform Balcony Railing
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree_Platform_Bridge
+DISPLAY=Tree Platform Bridge
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Tree_Platform_Bridge_Endcap
+DISPLAY=Tree Platform Bridge Endcap
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Tree_Platform_Bridge_noEnds
+DISPLAY=Tree Platform Bridge noEnds
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Tree_Platform_Drop_Bridge
+DISPLAY=Tree Platform Drop Bridge
+PARENT=Bridges
+
+[ITEM]
+NAME=Prop-Tree_Platform_Open_Railing
+DISPLAY=Tree Platform Open Railing
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree_Platform_Railing
+DISPLAY=Tree Platform Railing
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree_Platform_Spiral_Ramp
+DISPLAY=Tree Platform Spiral Ramp
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tree_Ring1
+DISPLAY=Tree Ring1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Tribal_Chair1
+DISPLAY=Tribal Chair1
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Tribal_Lamp1
+DISPLAY=Tribal Lamp1
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Tribal_Lamp_Unlit
+DISPLAY=Tribal Lamp Unlit
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Tribal_Plate1
+DISPLAY=Tribal Plate1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tribal_Rack
+DISPLAY=Tribal Rack
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tribal_Rug
+DISPLAY=Tribal Rug
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tribal_Stool1
+DISPLAY=Tribal Stool1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Tribal_Table1
+DISPLAY=Tribal Table1
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Troll_Hut
+DISPLAY=Troll Hut
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Troll_HutLarge
+DISPLAY=Troll HutLarge
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Troll_Totem1
+DISPLAY=Troll Totem1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Troll_Totem2
+DISPLAY=Troll Totem2
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Trough
+DISPLAY=Trough
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-TupikBarrel
+DISPLAY=TupikBarrel
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Two_Handed_Sword
+DISPLAY=Two Handed Sword
+PARENT=Weapons
+
+[ITEM]
+NAME=Prop-Underground_Roots
+DISPLAY=Underground Roots
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Vampire_Chair
+DISPLAY=Vampire Chair
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Vampire_Coffin
+DISPLAY=Vampire Coffin
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Vampire_Fountain
+DISPLAY=Vampire Fountain
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Vampire_Fountain_Blood
+DISPLAY=Vampire Fountain Blood
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Vampire_Grass1
+DISPLAY=Vampire Grass1
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Vampire_Grass2
+DISPLAY=Vampire Grass2
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Vampire_Grass3
+DISPLAY=Vampire Grass3
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Vampire_Grass4
+DISPLAY=Vampire Grass4
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Vampire_Lamp
+DISPLAY=Vampire Lamp
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Vampire_Lamp2
+DISPLAY=Vampire Lamp2
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Vampire_Rock1
+DISPLAY=Vampire Rock1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Vampire_Rock2
+DISPLAY=Vampire Rock2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Vampire_Rock3
+DISPLAY=Vampire Rock3
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Vampire_Rock4
+DISPLAY=Vampire Rock4
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Vampire_Rock5
+DISPLAY=Vampire Rock5
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Vampire_Table
+DISPLAY=Vampire Table
+PARENT=Furniture
+
+[ITEM]
+NAME=Prop-Vampire_Torch
+DISPLAY=Vampire Torch
+PARENT=Heat & Light
+
+[ITEM]
+NAME=Prop-Vampire_Tree1
+DISPLAY=Vampire Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Vampire_Tree2
+DISPLAY=Vampire Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Vampire_Tree3
+DISPLAY=Vampire Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Vampire_Wagon
+DISPLAY=Vampire Wagon
+PARENT=Vehicles
+
+[ITEM]
+NAME=Prop-Vase1
+DISPLAY=Vase1
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Vase2
+DISPLAY=Vase2
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Vase_Fancy1
+DISPLAY=Vase Fancy1
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Vespin_Hive
+DISPLAY=Vespin Hive
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-Vine_Hanging
+DISPLAY=Vine Hanging
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Wagon
+DISPLAY=Wagon
+PARENT=Vehicles
+
+[ITEM]
+NAME=Prop-Wagon_Undead
+DISPLAY=Wagon Undead
+PARENT=Vehicles
+
+[ITEM]
+NAME=Prop-Wagon_Wheel
+DISPLAY=Wagon Wheel
+PARENT=Vehicles
+
+[ITEM]
+NAME=Prop-Wall_Banner1
+DISPLAY=Wall Banner1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Banner2
+DISPLAY=Wall Banner2
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Banner3
+DISPLAY=Wall Banner3
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Banner4
+DISPLAY=Wall Banner4
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Banner5
+DISPLAY=Wall Banner5
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Banner_Long
+DISPLAY=Wall Banner Long
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Ivy
+DISPLAY=Wall Ivy
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Lamp
+DISPLAY=Wall Lamp
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Torch1
+DISPLAY=Wall Torch1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wall_Torch2
+DISPLAY=Wall Torch2
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Warhammer
+DISPLAY=Warhammer
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Warpig_Tower
+DISPLAY=Warpig Tower
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Warpig_Wall1
+DISPLAY=Warpig Wall1
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Waterfall_Rock
+DISPLAY=Waterfall Rock
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-WaterFall_Short
+DISPLAY=WaterFall Short
+PARENT=Water
+
+[ITEM]
+NAME=Prop-WaterFall_Wide
+DISPLAY=WaterFall Wide
+PARENT=Water
+
+[ITEM]
+NAME=Prop-WaterFall_WideLong
+DISPLAY=WaterFall WideLong
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Mill
+DISPLAY=Water Mill
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Plane1
+DISPLAY=Water Plane1
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Plane2
+DISPLAY=Water Plane2
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Plane3
+DISPLAY=Water Plane3
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Plane-Lava
+DISPLAY=Water Plane Lava
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Plane-Swamp
+DISPLAY=Water Plane Swamp
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Plane-Tar
+DISPLAY=Water Plane Tar
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Plant1
+DISPLAY=Water Plant1
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Water_Plant2
+DISPLAY=Water Plant2
+PARENT=Water
+
+[ITEM]
+NAME=Prop-Waving_Banner1
+DISPLAY=Waving Banner1
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Weapon_Rack
+DISPLAY=Weapon Rack
+PARENT=Other Props
+
+[ITEM]
+NAME=Prop-Web1
+DISPLAY=Web1
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-Web2
+DISPLAY=Web2
+PARENT=Creatures
+
+[ITEM]
+NAME=Prop-Well1
+DISPLAY=Well1
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Well2
+DISPLAY=Well2
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Wheat_Row1
+DISPLAY=Wheat Row1
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-Wheat_Row2
+DISPLAY=Wheat Row2
+PARENT=Grass & Crops
+
+[ITEM]
+NAME=Prop-White_Pebble1
+DISPLAY=White Pebble1
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-White_Pebble2
+DISPLAY=White Pebble2
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-White_Pebble3
+DISPLAY=White Pebble3
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-White_Pebble4
+DISPLAY=White Pebble4
+PARENT=Rocks
+
+[ITEM]
+NAME=Prop-Willow_Tree1
+DISPLAY=Willow Tree1
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Willow_Tree2
+DISPLAY=Willow Tree2
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Willow_Tree3
+DISPLAY=Willow Tree3
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Willow_Tree4
+DISPLAY=Willow Tree4
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Willow_Tree5
+DISPLAY=Willow Tree5
+PARENT=Trees
+
+[ITEM]
+NAME=Prop-Windmill
+DISPLAY=Windmill
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Window_Box1
+DISPLAY=Window Box1
+PARENT=Doors & Windows
+
+[ITEM]
+NAME=Prop-Wolf_Den
+DISPLAY=Wolf Den
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Wooden_Barricade1
+DISPLAY=Wooden Barricade1
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Wooden_Barricade2
+DISPLAY=Wooden Barricade2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Wooden_Barricade_Sm1
+DISPLAY=Wooden Barricade Sm1
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Wooden_Barricade_Sm1_far
+DISPLAY=Wooden Barricade Sm1 far
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Wooden_Fence2
+DISPLAY=Wooden Fence2
+PARENT=Fences
+
+[ITEM]
+NAME=Prop-Wooden_Pointer
+DISPLAY=Wooden Pointer
+PARENT=Decor
+
+[ITEM]
+NAME=Prop-Wooden_Post
+DISPLAY=Wooden Post
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Wooden_Tower
+DISPLAY=Wooden Tower
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Wooden_Tower2
+DISPLAY=Wooden Tower2
+PARENT=Towers
+
+[ITEM]
+NAME=Prop-Wooden_Wall
+DISPLAY=Wooden Wall
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Wooden_Wall2
+DISPLAY=Wooden Wall2
+PARENT=Walls
+
+[ITEM]
+NAME=Prop-Yeti_Hut1
+DISPLAY=Yeti Hut1
+PARENT=Other Structures
+
+[ITEM]
+NAME=Prop-Yeti_Statue1
+DISPLAY=Yeti Statue1
+PARENT=Statues
+
+[ITEM]
+NAME=Prop-Yeti_Torch
+DISPLAY=Yeti Torch
+PARENT=Heat & Light
+

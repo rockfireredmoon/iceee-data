@@ -1,0 +1,23 @@
+[ENTITY]
+AccountID=0
+Name=Protectorates' Compound
+Desc=
+TerrainConfig=
+EnvironmentType=Dungeon1
+MapName=
+Regions=
+GroveName=
+TimeOfDay=
+WarpName=Protectorate-Compound
+DropRateProfile=standard
+Grove=0
+Instance=0
+Persist=0
+GuildHall=0
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+PageSize=1000
+DefLoc=2531,296,2527

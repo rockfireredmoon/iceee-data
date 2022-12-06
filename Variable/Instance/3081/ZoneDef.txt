@@ -1,0 +1,24 @@
+[ENTITY]
+AccountID=0
+Name=Anglorum
+Desc=Winter Dawning
+TerrainConfig=Terrain-Anglorum#Terrain-Anglorum.cfg
+EnvironmentType=CamelotDay
+MapName=Maps-Anglorum
+Regions=Terrain-Anglorum/Anglorum_Regions.png
+GroveName=
+TimeOfDay=
+WarpName=wdAnglorum
+DropRateProfile=standard
+Audit=1
+Grove=0
+Instance=0
+Persist=0
+GuildHall=0
+Arena=0
+Audit=1
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+PageSize=1000
+DefLoc=53370,263,64206

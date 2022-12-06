@@ -1,0 +1,55 @@
+[ENTRY]
+Name=First Floor
+Comment=Gearheart's Floor
+Position=530.0,200.0,813.0
+
+[ENTRY]
+Name=Second Floor
+Comment=Cognoggin's Floor
+Position=4266.0,200.0,800.0
+
+[ENTRY]
+Name=Third Floor
+Comment=Sprocketina's Floor
+Position=6238.0,200.0,798.0
+
+[ENTRY]
+Name=Fourth Floor
+Comment=Antioss's Floor
+Position=7913.0,200.0,783.0
+
+[ENTRY]
+Name=Fifth Floor
+Comment=Antioll's Floor
+Position=12666.0,200.0,798.0
+
+[ENTRY]
+Name=Sixth Floor
+Comment=Whackonomicon's Floor
+Position=11071.0,200.0,4131.0
+
+[ENTRY]
+Name=Seventh Floor
+Comment=Salabim's Floor
+Position=8041.0,200.0,2566.0
+
+[ENTRY]
+Name=Eighth Floor
+Comment=Enchanted Wand's Floor
+Position=6297.0,200.0,2446.0
+
+[ENTRY]
+Name=Ninth Floor
+Comment=Enchanted Hat's Floor
+Position=4409.0,200.0,2750.0
+
+[ENTRY]
+Name=Tenth Floor
+Comment=Enchanted Armor's Floor
+Position=522.0,200.0,3110.0
+
+[ENTRY]
+Name=Eleventh Floor
+Comment=Sneath the Betrayer's Floor
+Position=567.0,200.0,5465.0
+

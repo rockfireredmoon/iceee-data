@@ -1,0 +1,22 @@
+[ENTITY]
+AccountID=0
+Name=Skrill_Queen_Lair
+Desc=
+TerrainConfig=
+EnvironmentType=SkrillQueenLair
+MapName=
+Regions=
+GroveName=
+TimeOfDay=Day
+WarpName=Skrill Queen Lair
+DropRateProfile=instance
+Grove=0
+Instance=1
+Persist=0
+GuildHall=0
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+DefLoc=2662,1081,4301

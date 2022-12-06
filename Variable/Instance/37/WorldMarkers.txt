@@ -1,0 +1,20 @@
+[ENTRY]
+Name=Spibear Lair Entrance
+Comment=[Comment here]
+Position=3345.0,381.0,1647.0
+
+[ENTRY]
+Name=Spynch's Pit
+Comment=[Comment here]
+Position=2097.0,320.0,3219.0
+
+[ENTRY]
+Name=Karronath's Room
+Comment=[Comment here]
+Position=1170.0,330.0,3320.0
+
+[ENTRY]
+Name=Denmother Ursarach's Room
+Comment=[Comment here]
+Position=1767.0,186.0,1664.0
+

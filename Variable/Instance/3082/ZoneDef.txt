@@ -1,0 +1,24 @@
+[ENTITY]
+AccountID=0
+Name=Cursed Cathedral
+Desc=
+TerrainConfig=
+EnvironmentType=Dungeon1
+MapName=
+Regions=1308.44,0,1683.04,3082
+GroveName=
+TimeOfDay=
+WarpName=Cursed Cathedral
+DropRateProfile=standard
+Grove=0
+Instance=0
+Persist=0
+GuildHall=0
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+PageSize=1000
+MaxLeashRange=375
+DefLoc=1308,0,1683

@@ -1,0 +1,24 @@
+[ENTITY]
+AccountID=0
+Name=Europe
+Desc=WD Europe
+TerrainConfig=Terrain-Europe#Terrain-Europe.cfg
+EnvironmentType=CloudyDay
+MapName=Maps-Europe
+Regions=Terrain-Europe/Europe_Regions.png
+GroveName=
+TimeOfDay=
+WarpName=wdEurope
+DropRateProfile=standard
+Audit=1
+Grove=0
+Instance=0
+Persist=0
+GuildHall=0
+Arena=0
+Audit=1
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+PageSize=750
+DefLoc=67258,214,37424

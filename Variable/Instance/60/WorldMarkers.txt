@@ -1,0 +1,25 @@
+[ENTRY]
+Name=Chunnel Exit - Midlands
+Comment=[Comment here]
+Position=5599.0,570.0,3005.0
+
+[ENTRY]
+Name=Middle Passage
+Comment=[Comment here]
+Position=3898.0,540.0,2847.0
+
+[ENTRY]
+Name=Chunnel Exit - Anglorum
+Comment=[Comment here]
+Position=3112.0,630.0,1439.0
+
+[ENTRY]
+Name=Chunnel Sanctuary
+Comment=[Comment here]
+Position=4894.0,540.0,2656.0
+
+[ENTRY]
+Name=Chunnel Side Tunnel
+Comment=[Comment here]
+Position=2350.0,600.0,1911.0
+

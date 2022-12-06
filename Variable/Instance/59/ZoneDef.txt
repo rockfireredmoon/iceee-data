@@ -1,0 +1,23 @@
+[ENTITY]
+AccountID=0
+Name=Starting_Grove
+Desc=
+TerrainConfig=Terrain-Starting_Grove#Terrain-Starting_Grove.cfg
+EnvironmentType=StartingGrove
+MapName=Maps-Starting_Grove
+Regions=Terrain-Starting_Grove/Starting_Grove_Regions.png
+GroveName=
+TimeOfDay=
+WarpName=Mushroom Isle
+DropRateProfile=standard
+Grove=0
+Instance=0
+Persist=0
+GuildHall=0
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+PageSize=1000
+DefLoc=5420,625,6485

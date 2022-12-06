@@ -1,0 +1,45 @@
+[ENTRY]
+Name=Haunted Grove Entrance
+Comment=[Comment here]
+Position=1907.0,266.0,468.0
+
+[ENTRY]
+Name=Taylin's Graveyard
+Comment=[Comment here]
+Position=994.0,276.0,929.0
+
+[ENTRY]
+Name=Stefan's Graves
+Comment=[Comment here]
+Position=2951.0,204.0,733.0
+
+[ENTRY]
+Name=Ziph's Area
+Comment=[Comment here]
+Position=3051.0,194.0,1556.0
+
+[ENTRY]
+Name=Haunted Grove Central Hub
+Comment=[Comment here]
+Position=1738.0,218.0,2376.0
+
+[ENTRY]
+Name=Slydd's Area
+Comment=[Comment here]
+Position=1880.0,255.0,3129.0
+
+[ENTRY]
+Name=Ombwah's Graves
+Comment=[Comment here]
+Position=3016.0,254.0,3164.0
+
+[ENTRY]
+Name=Darcca Razorbone's Camp
+Comment=[Comment here]
+Position=946.0,217.0,2983.0
+
+[ENTRY]
+Name=Snype's Statue
+Comment=[Comment here]
+Position=748.0,189.0,1886.0
+
