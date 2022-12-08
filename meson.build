@@ -22,5 +22,5 @@ else
 	staticdatapath = get_option('cfg_StaticDataPath')
 endif
 
-install_data(sources: glob_static.stdout().strip().split('\n'), install_dir : staticdatapath)
-install_data(sources: glob_variable.stdout().strip().split('\n'), install_dir : variabledatapath)
+install_data(sources: glob_static.stdout().strip().split('\n'), preserve_path: true, install_dir : staticdatapath)
+install_data(sources: glob_variable.stdout().strip().split('\n'), preserve_path: true, install_dir : variabledatapath)
