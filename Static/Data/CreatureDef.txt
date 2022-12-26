@@ -21053,7 +21053,6 @@ level=1
 display_name=Stonehenge
 profession=1
 creature_category=Mortal
-ai_package=nothing
 ai_package=custom_henge_glow
 
 [ENTRY]
@@ -21066,7 +21065,6 @@ level=1
 display_name=Hadrian's Wall
 profession=1
 creature_category=Mortal
-ai_package=example
 ai_package=custom_henge_glow
 
 [ENTRY]
@@ -21080,7 +21078,6 @@ level=1
 display_name=New Badari
 profession=1
 creature_category=Mortal
-ai_package=example
 ai_package=custom_henge_glow
 
 [ENTRY]
@@ -21093,7 +21090,6 @@ level=1
 display_name=Great Forest
 profession=1
 creature_category=Mortal
-ai_package=example
 ai_package=custom_henge_glow
 
 [ENTRY]
