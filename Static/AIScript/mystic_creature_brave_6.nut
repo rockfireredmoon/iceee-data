@@ -32,13 +32,12 @@ function main() {
 	if(ai.get_will_charge() >= 2 && randmodrng(0, 2) == 0) {
 		ai.use(5299);
 	}
-	else if(ai.get_will() >= 3) {
+	else if(ai.get_will() >= 3 && randmodrng(0,2) == 0) {
     	ai.use(5198);
 		ai.queue(main, 2000);
 		return;
 	}
-	
-	if(ai.get_might_charge() >= 2 && randmodrng(0, 2) == 0) {
+	else if(ai.get_might_charge() >= 2 && randmodrng(0, 2) == 0) {
 		ai.use(5221);
 	}
 	else if(ai.get_might() >= 3) {

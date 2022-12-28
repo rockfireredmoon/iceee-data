@@ -37,8 +37,7 @@ function main() {
 		ai.queue(main, 2000);
 		return;
 	}
-	
-	if(ai.get_might_charge() >= 2 && randmodrng(0, 2) == 0) {
+	else if(ai.get_might_charge() >= 2 && randmodrng(0, 2) == 0) {
 		ai.use(5221);
 	}
 	else if(ai.get_might() >= 3) {

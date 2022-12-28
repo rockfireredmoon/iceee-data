@@ -1,19 +1,20 @@
 /*
- * Brave Death Druid 6
- * 
- * 5058 - Mystical, 5 will, buff
- * 5157 - Assault, 3 might, add 1 mcharge
- * 5198 - Soul Needles, 3 will, add 1 wcharge
- * 5299 - Soul Burst, 1 will, need 1-3 mcharge
+ * Melee Druid 30+
+ *
+ * 5045 - Spirit of Solomon, 5 will, buff
+ * 5201 - Trauma, 3 might, add 1 mcharge
+ * 5204 - Wither, 4 will, add wcharge
+ * 5303 - Malice Blast, 1 will, need 1-3 wcharge
+ * 32760 - ranged melee
  * 32766 - melee
- * 5221 - Bash, 1 might, need 1-3 mcharge  (not in ability scan)
+ * 5234 - Deadly Shot, 1 might, need 1-3 mcharge  (not found in ability scan)
  */
 
 info <- {
-	name = "druid_death_brave_6",
+	name = "4_druid_melee_30",
 	enabled = true,
 	author = "Emerald Icemoon",
-	description = "Brave Death Druid script for level 6+"
+	description = "Melee Druid 30+"
 }
 
 function on_target_lost(targetCID)
