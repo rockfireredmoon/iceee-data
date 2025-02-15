@@ -261,22 +261,6 @@ link=1126690,1
 link=1126691,1
 
 [ENTRY]
-ID=1133382
-Asset=Prop-Marker1#Prop-Monster_Marker
-Name=
-Pos=859.101,600,1695.56
-Orient=0,0,0,1
-Scale=1,1,1
-
-[ENTRY]
-ID=1133383
-Asset=Prop-Path_Helper#Prop-Path_Helper
-Name=
-Pos=871.505,562.461,1829.9
-Orient=0,0,0,1
-Scale=1.3,1.3,1.3
-
-[ENTRY]
 ID=1275068420
 Asset=Cav-Hall_L1?ATS=ATS-Cave_Rock
 Name=Untitled
@@ -341,40 +325,39 @@ Flags=1
 
 [ENTRY]
 ID=1275068442
-Asset=Manipulator#Manipulator-SpawnPoint
+Asset=Prop-Lamp_Post_NB1
 Name=Untitled
-Pos=899.558,603.215,1189.27
-Orient=0,0.305059,0,0.952334
+Pos=899.558,600,1189.27
+Orient=0,0,0,1
 Scale=1,1,1
 Flags=1
-spawnPackage=#F7881
 
 [ENTRY]
 ID=1275068443
-Asset=Manipulator#Manipulator-SpawnPoint
+Asset=Prop-Lamp_Post_NB1
 Name=Untitled
 Pos=553.674,600,1143.16
 Orient=0,-0.407761,0,0.913089
 Scale=1,1,1
-spawnPackage=#F7882
+Flags=1
 
 [ENTRY]
 ID=1275068445
-Asset=Manipulator#Manipulator-SpawnPoint
+Asset=Prop-Lamp_Post_NB1
 Name=Untitled
 Pos=539.554,600,1674.13
 Orient=0,-0.407761,0,0.913089
 Scale=1.5,1.5,1.5
-spawnPackage=#F7883
+Flags=1
 
 [ENTRY]
 ID=1275068446
-Asset=Manipulator#Manipulator-SpawnPoint
+Asset=Prop-Lamp_Post_NB1
 Name=Untitled
 Pos=893.289,600,1617.83
 Orient=0,-0.407761,0,0.913089
 Scale=1,1,1
-spawnPackage=#F7884
+Flags=1
 
 [ENTRY]
 ID=1275068462
@@ -509,6 +492,7 @@ Name=Untitled
 Pos=873.856,648.722,1183.34
 Orient=0,0,0,1
 Scale=1,1,1
+Flags=1
 
 [ENTRY]
 ID=1275068516

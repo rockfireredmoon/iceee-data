@@ -1,0 +1,15 @@
+[ENTRY]
+Name=Grimfrost's Lair Entrance
+Comment=[Comment here]
+Position=1351.0,1107.0,1822.0
+
+[ENTRY]
+Name=Al'zahrazzi's Platform
+Comment=[Comment here]
+Position=2386.0,717.0,1237.0
+
+[ENTRY]
+Name=Grimfrost's Pit
+Comment=[Comment here]
+Position=1970.0,334.0,1966.0
+

@@ -1,0 +1,22 @@
+[ENTITY]
+AccountID=0
+Name=Starting Zone2
+Desc=
+TerrainConfig=Terrain-Starting_Zone2#Terrain-Starting_Zone2.cfg
+EnvironmentType=Bastion
+MapName=Maps-Bastion
+Regions=Terrain-Starting_Zone2/Starting_Zone2_Regions.png
+GroveName=
+TimeOfDay=
+WarpName=Bastion
+DropRateProfile=standard
+Grove=0
+Instance=0
+Persist=0
+GuildHall=0
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+DefLoc=10391,624,12615

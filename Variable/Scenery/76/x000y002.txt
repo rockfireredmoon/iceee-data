@@ -1,4 +1,13 @@
 [ENTRY]
+ID=1000003
+Asset=Manipulator#Manipulator-SpawnPoint
+Name=Untitled
+Pos=972.293,541.133,2376.41
+Orient=0,0,0,1
+Scale=1,1,1
+spawnPackage=#F3490
+
+[ENTRY]
 ID=1126693
 Asset=Manipulator#Manipulator-PathNode
 Name=Untitled
@@ -141,45 +150,20 @@ link=1275068550,1
 ID=1126707
 Asset=Manipulator#Manipulator-SpawnPoint
 Name=Untitled
-Pos=898.484,539.53,2442.28
-Orient=0,0,0,1
+Pos=895.092,539.53,2438.85
+Orient=0,-0.0799147,0,0.996802
 Scale=1,1,1
 spawnPackage=#3402
 maxActive=0
 despawnTime=180
 
 [ENTRY]
-ID=1133376
-Asset=Manipulator#Manipulator-SpawnPoint
-Name=
-Pos=678.826,541.269,2465.99
-Orient=0,0.475032,0,0.879969
-Scale=1,1,1
-spawnPackage=#F7887
-
-[ENTRY]
-ID=1133377
-Asset=Light-Large?COLOR=EE7600
-Name=
-Pos=680.336,584.932,2448.91
+ID=1156175
+Asset=Prop-Vine_Hanging
+Name=Untitled
+Pos=978.917,682.695,2406.63
 Orient=0,0,0,1
-Scale=1,1,1
-
-[ENTRY]
-ID=1133386
-Asset=Prop-Marker1#Prop-Marker_Near
-Name=
-Pos=985.005,540.776,2523.05
-Orient=0,0,0,1
-Scale=1,1,1
-
-[ENTRY]
-ID=1133389
-Asset=Prop-Marker1#Prop-Marker_Near
-Name=
-Pos=998.171,541.121,2366.75
-Orient=0,0,0,1
-Scale=1,1,1
+Scale=0.75,0.75,0.75
 
 [ENTRY]
 ID=1275068427
@@ -201,21 +185,21 @@ Flags=1
 
 [ENTRY]
 ID=1275068444
-Asset=Manipulator#Manipulator-SpawnPoint
+Asset=Prop-Lamp_Post_NB1
 Name=Untitled
 Pos=659.902,540,2158.35
 Orient=0,-0.407761,0,0.913089
 Scale=1,1,1
-spawnPackage=#F7886
+Flags=1
 
 [ENTRY]
 ID=1275068447
-Asset=Manipulator#Manipulator-SpawnPoint
+Asset=Prop-Lamp_Post_NB1
 Name=Untitled
 Pos=904.036,540,2211.55
 Orient=0,-0.407761,0,0.913089
 Scale=1,1,1
-spawnPackage=#F7885
+Flags=1
 
 [ENTRY]
 ID=1275068458
@@ -482,12 +466,4 @@ Name=Untitled
 Pos=918.22,682.695,2493.9
 Orient=0,0,0,1
 Scale=0.5,0.5,0.5
-
-[ENTRY]
-ID=1275068626
-Asset=Prop-Vine_Hanging
-Name=Untitled
-Pos=978.917,682.695,2406.63
-Orient=0,0,0,1
-Scale=0.75,0.75,0.75
 

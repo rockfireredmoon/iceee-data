@@ -2,7 +2,7 @@
 	name = "Junk Palace",
 	author = "Emerald Icemoon",
 	description = "Handles missile explosion sequence",
-	queue_events = true
+	queue_events = false
 }
 
 kills <- 0;
@@ -12,6 +12,7 @@ boss_cid <- 0;
 boss_home <- Point(0,0);
 center <- Point(1457,1865);
 phase <- 0;
+debug <- false;
 
 // Locations
 
@@ -26,9 +27,17 @@ const MISSILE_2 = 1150558;
 const SPAWN_1 = 1150561;
 const SPAWN_2 = 1150560;
 
-function on_kill_2378() {
+function on_kill_1387() {
 	// Boss Hawg's Treasure
-	//inst.spawn(1090520592, 0, 0);
+	if(debug)
+		inst.info("boss hawg dead");
+	inst.spawn(1154725, 0, 0);
+}
+
+function disengage(cid) {
+	inst.unhate(cid);
+	inst.interrupt(cid);
+	inst.set_flag(cid, SF_NON_COMBATANT, true);
 }
 
 function find_boss() {
@@ -75,9 +84,10 @@ function on_use(cid, target_cid, target_cdef_id) {
 		
 			/* Make Boss Hawg run towards the missile to try to disarm */
 			if(boss_cid != 0) {
-				local missile_loc=  inst.get_location(cid);
+				disengage(boss_cid);
+				local missile_loc = inst.get_location(cid);
 				inst.creature_chat(boss_cid, "s/", "No! Why did you do that! You'll kill us all..");
-				inst.walk_then(boss_cid, Point(missile_loc.x,missile_loc.z), CREATURE_RUN_SPEED * 2, 00, function() {
+				inst.walk_then(boss_cid, Point(missile_loc.x,missile_loc.z), -1, CREATURE_RUN_SPEED * 2, 00, function(res) {
 					inst.creature_chat(boss_cid, "s/", "The green wire, the red wire, which is it !?!");
 					inst.emote(boss_cid, "Dig_Shovel");
 				});
@@ -91,6 +101,8 @@ function on_use(cid, target_cid, target_cdef_id) {
     		
 		    inst.shake(50, 10, 250);
 			inst.info("Starting countdown ..");
+			
+  			inst.play_sound("Sound-Ambient-Stage1|Sound-Ambient-TenSecondCountdown.ogg");
 			
 			// Countdown messages
 			for(local i = 1 ; i <= 10 ; i++) {
@@ -116,7 +128,8 @@ function on_use(cid, target_cid, target_cdef_id) {
     				
     				/* Stun/Damage everyone in the area of effect */
 	    			if(!inst.creature_use(target_cid, _AB("Nuclear Fallout"))) {
-	    				inst.info("STUN FAILED :(");
+	    				if(debug)
+	    					inst.info("STUN FAILED :(");
 	    			}
 	    			
 		    		/* The boss gets special treatment. Delay slightly to let to player attack work first */
@@ -125,13 +138,14 @@ function on_use(cid, target_cid, target_cdef_id) {
 	    				
 	    				/* Send the boss back home when his stun ends */
 	    				if(phase == 1) {
-                            inst.info("target:  "  + target_cid + " : " + _AB("Nuclear Sickness"));
-	    					if(!inst.creature_use(target_cid, _AB("Nuclear Sickness")))
-                                inst.info("failed Nuclear Sickness");
+	    					if(!inst.creature_use(target_cid, _AB("Nuclear Sickness"))) {
+			    				if(debug)
+		                        	inst.info("failed Nuclear Sickness");
+	    					}
 		    				inst.queue(function() {
-								inst.walk_then(boss_cid, boss_home, CREATURE_RUN_SPEED * 2, 00, function() {
+								inst.walk_then(boss_cid, boss_home, 70, CREATURE_RUN_SPEED * 2, 00, function(res) {
 									inst.creature_chat(boss_cid, "s/", "Hahaha I'm still too strong for you!");
-									inst.rotate_creature(boss_cid, 70);
+									inst.set_flag(boss_cid, SF_NON_COMBATANT, false);
 								});
 							}, 5500);
 						}
@@ -142,9 +156,10 @@ function on_use(cid, target_cid, target_cdef_id) {
 	    						inst.creature_use(target_cid, _AB("Nuclear Poison"));
 	    					}, 500);
 		    				inst.queue(function() {
-								inst.walk_then(boss_cid, center, CREATURE_RUN_SPEED, 00, function() {
+								inst.walk_then(boss_cid, center, -1, CREATURE_RUN_SPEED, 00, function(res) {
 									inst.creature_chat(boss_cid, "s/", "Come on! Face me!");
 									inst.rotate_creature(boss_cid, 70);
+									inst.set_flag(boss_cid, SF_NON_COMBATANT, false);
 								});
 							}, 5500);
 						}

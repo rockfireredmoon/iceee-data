@@ -1,0 +1,11 @@
+; 
+; Static details about this edition of the game as whole
+;
+
+GameName=Earth Eternal
+Edition=Valkal's Shadow
+StartZone=59
+StartX=5822
+StartY=684
+StartZ=5877
+StartRotation=81

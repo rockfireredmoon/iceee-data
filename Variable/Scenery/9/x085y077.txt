@@ -15,6 +15,7 @@ Pos=64485,553.8,58440
 Orient=0,0,0,1
 Scale=1,1,1
 spawnPackage=11_jld_HogcatcherMix_43_44
+maxActive=0
 wanderRadius=200
 
 [ENTRY]

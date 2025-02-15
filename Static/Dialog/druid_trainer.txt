@@ -1,0 +1,20 @@
+[ENTRY]
+MinInterval=20000
+MaxInterval=30000
+Sequence=0
+
+[PARAGRAPH]
+Type=0
+Value=Newcomer! Mother Gaia needs you, the Druids of Gaia need you! Come join us.
+[PARAGRAPH]
+Type=0
+Value=As a Druid, you will harness the very forces of nature. Interested? Well I can point you down the path...
+[PARAGRAPH]
+Type=0
+Value=Enlightened beast, come here if you wish to learn more about the way of the Druid!
+[PARAGRAPH]
+Type=0
+Value=It's not all dancing naked around big rocks under moonlight you know, us Druids are so much more!
+[PARAGRAPH]
+Type=0
+Value=You look like you have a strong Spirit. Are you perchance a budding Druid? You have come to the right person then!

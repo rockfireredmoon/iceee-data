@@ -1,3 +1,9 @@
+;
+; No Longer used, but kept here in case the new zonedef files turn out to be
+; generated incorrected.
+;
+
+
 [ENTRY]
 ID=2000
 NAME=EmptyTestMap
@@ -114,28 +120,34 @@ DefLoc=15739,1117,13201
 ID=1070
 NAME=Winterland
 TERRAINCONFIG=Terrain-Winterland#Terrain-Winterland.cfg
-ENVIRONMENTTYPE=CloudyDay
-ShardName=Winterland
-WarpName=Winterland
+ENVIRONMENTTYPE=HappyWinter
+ShardName=Winterland (Low)
+WarpName=WLP
+MAPNAME=Maps-Winterland
 DefLoc=2958,260,3821
+EnvironmentCycle=1
 
 [ENTRY]
 ID=1071
 NAME=Winterland
 TERRAINCONFIG=Terrain-Winterland#Terrain-Winterland.cfg
-ENVIRONMENTTYPE=CloudyDay
-ShardName=Winterland
-WarpName=Winterland
+ENVIRONMENTTYPE=HappyWinter
+ShardName=Winterland (Med)
+WarpName=WLP2
+MAPNAME=Maps-Winterland
 DefLoc=2958,260,3821
+EnvironmentCycle=1
 
 [ENTRY]
 ID=1072
 NAME=Winterland
 TERRAINCONFIG=Terrain-Winterland#Terrain-Winterland.cfg
-ENVIRONMENTTYPE=CloudyDay
-ShardName=Winterland
-WarpName=Winterland
+ENVIRONMENTTYPE=HappyWinter
+ShardName=Winterland (High)
+WarpName=WLP3
+MAPNAME=Maps-Winterland
 DefLoc=2958,260,3821
+EnvironmentCycle=1
 
 [ENTRY]
 DESC=Fix Cor
@@ -144,6 +156,7 @@ NAME=FixCor
 TERRAINCONFIG=Terrain-Corsica#Terrain-Corsica.cfg
 ENVIRONMENTTYPE=NightSky
 MAPNAME=Maps-Corsica
+REGIONS=Terrain-Corsica/Corsica_Regions.png
 ShardName=FixCor
 WarpName=FixCor
 DefLoc=15907,1111,12567
@@ -178,39 +191,12 @@ DefLoc=1420,1107,1836
 
 [ENTRY]
 ID=105
-NAME=NewBremen
-TERRAINCONFIG=Terrain-NewBremen#Terrain-NewBremen.cfg
-ENVIRONMENTTYPE=CloudyDay
-ShardName=NewBremen
-WarpName=NewBremen
-DefLoc=24883,122,33093
-
-[ENTRY]
-ID=120
-NAME=Grindle's Lair (20)
-TERRAINCONFIG=Terrain-Blank#Terrain-Blank.cfg
-ENVIRONMENTTYPE=CloudyDay
-ShardName=Grindles
-WarpName=Grindle20
-DefLoc=883,599,1889
-
-[ENTRY]
-ID=121
-NAME=Grindle's Lair (30)
-TERRAINCONFIG=Terrain-Blank#Terrain-Blank.cfg
-ENVIRONMENTTYPE=CloudyDay
-ShardName=Grindles
-WarpName=Grindle30
-DefLoc=883,599,1889
-
-[ENTRY]
-ID=122
-NAME=Grindle's Lair (35)
-TERRAINCONFIG=Terrain-Blank#Terrain-Blank.cfg
-ENVIRONMENTTYPE=CloudyDay
-ShardName=Grindles
-WarpName=Grindle35
-DefLoc=883,599,1889
+NAME=Winterland
+TERRAINCONFIG=Terrain-NewBremen#Terrain-NewBremenWinter.cfg
+ENVIRONMENTTYPE=HappyWinter
+ShardName=Winter Land
+WarpName=Winterland
+DefLoc=25100,125,31867
 
 [ENTRY]
 ID=1
@@ -278,11 +264,6 @@ Persist=1
 DefLoc=29560,214,65552
 PageSize=750
 EnvironmentCycle=1
-AreaEnvironment=74,72,10,10,Swineland
-AreaEnvironment=84,74,5,9,Swineland
-AreaEnvironment=74,82,15,1,GrunesUndead
-AreaEnvironment=73,83,14,1,GrunesUndead
-AreaEnvironment=67,84,20,10,GrunesUndead
 
 [ENTRY]
 ID=10
@@ -322,7 +303,7 @@ DefLoc=1626,240,2982
 [ENTRY]
 ID=23
 NAME=Coastal Cave
-ENVIRONMENTTYPE=Dungeon1
+ENVIRONMENTTYPE=LavaCave
 ShardName=Europe 1
 WarpName=Coastal Cave
 DefLoc=1498,200,1828
@@ -332,15 +313,16 @@ MaxLeashRange=375
 
 [ENTRY]
 ID=24
-NAME=Fangarians Lair
+NAME=Grimfrost's Lair
 TERRAINCONFIG=Terrain-Fangarians_Lair#Terrain-Fangarians_Lair.cfg
-ENVIRONMENTTYPE=Dungeon1
+ENVIRONMENTTYPE=Grimfrost
 ShardName=Anglorum 1
-WarpName=Fangarians Lair
-DefLoc=1283,1109,1862
-PageSize=1000
+WarpName=Grimfrost's Lair
 Instance=1
 MaxLeashRange=375
+DefLoc=1283,1109,1862
+PageSize=1000
+TimeOfDay=Day
 
 [ENTRY]
 ID=25
@@ -397,10 +379,10 @@ ID=30
 NAME=Monastery Cloister
 ENVIRONMENTTYPE=Dungeon1
 ShardName=Anglorum 1
-WarpName=Monastary Cloister
-DefLoc=3415,170,538
+WarpName=Monastery Cloister
 Instance=1
 MaxLeashRange=375
+DefLoc=3415,170,538
 
 [ENTRY]
 ID=31
@@ -488,7 +470,7 @@ MaxLeashRange=375
 [ENTRY]
 ID=39
 NAME=Forest Cavern
-ENVIRONMENTTYPE=Dungeon1
+ENVIRONMENTTYPE=ForestCavern
 ShardName=Europe 1
 WarpName=Forest Cavern
 DefLoc=3492,220,2382
@@ -509,14 +491,14 @@ MaxLeashRange=375
 
 [ENTRY]
 ID=41
-NAME=Rupunzels Tower
+NAME=Rapunzels Tower
 ENVIRONMENTTYPE=Bremen
 ShardName=Europe 1
-WarpName=Rupunzels Tower
-DefLoc=719,50,849
+WarpName=Rapunzels Tower
 Instance=1
-PageSize=1000
 MaxLeashRange=375
+DefLoc=719,50,849
+PageSize=1000
 
 [ENTRY]
 ID=42
@@ -596,7 +578,7 @@ MaxLeashRange=375
 [ENTRY]
 ID=49
 NAME=Djinn Temple
-ENVIRONMENTTYPE=Dungeon1
+ENVIRONMENTTYPE=DjinnTemple
 ShardName=Europe 1
 WarpName=Djinn Temple
 DefLoc=886,60,1896
@@ -608,11 +590,12 @@ MaxLeashRange=375
 ID=50
 NAME=Iron Maw
 TERRAINCONFIG=Terrain-Iron_Maw#Terrain-Iron_Maw.cfg
-ENVIRONMENTTYPE=CorsicaDay
+ENVIRONMENTTYPE=Midlands
 ShardName=Iron Maw
 DropRateProfile=generousinstance
 WarpName=Iron Maw
 DefLoc=18938,1266,18778
+PageSize=1000
 
 
 [ENTRY]
@@ -694,8 +677,7 @@ EnvironmentCycle=1
 ID=59
 NAME=Starting_Grove
 TERRAINCONFIG=Terrain-Starting_Grove#Terrain-Starting_Grove.cfg
-;ENVIRONMENTTYPE=StartingGrove
-ENVIRONMENTTYPE=CloudyDay
+ENVIRONMENTTYPE=StartingGrove
 MAPNAME=Maps-Starting_Grove
 REGIONS=Terrain-Starting_Grove/Starting_Grove_Regions.png
 ShardName=Mushroom Isle 1
@@ -768,17 +750,21 @@ MaxLeashRange=375
 [ENTRY]
 ID=66
 NAME=Valkals_Bloodkeep
-ENVIRONMENTTYPE=Dungeon1
+ENVIRONMENTTYPE=Bloodkeep
 ShardName=Europe 1
 WarpName=Valkals Bloodkeep
+Instance=1
 DefLoc=701,660,2794
+DropRateProfile=bloodkeep
 
 [ENTRY]
 ID=67
 NAME=Junk_Palace
-ENVIRONMENTTYPE=Dungeon1
+ENVIRONMENTTYPE=JunkPalace
+TimeOfDay=Day
 ShardName=Unknown
 WarpName=Junk Palace
+Instance=1
 DefLoc=1419,284,2315
 
 [ENTRY]
@@ -795,9 +781,11 @@ MaxLeashRange=375
 [ENTRY]
 ID=69
 NAME=Skrill_Queen_Lair
-ENVIRONMENTTYPE=Dungeon1
+ENVIRONMENTTYPE=SkrillQueenLair
+TimeOfDay=Day
 ShardName=Europe 1
 WarpName=Skrill Queen Lair
+Instance=1
 DefLoc=2662,1081,4301
 
 [ENTRY]
@@ -876,7 +864,7 @@ Instance=1
 [ENTRY]
 ID=76
 NAME=Southend Passage
-ENVIRONMENTTYPE=Dungeon1
+ENVIRONMENTTYPE=SouthendPassage
 ShardName=Corsica 1
 WarpName=Southend Passage
 DefLoc=873,601,762
@@ -912,7 +900,7 @@ EnvironmentCycle=1
 [ENTRY]
 ID=79
 NAME=Summoning Chamber
-ENVIRONMENTTYPE=UndeadNight
+ENVIRONMENTTYPE=Dungeon1
 ShardName=Anglorum 1
 WarpName=Summoning Chamber
 DefLoc=806,102,5725
@@ -949,7 +937,7 @@ Mode=1
 [ENTRY]
 ID=82
 NAME=Camelot Chamber
-ENVIRONMENTTYPE=Genericindoor
+ENVIRONMENTTYPE=CamelotCourt
 ShardName=Anglorum 1
 WarpName=Camelot Chamber
 DefLoc=550,120,1048
@@ -1143,4 +1131,56 @@ ShardName=Corisca
 WarpName=earthsending
 DefLoc=1,100,37
 Instance=1
+PageSize=1000
+
+[ENTRY]
+ID=1200
+NAME=Blank 1
+ENVIRONMENTTYPE=Dungeon1
+ShardName=Europe 1
+WarpName=blank1
+DefLoc=1,1,1
+PageSize=1000
+Instance=1
+
+[ENTRY]
+ID=1201
+NAME=Blank 2
+ENVIRONMENTTYPE=Dungeon1
+ShardName=Europe 1
+WarpName=blank2
+DefLoc=1,1,1
+PageSize=1000
+Instance=1
+
+[ENTRY]
+ID=1202
+NAME=Blank 3
+ENVIRONMENTTYPE=Dungeon1
+ShardName=Europe 1
+WarpName=blank3
+DefLoc=1,1,1
+PageSize=1000
+Instance=1
+
+[ENTRY]
+ID=3080
+NAME=The Mausoleum
+ENVIRONMENTTYPE=Dungeon1
+ShardName=Europe 1
+WarpName=mausoleum
+Instance=1
+MaxLeashRange=1000
+DefLoc=987,0,908
+PageSize=1000
+
+[ENTRY]
+ID=3082
+NAME=Cursed Cathedral
+ENVIRONMENTTYPE=Dungeon1
+REGIONS=1308.44,0,1683.04,3082
+ShardName=Europe 1
+WarpName=Cursed Cathedral
+MaxLeashRange=375
+DefLoc=1308,0,1683
 PageSize=1000

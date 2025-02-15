@@ -1,0 +1,263 @@
+[CATEGORY]
+NAME=Skins
+
+[ITEM]
+NAME=Bremen
+ID=ATS-Bremen
+PARENT=Skins
+
+[ITEM]
+NAME=Bremen Low
+ID=ATS-Bremen_Low
+PARENT=Skins
+
+[ITEM]
+NAME=Broccan
+ID=ATS-Broccan
+PARENT=Skins
+
+[ITEM]
+NAME=Burned
+ID=ATS-Burned
+PARENT=Skins
+
+[ITEM]
+NAME=Camelot
+ID=ATS-Camelot
+PARENT=Skins
+
+[ITEM]
+NAME=Camelot Low
+ID=ATS-Camelot_Low
+PARENT=Skins
+
+[ITEM]
+NAME=Carrionite Nest
+ID=ATS-Carrionite_Nest
+PARENT=Skins
+
+[ITEM]
+NAME=Castle
+ID=ATS-Castle
+PARENT=Skins
+
+[ITEM]
+NAME=Castle Camelot
+ID=ATS-Castle_Camelot
+PARENT=Skins
+
+[ITEM]
+NAME=Castle Underground
+ID=ATS-Castle_Underground
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Cold
+ID=ATS-Cave_Cold
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Dirt
+ID=ATS-Cave_Dirt
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Dvergar
+ID=ATS-Cave_Dvergar
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Ice
+ID=ATS-Cave_Ice
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Lava
+ID=ATS-Cave_Lava
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Moss
+ID=ATS-Cave_Moss
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Rock
+ID=ATS-Cave_Rock
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Skrill
+ID=ATS-Cave_Skrill
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Strata
+ID=ATS-Cave_Strata
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Subway
+ID=ATS-Cave_Subway
+PARENT=Skins
+
+[ITEM]
+NAME=Cave Warren
+ID=ATS-Cave_Warren
+PARENT=Skins
+
+[ITEM]
+NAME=Church
+ID=ATS-Church
+PARENT=Skins
+
+[ITEM]
+NAME=DotC Cottage
+ID=ATS-DotC_Cottage
+PARENT=Skins
+
+[ITEM]
+NAME=DotC Tents
+ID=ATS-DotC_Tents
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon
+ID=ATS-Dungeon
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon Castle
+ID=ATS-Dungeon_Castle
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon Crypt
+ID=ATS-Dungeon_Crypt
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon Fire
+ID=ATS-Dungeon_Fire
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon Ice
+ID=ATS-Dungeon_Ice
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon Mystarch
+ID=ATS-Dungeon_Mystarch
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon Spanish
+ID=ATS-Dungeon_Spanish
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon Temple
+ID=ATS-Dungeon_Temple
+PARENT=Skins
+
+[ITEM]
+NAME=Dungeon Vampire
+ID=ATS-Dungeon_Vampire
+PARENT=Skins
+
+[ITEM]
+NAME=Evil Castle
+ID=ATS-Evil_Castle
+PARENT=Skins
+
+[ITEM]
+NAME=Garden
+ID=ATS-Garden
+PARENT=Skins
+
+[ITEM]
+NAME=Greek
+ID=ATS-Greek
+PARENT=Skins
+
+[ITEM]
+NAME=Nordic
+ID=ATS-Nordic
+PARENT=Skins
+
+[ITEM]
+NAME=Primitive Mud
+ID=ATS-Primitive_Mud
+PARENT=Skins
+
+[ITEM]
+NAME=Primitive Rock
+ID=ATS-Primitive_Rock
+PARENT=Skins
+
+[ITEM]
+NAME=Roman
+ID=ATS-Roman
+PARENT=Skins
+
+[ITEM]
+NAME=Roman Low
+ID=ATS-Roman_Low
+PARENT=Skins
+
+[ITEM]
+NAME=Rough Cottage
+ID=ATS-Rough_Cottage
+PARENT=Skins
+
+[ITEM]
+NAME=Ruins
+ID=ATS-Ruins
+PARENT=Skins
+
+[ITEM]
+NAME=Spanish
+ID=ATS-Spanish
+PARENT=Skins
+
+[ITEM]
+NAME=Stone Cottage
+ID=ATS-Stone_Cottage
+PARENT=Skins
+
+[ITEM]
+NAME=Stonelion Tents
+ID=ATS-Stonelion_Tents
+PARENT=Skins
+
+[ITEM]
+NAME=Taurian
+ID=ATS-Taurian
+PARENT=Skins
+
+[ITEM]
+NAME=Undead
+ID=ATS-Undead
+PARENT=Skins
+
+[ITEM]
+NAME=Urban
+ID=ATS-Urban
+PARENT=Skins
+
+[ITEM]
+NAME=Warpig
+ID=ATS-Warpig
+PARENT=Skins
+
+[ITEM]
+NAME=Wooden
+ID=ATS-Wooden
+PARENT=Skins
+
+[ITEM]
+NAME=Wooden Cottage
+ID=ATS-Wooden_Cottage
+PARENT=Skins
+

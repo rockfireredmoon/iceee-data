@@ -1,0 +1,22 @@
+[ENTITY]
+AccountID=0
+Name=The Lighthouse Keepers Guild Hall
+Desc=
+TerrainConfig=Terrain-Blend#Terrain-Blend.cfg
+EnvironmentType=IronMaw1
+MapName=
+Regions=
+GroveName=
+TimeOfDay=
+WarpName=The Lighthouse Keepers Guild Hall
+DropRateProfile=standard
+Grove=0
+Instance=0
+Persist=0
+GuildHall=1
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=1
+DefLoc=2686,312,4786

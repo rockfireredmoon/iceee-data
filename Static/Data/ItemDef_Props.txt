@@ -1,0 +1,13 @@
+
+[ENTRY]
+mID=1600000
+mType=11
+mDisplayName=A Simple Crate
+mIcon=Icon-32-Crate.png|Icon-32-BG-White.png
+mLevel=1
+mValue=1
+mMinUseLevel=1
+mQualityLevel=1
+mBindingType=1
+mFlavorText=Double-click to place
+mSv1=Prop-Crate

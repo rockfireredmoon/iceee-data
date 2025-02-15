@@ -1,0 +1,627 @@
+[CATEGORY]
+NAME=Dungeons
+
+[CATEGORY]
+NAME=Dungeon Corners
+PARENT=Dungeons
+
+[CATEGORY]
+NAME=Dungeon Walls
+PARENT=Dungeons
+
+[CATEGORY]
+NAME=Dungeon Pillars
+PARENT=Dungeons
+
+[CATEGORY]
+NAME=Dungeon Centers
+PARENT=Dungeons
+
+[CATEGORY]
+NAME=Dungeon Doors
+PARENT=Dungeons
+
+[CATEGORY]
+NAME=Other Dungeon Parts
+PARENT=Dungeons
+
+[ITEM]
+NAME=Dng-Caves1
+DISPLAY=Caves1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_Stair1
+DISPLAY=Hall Stair1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_Straight_Long1
+DISPLAY=Hall Straight Long1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_Short2
+DISPLAY=Hall Short2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_Short1
+DISPLAY=Hall Short1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_T1
+DISPLAY=Hall T1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_Straight1
+DISPLAY=Hall Straight1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_Z1
+DISPLAY=Hall Z1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_Cap1
+DISPLAY=Hall Cap1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_L1
+DISPLAY=Hall L1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_Doorway1
+DISPLAY=Hall Doorway1
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Hall_L2
+DISPLAY=Hall L2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_X2
+DISPLAY=Hall X2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_T2
+DISPLAY=Hall T2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Hall_X1
+DISPLAY=Hall X1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Ent_Down
+DISPLAY=Ent Down
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Pillar
+DISPLAY=Pillar
+PARENT=Dungeon Pillars
+
+[ITEM]
+NAME=Dng-Ent_Up
+DISPLAY=Ent Up
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-DungeonSample
+DISPLAY=DungeonSample
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Block
+DISPLAY=Room Block
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Wall
+DISPLAY=Room Wall
+PARENT=Dungeon Walls
+
+[ITEM]
+NAME=Dng-Room_Extender1
+DISPLAY=Room Extender1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Round_Corner1
+DISPLAY=Room Round Corner1
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_1Sided_LowerDoor
+DISPLAY=Room 1Sided LowerDoor
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Corner_PlatformA
+DISPLAY=Room Corner PlatformA
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Corner_1DoorB
+DISPLAY=Room Corner 1DoorB
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Narrow_DoorC
+DISPLAY=Room Narrow DoorC
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Narrow_Cap1
+DISPLAY=Room Narrow Cap1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Center_HeavyC
+DISPLAY=Room Center HeavyC
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Full_Rise2
+DISPLAY=Room Full Rise2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Center_Dias1
+DISPLAY=Room Center Dias1
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Half_Rise_Stairs
+DISPLAY=Room Half Rise Stairs
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Center_Pit
+DISPLAY=Room Center Pit
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Divider
+DISPLAY=Room Divider
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_1Sided
+DISPLAY=Room 1Sided
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Inside_Corner_Rise
+DISPLAY=Room Inside Corner Rise
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Full_Rise
+DISPLAY=Room Full Rise
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Corner
+DISPLAY=Room Corner
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Center
+DISPLAY=Room Center
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Center_Pillar
+DISPLAY=Room Center Pillar
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_1SidedB
+DISPLAY=Room 1SidedB
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Narrow_I
+DISPLAY=Room Narrow I
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Center_PillarB
+DISPLAY=Room Center PillarB
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Inside_Corner_Pit_Stairs
+DISPLAY=Room Inside Corner Pit Stairs
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Corner2
+DISPLAY=Room Corner2
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Corner_Rise_Stairs
+DISPLAY=Room Corner Rise Stairs
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Center_Heavy
+DISPLAY=Room Center Heavy
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Center_StairPit
+DISPLAY=Room Center StairPit
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Round_Corner2
+DISPLAY=Room Round Corner2
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Half_Pit
+DISPLAY=Room Half Pit
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Center_Gazebo
+DISPLAY=Room Center Gazebo
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Corner_1Door
+DISPLAY=Room Corner 1Door
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Extender3
+DISPLAY=Room Extender3
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Full_Pit
+DISPLAY=Room Full Pit
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Corner3
+DISPLAY=Room Corner3
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Center_HeavyB
+DISPLAY=Room Center HeavyB
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_Full_Pit2
+DISPLAY=Room Full Pit2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Center_HeavyD
+DISPLAY=Room Center HeavyD
+PARENT=Dungeon Centers
+
+[ITEM]
+NAME=Dng-Room_1Sided_RaisedDoor
+DISPLAY=Room 1Sided RaisedDoor
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Narrow_DoorB
+DISPLAY=Room Narrow DoorB
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Half_Rise
+DISPLAY=Room Half Rise
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_1Sided_Door
+DISPLAY=Room 1Sided Door
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Corner_Pit_Stairs
+DISPLAY=Room Corner Pit Stairs
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Round_Corner3
+DISPLAY=Room Round Corner3
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Narrow_Down
+DISPLAY=Room Narrow Down
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Corner_2Door
+DISPLAY=Room Corner 2Door
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Narrow_DoorA
+DISPLAY=Room Narrow DoorA
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Room_Corner_Rise
+DISPLAY=Room Corner Rise
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Corner_Pit
+DISPLAY=Room Corner Pit
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Extender2
+DISPLAY=Room Extender2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_1Sided_AlcoveA
+DISPLAY=Room 1Sided AlcoveA
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Inside_Corner_Rise_Stairs
+DISPLAY=Room Inside Corner Rise Stairs
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-Room_Pit_Rise
+DISPLAY=Room Pit Rise
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Half_Pit_Stairs
+DISPLAY=Room Half Pit Stairs
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_1Sided_Platform
+DISPLAY=Room 1Sided Platform
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Room_Inside_Corner_Pit
+DISPLAY=Room Inside Corner Pit
+PARENT=Dungeon Corners
+
+[ITEM]
+NAME=Dng-WarrenTest
+DISPLAY=WarrenTest
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Warren
+DISPLAY=Warren
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Platform_Transition
+DISPLAY=Platform Transition
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Dungeon1
+DISPLAY=Dungeon1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Platform_DoorB
+DISPLAY=Subway Platform DoorB
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Subway-1Sided_Door
+DISPLAY=Subway 1Sided Door
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Subway-Corner_2Door
+DISPLAY=Subway Corner 2Door
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Subway-PlatformB
+DISPLAY=Subway PlatformB
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Hall_L1
+DISPLAY=Subway Hall L1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Hall_Straight4
+DISPLAY=Subway Hall Straight4
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Hall_Straight3
+DISPLAY=Subway Hall Straight3
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-TrackB
+DISPLAY=Subway TrackB
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-1SidedB
+DISPLAY=Subway 1SidedB
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-PillarD
+DISPLAY=Subway PillarD
+PARENT=Dungeon Pillars
+
+[ITEM]
+NAME=Dng-Subway-TrackE
+DISPLAY=Subway TrackE
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-PillarC
+DISPLAY=Subway PillarC
+PARENT=Dungeon Pillars
+
+[ITEM]
+NAME=Dng-Subway-TunnelA
+DISPLAY=Subway TunnelA
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Corner_1Door
+DISPLAY=Subway Corner 1Door
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Subway-TrackF
+DISPLAY=Subway TrackF
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Platform_EndB
+DISPLAY=Subway Platform EndB
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Wall
+DISPLAY=Subway Wall
+PARENT=Dungeon Walls
+
+[ITEM]
+NAME=Dng-Subway-TrackC
+DISPLAY=Subway TrackC
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Corner_1DoorB
+DISPLAY=Subway Corner 1DoorB
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Subway-PillarB
+DISPLAY=Subway PillarB
+PARENT=Dungeon Pillars
+
+[ITEM]
+NAME=Dng-Subway-TrackD
+DISPLAY=Subway TrackD
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Platform_DoorA
+DISPLAY=Subway Platform DoorA
+PARENT=Dungeon Doors
+
+[ITEM]
+NAME=Dng-Subway-TunnelB
+DISPLAY=Subway TunnelB
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Hall_Straight2
+DISPLAY=Subway Hall Straight2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Hall_Straight1
+DISPLAY=Subway Hall Straight1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-TrackA
+DISPLAY=Subway TrackA
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-PlatformA
+DISPLAY=Subway PlatformA
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Hall_T1
+DISPLAY=Subway Hall T1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Floor
+DISPLAY=Subway Floor
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-PillarA
+DISPLAY=Subway PillarA
+PARENT=Dungeon Pillars
+
+[ITEM]
+NAME=Dng-Subway-TunnelC
+DISPLAY=Subway TunnelC
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Platform_EndA
+DISPLAY=Subway Platform EndA
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Divider2
+DISPLAY=Subway Divider2
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Platform_Stairs
+DISPLAY=Subway Platform Stairs
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Hall_X1
+DISPLAY=Subway Hall X1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Booth
+DISPLAY=Subway Booth
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-1Sided
+DISPLAY=Subway 1Sided
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Hall_Stair1
+DISPLAY=Subway Hall Stair1
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Divider
+DISPLAY=Subway Divider
+PARENT=Other Dungeon Parts
+
+[ITEM]
+NAME=Dng-Subway-Round_Corner1
+DISPLAY=Subway Round Corner1
+PARENT=Dungeon Corners
+

@@ -1,5 +1,5 @@
 /*
- * A port of rogue_brave_6 to the Squirrel scripting system
+ * Rogue Brave 6
  *
  * 5036 - Feline's Grace, 5 might, buff
  * 5165 - Assail - 3 might, add 1 mcharge
@@ -12,29 +12,32 @@ info <- {
 	name = "rogue_brave_6",
 	enabled = true,
 	author = "Emerald Icemoon",
-	description = "Simple Brave Rogue AI"
+	description = "Basic Brave Rogue script"
 }
 
-function on_target_lost(targetCID) 
+function on_target_lost(targetCID)
 	ai.clear_queue();
 
 function on_target_acquired(targetCID) {
-	ai.use(5036);
-	ai.exec(main);
+	ai.exec(function() {
+		ai.use(5036);
+	});
+	main();
 }
 
 function main() {
 	ai.use(32766);
-	if(ai.get_might_charge() >= 2) {
+
+	if(ai.get_might_charge() >= 2 && randmodrng(0, 2) == 0) {
 		ai.use(5225);
-		if(ai.sleep(1000)) 
-			return;
 	}
-	if(ai.get_might() >= 3) {
-		ai.use(5165);
-		if(ai.sleep(2000))
-			return;
+	else if(ai.get_might() >= 3) {
+		if(randmodrng(0, 2) > 0)
+    		ai.use(5165);
+        else
+    		ai.use(5166);
+		ai.queue(main, 2000);
+		return;
 	}
-	if(ai.has_target())
-		ai.exec(main);
+	ai.queue(main, 1000);
 }

@@ -1,0 +1,75 @@
+[ENTRY]
+Name=Monastery Entrance
+Comment=[Comment here]
+Position=3417.0,170.0,610.0
+
+[ENTRY]
+Name=Right Side Hall, Far End
+Comment=[Comment here]
+Position=2857.0,170.0,2687.0
+
+[ENTRY]
+Name=Central Hall, Middle
+Comment=[Comment here]
+Position=3418.0,170.0,2423.0
+
+[ENTRY]
+Name=Left Side Hall, Far End
+Comment=[Comment here]
+Position=3965.0,170.0,3126.0
+
+[ENTRY]
+Name=Large Water Pool Room
+Comment=[Comment here]
+Position=3438.0,170.0,3429.0
+
+[ENTRY]
+Name=Lower Central Chamber
+Comment=[Comment here]
+Position=2582.0,170.0,2903.0
+
+[ENTRY]
+Name=Abbess Meandra's Room
+Comment=[Comment here]
+Position=1197.0,170.0,3391.0
+
+[ENTRY]
+Name=Kizzit & Barenthal's Room
+Comment=[Comment here]
+Position=1898.0,170.0,2245.0
+
+[ENTRY]
+Name=Kareth's Room
+Comment=[Comment here]
+Position=2558.0,170.0,2197.0
+
+[ENTRY]
+Name=Long Hallway, Center
+Comment=[Comment here]
+Position=3563.0,170.0,4397.0
+
+[ENTRY]
+Name=Codex & Folio's Chamber
+Comment=[Comment here]
+Position=5512.0,200.0,2430.0
+
+[ENTRY]
+Name=Codex's Chamber
+Comment=[Comment here]
+Position=4833.0,170.0,3385.0
+
+[ENTRY]
+Name=Folio's Chamber
+Comment=[Comment here]
+Position=4837.0,170.0,2473.0
+
+[ENTRY]
+Name=Left Side Hall, Near End
+Comment=[Comment here]
+Position=3998.0,170.0,1098.0
+
+[ENTRY]
+Name=Right Side Hall, Near End
+Comment=[Comment here]
+Position=2873.0,170.0,1166.0
+

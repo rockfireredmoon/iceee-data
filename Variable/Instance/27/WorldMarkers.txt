@@ -1,0 +1,30 @@
+[ENTRY]
+Name=Coldstorm Entrance
+Comment=[Comment here]
+Position=2173.0,250.0,2096.0
+
+[ENTRY]
+Name=Zimbaut's Room
+Comment=[Comment here]
+Position=3330.0,250.0,2747.0
+
+[ENTRY]
+Name=First Samhain Room
+Comment=[Comment here]
+Position=3606.0,249.0,3078.0
+
+[ENTRY]
+Name=Second Samhain Room
+Comment=[Comment here]
+Position=2934.0,248.0,3460.0
+
+[ENTRY]
+Name=Garvey's Chamber
+Comment=[Comment here]
+Position=3754.0,250.0,4156.0
+
+[ENTRY]
+Name=Blue Bottle Room
+Comment=[Comment here]
+Position=2382.0,248.0,4080.0
+

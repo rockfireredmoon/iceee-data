@@ -1,0 +1,7 @@
+# -*- mode: meson -*-
+# TAWD Data Meson Build Options
+
+option('cfg_VariableDataPath', type: 'string', value: '', description: 'Path for variable data. Defaults to localstatedir/lib/tawd/Variable.')
+option('cfg_StaticDataPath', type: 'string', value: '', description: 'Path for static data. Defaults to prefix/share/tawd/Static.')
+
+

@@ -1,0 +1,27 @@
+[ENTRY]
+ID=1396
+appearance=n4:{["a"]=[{["type"]="Armor-Base2B-Left_Pauldron",["node"]="left_shoulder",["colors"]=[]},{["type"]="Armor-Base2B-Right_Pauldron",["node"]="right_shoulder",["colors"]=[]},{["type"]="Item-1hAxe-Basic5",["node"]="right_hand",["colors"]=[]},{["type"]="Item-Shield-Basic3",["node"]="left_hand",["colors"]=["94634e","2a0b0b","6a6a6a"]}],["c"]="Horde-Skrill-Worker",["sk"]={["base"]="656855",["eyes"]="443832",["stripes"]="7F1100"},["sz"]="1.2"}
+level=48
+display_name=Skrill Hiveguard
+strength=125
+dexterity=107
+constitution=125
+psyche=85
+spirit=85
+base_damage_melee=155
+damage_resist_melee=2194
+damage_resist_fire=2194
+damage_resist_frost=2194
+damage_resist_mystic=2194
+damage_resist_death=2194
+will_regen=1
+might_regen=1
+offhand_weapon_damage=500
+size=1
+profession=1
+creature_category=Animal
+rarity=1
+ai_package=knight_brave_6
+mod_casting_speed=1.4013e-45
+health_regen=1
+max_health_pc=100

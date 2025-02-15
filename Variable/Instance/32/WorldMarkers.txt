@@ -1,0 +1,35 @@
+[ENTRY]
+Name=Nottingham Castle Entrance
+Comment=[Comment here]
+Position=1387.0,240.0,1835.0
+
+[ENTRY]
+Name=Tax Collector's Room
+Comment=[Comment here]
+Position=949.0,240.0,2891.0
+
+[ENTRY]
+Name=Keanu Locksmithee's Hall
+Comment=[Comment here]
+Position=272.0,420.0,2242.0
+
+[ENTRY]
+Name=The Sheriff's Chamber
+Comment=[Comment here]
+Position=289.0,480.0,3650.0
+
+[ENTRY]
+Name=Large Statue Room
+Comment=[Comment here]
+Position=1643.0,240.0,2985.0
+
+[ENTRY]
+Name=Loxley Keymarshal's Room
+Comment=[Comment here]
+Position=1963.0,240.0,3332.0
+
+[ENTRY]
+Name=Maudlin's Room
+Comment=[Comment here]
+Position=1211.0,240.0,3533.0
+

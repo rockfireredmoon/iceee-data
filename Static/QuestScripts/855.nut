@@ -35,7 +35,7 @@ function on_halt() {
 	
 // Spawn the sidekick when the quest is accepted and the player is in the zone intended for it
 if(quest.this_zone() == 1060) {
-	sidekick_cid = quest.add_sidekick(7850, SIDEKICK_QUEST, 0);
+	sidekick_cid = quest.add_sidekick(7850, false);
 	print("Spawned! "+ sidekick_cid + "\n");
 }
 else {

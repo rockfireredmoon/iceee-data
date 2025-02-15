@@ -19,3 +19,4 @@ function on_kill(creatureDefID, creatureID) {
 		}
 	}
 }
+

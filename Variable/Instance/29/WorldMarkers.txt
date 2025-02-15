@@ -1,0 +1,50 @@
+[ENTRY]
+Name=Wilhelm's Crypt Entrance
+Comment=[Comment here]
+Position=5235.0,200.0,783.0
+
+[ENTRY]
+Name=Jengal Narglor's Room
+Comment=[Comment here]
+Position=5178.0,230.0,3924.0
+
+[ENTRY]
+Name=Templar Cornelius' Room
+Comment=[Comment here]
+Position=4313.0,140.0,1759.0
+
+[ENTRY]
+Name=Kerrath Bellington's Room1
+Comment=[Comment here]
+Position=3728.0,140.0,3064.0
+
+[ENTRY]
+Name=Kerrath Bellington's Room2
+Comment=[Comment here]
+Position=3696.0,80.0,3754.0
+
+[ENTRY]
+Name=Tri-Room Obelisk
+Comment=[Comment here]
+Position=3572.0,80.0,4899.0
+
+[ENTRY]
+Name=Marlon Wilber's Room
+Comment=[Comment here]
+Position=6966.0,140.0,2606.0
+
+[ENTRY]
+Name=Adalhelm's Room1
+Comment=[Comment here]
+Position=6228.0,140.0,2956.0
+
+[ENTRY]
+Name=Adalhelm's Room2
+Comment=[Comment here]
+Position=7589.0,80.0,2996.0
+
+[ENTRY]
+Name=King Wilhelm's Room
+Comment=[Comment here]
+Position=6090.0,130.0,3664.0
+

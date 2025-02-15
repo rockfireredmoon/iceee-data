@@ -1,0 +1,35 @@
+[ENTRY]
+Name=Underhenge Entrance
+Comment=[Comment here]
+Position=2216.0,290.0,5219.0
+
+[ENTRY]
+Name=Priestess Claira's Room
+Comment=[Comment here]
+Position=2227.0,230.0,3464.0
+
+[ENTRY]
+Name=Large Cauldron Room
+Comment=[Comment here]
+Position=1636.0,230.0,3982.0
+
+[ENTRY]
+Name=Small Cauldron Room
+Comment=[Comment here]
+Position=3200.0,168.0,3406.0
+
+[ENTRY]
+Name=Water Pit  Room
+Comment=[Comment here]
+Position=3365.0,146.0,4627.0
+
+[ENTRY]
+Name=Fleym's Pit
+Comment=[Comment here]
+Position=3793.0,49.0,2055.0
+
+[ENTRY]
+Name=Bramblebane's Chamber
+Comment=[Comment here]
+Position=2170.0,49.0,1522.0
+

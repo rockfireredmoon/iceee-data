@@ -1,0 +1,24 @@
+[ENTITY]
+AccountID=0
+Name=Dire Wolf Den
+Desc=
+TerrainConfig=
+EnvironmentType=Dungeon1
+MapName=
+Regions=
+GroveName=
+TimeOfDay=
+WarpName=Dire Wolf Den
+DropRateProfile=instance
+Grove=0
+Instance=1
+Persist=0
+GuildHall=0
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+PageSize=1000
+MaxLeashRange=375
+DefLoc=2907,360,3133

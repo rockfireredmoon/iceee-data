@@ -1193,6 +1193,8 @@ DefID	Explicit	PackageList	Name
 307	0	essence_wilhelmscrypt_kingwilhelm	;King Wilhelm
 943	0	essence_zhushislair_zhushi	;Zhushi
 1259	0	essence_wailingcrypt_wailer	;Wailer
+3351	0	essence_bloodkeep_valkal	;Valkal
+1387	0	essence_junkpalace_bosshawg	;Boss Hawg
 2889	0	HOLIDAY_BremenCornCobPipe	;Chillkin
 2890	0	HOLIDAY_BremenCornCobPipe	;Chillkin
 2891	0	HOLIDAY_BremenCornCobPipe	;Chillkin
@@ -1811,6 +1813,16 @@ DefID	Explicit	PackageList	Name
 2554	0	token_spibearlair	;Karronath
 2686	0	token_spibearlair	;Blightbiter Spibear
 2687	0	token_spibearlair	;Blightbighter Spibear
+1397	0	token_skrillqueenlair	;Skrill Hivegaurd
+1398	0	token_skrillqueenlair	;Skrill Hiveguard
+1400	0	token_skrillqueenlair	;Skrill Hivesoldier
+1401	0	token_skrillqueenlair	;Skrill Hivesoldier
+1403	0	token_skrillqueenlair	;Skrill Hivemender
+1404	0	token_skrillqueenlair	;Skrill Hivemender
+1406	0	token_skrillqueenlair	;Skrill Hivedrone
+1407	0	token_skrillqueenlair	;Skrill Hivedrone
+1409	0	token_skrillqueenlair	;Skrill Hivemaker
+1410	0	token_skrillqueenlair	;Skrill Hivemaker
 282	0	token_underhenge	;Templar
 283	0	token_underhenge	;Dweamorist
 284	0	token_underhenge	;Templar
@@ -1876,3 +1888,5 @@ DefID	Explicit	PackageList	Name
 2058	0	named_VaykinScarr_2058	
 2061	0	named_Gromp_2061	
 2029	0	named_Spike_2029	
+7881	0	Event_Barrel	;Event Barrel
+7882	0	Event_Crate	    ;Event Crate

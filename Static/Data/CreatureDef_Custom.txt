@@ -25,6 +25,18 @@ rarity=1
 ai_package=custom_heathendel_mage40
 appearance=c2:{["a"]=[{["type"]="Armor-Light-Low7-Left_Pauldron",["node"]="left_shoulder",["colors"]=["0D4955","56341D","473A6A","A18489","267F2B"]},{["type"]="Armor-Light-Low7-Right_Pauldron",["node"]="right_shoulder",["colors"]=["0D4955","0D6A13","473A6A","A18489","267F2B"]},{["type"]="Item-Wand-Epic2",["node"]="right_hand",["colors"]=["553A14","B044FF","BF1111"]},{["type"]="Item-Talisman-Bone",["node"]="left_hand",["colors"]=["BF7979"]}],["c"]={["boots"]={["type"]="Armor-Cloth-Low8",["colors"]=["0d4955","473a6a","267f2b","d4b373"]},["chest"]={["type"]="Armor-Cloth-Low8",["colors"]=["0d4955","473a6a","267f2b","d4b373"]},["arms"]={["type"]="Armor-Cloth-Low8",["colors"]=["0d4955","473a6a","267f2b","d4b373"]},["leggings"]={["type"]="Armor-Cloth-Low8",["colors"]=["0d4955","473a6a","267f2b","d4b373"]},["collar"]={["type"]="Armor-Cloth-Low8",["colors"]=["0d4955","473a6a","267f2b","d4b373"]},["belt"]={["type"]="Armor-Cloth-Low8",["colors"]=["0d4955","473a6a","267f2b","d4b373"]},["gloves"]={["type"]="Armor-Cloth-Low8",["colors"]=["0d4955","473a6a","267f2b","d4b373"]}},["b"]="n",["sk"]={["hair"]="3F2B19",["leg_patches"]="553921",["chest_patch"]="6A4829",["tusks"]="E9E9C2",["eye_white"]="ADADAD",["nails"]="63594E",["base"]="AA8F5C",["inner_ear"]="6A4829",["eye"]="9418D4",["eye_brows"]="553921",["snout"]="553636",["arm_patches"]="3F2B19"},["sz"]="1.17",["h"]=0,["g"]="m",["r"]="k"}
 
+[ENTRY]
+ID=3599
+Effects=INVINCIBLE,HENGE,IS_USABLE,UNATTACKABLE
+will_regen=1
+might_regen=1
+appearance=p1:{["a"]="Prop-Interact_Cylinder",["sz"]="1.5"}
+level=1
+display_name=Keystone Sanctuary
+sub_name=Grunes Tal
+profession=1
+creature_category=Mortal
+ai_package=nothing
 
 [ENTRY]
 ID=3600
@@ -1188,31 +1200,31 @@ sub_name=Brood of Kerakura
 profession=3
 creature_category=Dragonkin
 ai_package=custom_heathendel_rogue40
-total_size=5
-
 [ENTRY]
 ID=3690
-strength=200
-dexterity=185
+strength=236
+dexterity=210
 constitution=300
 psyche=175
 spirit=185
-base_damage_melee=200
 damage_resist_melee=3500
 damage_resist_fire=3500
-damage_resist_frost=3500
+damage_resist_frost=2100
 damage_resist_mystic=3500
 damage_resist_death=3500
-will_regen=1
-might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
 appearance=n4:{["sk"]={["wing"]="968560",["mouth"]="703430",["belly"]="6A3709",["base"]="6A5905",["eye"]="961A1A",["horns"]="9F9D89",["claws"]="6E624C",["teeth"]="C0BBAA"},["c"]="Boss-Sand_Dragon",["sz"]="5"}
-level=50
+level=53
 display_name=Kerakura
 profession=2
 creature_category=Dragonkin
+rarity=3
+base_damage_melee=287
+base_health=3000
+ExtraData=droprateprofile=Grimfrost
+ai_package=custom_heathendel_kronos
 rarity=3
 ai_package=custom_heathendel_kronos
 
@@ -2164,23 +2176,21 @@ dexterity=21
 constitution=31
 psyche=25
 spirit=31
-base_damage_melee=30
 damage_resist_melee=573
 damage_resist_fire=573
 damage_resist_frost=573
 damage_resist_mystic=1146
-damage_resist_death=114
-will_regen=1
-might_regen=1
+damage_resist_death=573
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
 appearance=n4:{["sk"]={["skin"]="006A06",["trim"]="00AA0A",["spots"]="6A0000",["eye"]="00077F",["paper"]="FFFED4",["middletext"]="FFFFFF",["cover"]="D41313"},["c"]="Horde-Bookwyrm",["sz"]="1"}
 level=20
-display_name=Holiday Horror Book
+display_name=Twisted Holiday Tome
 profession=5
-ai_package=druid_mystic_brave_6
 creature_category=Magical
+base_damage_melee=30
+ai_package=druid_mystic_brave_6
 
 [ENTRY]
 ID=18007
@@ -2311,30 +2321,29 @@ total_size=9
 
 [ENTRY]
 ID=18012
-ExtraData=namedmob=1
 strength=39
 dexterity=39
 constitution=57
 psyche=47
 spirit=57
-base_damage_melee=41
 damage_resist_melee=774
 damage_resist_fire=774
-damage_resist_frost=774
+damage_resist_frost=1548
 damage_resist_mystic=1548
 damage_resist_death=774
-base_health=627
-will_regen=1
-might_regen=1
 offhand_weapon_damage=500
 casting_setback_chance=500
 channeling_break_chance=500
 appearance=n4:{["sk"]={["detail"]="A5ABFF",["fur"]="FFF2D5",["highlight"]="BAC0CF"},["c"]="Horde-Yeti_Matron",["sz"]="2"}
 level=20
 display_name=Big Foot
+sub_name=Blizzard Chief
 profession=5
 creature_category=Animal
 rarity=1
+base_damage_melee=41
+base_health=627
+ExtraData=namedmob=
 ai_package=druid_mystic_brave_6
 total_size=5
 
@@ -2821,3 +2830,22 @@ creature_category=Animal
 rarity=1
 ai_package=FailsafeAI
 
+[ENTRY]
+ID=3477
+appearance=p1:{["sz"]="2.3",["a"]="Prop-Interact_Rectangle"}
+level=1
+display_name=Exit to Grunes Tal
+profession=1
+creature_category=Inanimate
+ai_package=nothing
+
+[ENTRY]
+ID=19001
+appearance=c2:{["a"]=[{["node"]="right_hand",["type"]="Item-Wand-CandyCane",["colors"]=[]},{["node"]="left_hand",["type"]="Item-Shield-Basic4",["colors"]=["ff0000","005505","ffffff"]}],["sk"]={["skin"]="a5b3ce",["detail"]="684106",["headdetail"]="93a0b8",["hair"]="d1daed"},["sz"]="1.2",["g"]="m",["h"]=0,["r"]="y",["b"]="m",["c"]={["boots"]={["type"]="Armor-Light-Mid2",["colors"]=["940d0d","940d0d","940d0d","940d0d","826d5e"]},["chest"]={["type"]="Armor-Light-Mid2",["colors"]=["940d0d","940d0d","ffffff","ffffff","940d0d","940d0d"]},["arms"]={["type"]="Armor-Light-Mid2",["colors"]=["940d0d","12941a","940d0d"]},["leggings"]={["type"]="Armor-Light-Mid2",["colors"]=["0d6a04","550000","e9e9e9","ffffff","4e5668"]},["collar"]={["type"]="Armor-Light-Mid2",["colors"]=["940d0d","a77d19","12941a","4c485f","940d0d","3f0d11"]},["belt"]={["type"]="Armor-Light-Mid2",["colors"]=["12941a","ffffff","940d0d","940d0d","ffffff","940d0d","be8c4d","5e2e22"]},["gloves"]={["type"]="Armor-Light-Mid2",["colors"]=["940d0d","940d0d","ffffff"]}}}
+level=45
+display_name=Holiday Guardian
+sub_name=Town Guard
+profession=1
+creature_category=Mortal
+rarity=2
+ai_package=nothing

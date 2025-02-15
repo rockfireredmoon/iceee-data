@@ -1,26 +1,24 @@
 [ENTRY]
-ID=1133414
+ID=1132444
 Asset=CL-Dead-Forest#CL-Dead-Web_Forest1
 Name=
 Pos=53425.6,231.062,74823.5
 Orient=0,0,0,1
 Scale=1,1,1
-Flags=1
 
 [ENTRY]
-ID=1133415
+ID=1132446
 Asset=CL-Dead-Forest#CL-Dead-Web_Forest3
 Name=
 Pos=53572.9,228.158,74640.4
 Orient=0,0,0,1
 Scale=1,1,1
-Flags=1
 
 [ENTRY]
 ID=10000439
 Asset=Manipulator-SpawnPoint
 Name=Untitled
-Pos=53513.9,242.04,74681.4
+Pos=53513.5,243,74681.6
 Orient=0,0,0,1
 Scale=1,1,1
 Facing=222
@@ -101,7 +99,7 @@ Flags=1
 ID=151059506
 Asset=Prop-Instance_Entrance
 Name=Untitled
-Pos=53535.3,343.789,74701.3
+Pos=53519.1,343.789,74701.3
 Orient=0,-0.412322,0,0.911038
 Scale=3.975,3.975,3.975
 

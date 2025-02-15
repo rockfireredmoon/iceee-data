@@ -1,0 +1,40 @@
+[ENTRY]
+Name=Earthend Well
+Comment=[Comment here]
+Position=11336.0,280.0,13506.0
+
+[ENTRY]
+Name=Anubian Captain 1's Location
+Comment=[Comment here]
+Position=12381.0,460.0,11905.0
+
+[ENTRY]
+Name=Anubian Captain 2's Location
+Comment=[Comment here]
+Position=14025.0,313.0,13510.0
+
+[ENTRY]
+Name=Anubian Captain 3's Location
+Comment=[Comment here]
+Position=13154.0,208.0,14411.0
+
+[ENTRY]
+Name=Development Corner
+Comment=[Comment here]
+Position=12299.0,215.0,14077.0
+
+[ENTRY]
+Name=Zalika's Fountain
+Comment=[Comment here]
+Position=13055.0,281.0,13397.0
+
+[ENTRY]
+Name=General Akhom's Spot
+Comment=[Comment here]
+Position=12962.0,320.0,13001.0
+
+[ENTRY]
+Name=West Central Dead End
+Comment=[Comment here]
+Position=12206.0,281.0,13272.0
+

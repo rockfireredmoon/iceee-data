@@ -1,11 +1,14 @@
 /*
- * All scripts should define an 'info' variable, describing itself.
+ * Example
+ * 
+ * Used for lots of creatures. Just does ranged auto attack.
  */
+
 info <- {
 	name = "example",
 	enabled = true,
 	author = "Emerald Icemoon",
-	description = "A simple melee example script. As soon as target is acquired and aggro gained, the creature will attack using melee."
+	description = "Default Script."
 }
 
 function on_target_lost(targetCID)
@@ -15,13 +18,7 @@ function on_target_acquired(targetCID) {
 	main();
 }
 
-function tryMelee() {
-	// For backwards compatibility
-	ai.use(32766);
-}
-
 function main() {
-	tryMelee();
-	if(ai.has_target())
-		ai.exec(main);
+	ai.use(32760);
+	ai.queue(main, 1000);
 }

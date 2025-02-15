@@ -1,0 +1,22 @@
+[ENTITY]
+AccountID=0
+Name=Burning_Chasm
+Desc=dsfsdfdsf
+TerrainConfig=Terrain-Burning_Chasm#Terrain-Burning_Chasm.cfg
+EnvironmentType=Fire1
+MapName=
+Regions=
+GroveName=
+TimeOfDay=
+WarpName=Burning Chasm
+DropRateProfile=standard
+Grove=0
+Instance=0
+Persist=0
+GuildHall=0
+Arena=0
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=0
+DefLoc=10559,1255,12104

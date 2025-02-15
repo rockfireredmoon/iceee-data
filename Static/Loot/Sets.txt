@@ -155,8 +155,10 @@ essence_spibearlair_denmotherursarach	0	150	21291		 Denmother Ursarach's Essence
 essence_underhenge_bramblebane	0	150	20873		 Bramblebane's Essence
 essence_vespinlair_hivequeenfrelon	0	100	20531		 Frelon's Essence
 essence_wailingcrypt_wailer	0	300	10011		 The Wailers's Essence
+essence_bloodkeep_valkal	0	300	10044		 Valkal's Essence
 essence_wilhelmscrypt_kingwilhelm	0	250	20872		 Willhelm's Essence
 essence_zhushislair_zhushi	0	100	20781		 Zhushi's Essence
+essence_junkpalace_bosshawg	0	500	10045		 Boss Hawg's Essence
 token_abandonedmonastery	0	20	21253		 Abandoned Monastery Token
 token_bremenasylum	0	20	21261		 Bremen Asylum Token
 token_brewerycellar	0	20	21262		 Dunklehimer Brewery Token
@@ -174,6 +176,7 @@ token_rolsburgmine	0	20	21264		 Rolsburg Mine Token
 token_rottedmaze	0	20	21274		 Rotted Maze Token
 token_rottednursery	0	20	21271		 Rotted Nursery Token
 token_spibearlair	0	20	21257		 Spibear Lair Token
+token_skrillqueenlair	0	20	10046		 Skrill Queen Lair Token
 token_underhenge	0	20	21250		 Underhenge Token
 token_wailingcrypt	0	20	8102		 Wailing Crypt Token
 token_wilhelmscrypt	0	20	21252		 Wilhelm's Crypt Token
@@ -512,3 +515,8 @@ named_Amberwing_2032	0	50	4950,142536	;Amberwing Leggings, Amberwing Bow
 named_VaykinScarr_2058	0	50	4954	;Scarr Wishbone	
 named_Gromp_2061	0	50	142541	;Gromp Clomper	
 named_Spike_2029	0	50	4949	;Spike Sleeves	
+epic_Violet_Prism	4	0	4672,4180,4300,4541,4421,900049,4240,900050,900051,4481,4366	4672:Violet Prism Amulet, 4180:Violet Prism Collar, 4300:Violet Prism Gloves, 4541:Violet Prism Hood, 4421:Violet Prism Leggings, 900049:Violet Prism Ring, 4240:Violet Prism Shirt, 900050:Violet Prism Shoulders, 900051:Violet Prism Totem, 4481:Violet Prism Slippers, 4366:Violet Prism Sleeves
+rare_Castle_Iron	3	0	4206,900047,4652,4266,4326,4567,4447,4507,900048,4615,4387	4206:Caslte Iron Studded Collar, 900047:Castle Iron Studded Amulet, 4652:Castle Iron Studded Belt, 4266:Castle Iron Studded Chestplate, 4326:Castle Iron Studded Gloves, 4567:Castle Iron Studded Hat, 4447:Castle Iron Studded Pants, 4507:Castle Iron Studded Shoes, 900048:Castle Iron Studded Ring, 4615:Castle Iron Studded Shoulders, 4387:Castle Iron Studded Sleeves
+rare_Burning_Star	3	0	4670,4176,4634,4296,4537,4417,4684,4236,4597,4356,4477	4670:Burning Star Amulet, 4176:Burning Star Collar, 4634:Burning Star Cord, 4296:Burning Star Gloves, 4537:Burning Star Hood, 4417:Burning Star Leggings, 4684:Burning Star Ring, 4236:Burning Star Shirt, 4597:Burning Star Shoulders, 4356:Burning Star Sleeves, 4477:Burning Star Slippers
+Event_Barrel	0	100	8704	;Event Barrel
+Event_Crate	0	100	8704	;Event Barrel		

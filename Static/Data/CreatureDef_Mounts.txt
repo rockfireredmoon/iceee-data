@@ -1,0 +1,10 @@
+[ENTRY]
+ID=9000
+AbilityOnUse=5507
+appearance=n4:{["c"]="Boss-Dragon",["sz"]=".4"}
+level=50
+display_name=Fengarian Uber
+creature_category=Mortal
+constitution=1
+Effects=MOUNTABLE,IS_USABLE,UNATTACKABLE
+

@@ -106,6 +106,7 @@ Name=Untitled
 Pos=72152.6,972.265,55976.5
 Orient=0,-0.836026,0,0.54869
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091380
@@ -114,6 +115,7 @@ Name=Untitled
 Pos=72243.6,969.751,55979.5
 Orient=0,-0.888928,0,0.458046
 Scale=1,1,1
+spawnPackage=wastecult_cultist
 
 [ENTRY]
 ID=1091381
@@ -122,6 +124,7 @@ Name=Untitled
 Pos=72323.9,965.717,56066.4
 Orient=0,-0.648034,0,0.761612
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
 ID=1091382
@@ -130,6 +133,7 @@ Name=Untitled
 Pos=72523.7,972.983,56170.3
 Orient=0,0.999707,0,-0.0242012
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
 ID=1091425
@@ -138,21 +142,14 @@ Name=Untitled
 Pos=72005.5,976.935,55947.5
 Orient=0,0.999991,0,-0.00420359
 Scale=1,1,1
+spawnPackage=wastecult_creature
 
 [ENTRY]
-ID=1133147
-Asset=Prop-Fog#Prop-Fog_Green_Ground
-Name=
-Pos=72200.7,971.76,56014.2
-Orient=0,0,0,1
-Scale=1,1,1
-
-[ENTRY]
-ID=1133148
-Asset=Prop-Fog#Prop-Fog_Green_Ground
-Name=
-Pos=72564,973.761,56182.6
-Orient=0,0,0,1
+ID=1154717
+Asset=Sound?SOUND=Sound-Ambient-Radiation2.ogg&GAIN=1
+Name=Untitled
+Pos=72257.4,977.076,56002.8
+Orient=0,-0.770739,0,0.637151
 Scale=1,1,1
 
 [ENTRY]

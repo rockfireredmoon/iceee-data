@@ -1,0 +1,22 @@
+[ENTITY]
+AccountID=0
+Name=Camelot_Arena
+Desc=
+TerrainConfig=Terrain-Terrain-MTerrain-Camelot_Arena#Terrain-Camelot_Arena.cfg
+EnvironmentType=CloudyDay
+MapName=
+Regions=
+GroveName=
+TimeOfDay=
+WarpName=Camelot Arena
+DropRateProfile=standard
+Grove=0
+Instance=0
+Persist=0
+GuildHall=0
+Arena=1
+Audit=0
+MinLevel=0
+MaxLevel=9999
+EnvironmentCycle=1
+DefLoc=2331,1251,2845

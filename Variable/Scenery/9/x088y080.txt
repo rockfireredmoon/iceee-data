@@ -1,7 +1,7 @@
 [ENTRY]
 ID=1127502
 Asset=Manipulator#Manipulator-SpawnPoint
-Name=
+Name=Untitled
 Pos=66240,1001.11,60480
 Orient=0,0,0,1
 Scale=1,1,1
@@ -11,7 +11,7 @@ wanderRadius=150
 [ENTRY]
 ID=1127503
 Asset=Manipulator-PathNode
-Name=
+Name=Untitled
 Pos=66405,977.68,60015
 Orient=0,0,0,1
 Scale=1,1,1
@@ -57,15 +57,6 @@ Scale=1,1,1
 spawnPackage=11_jld_HogcatcherMix_43_44
 links_count=1
 link=1127503,1
-
-[ENTRY]
-ID=151027897
-Asset=Manipulator-SpawnPoint
-Name=Untitled
-Pos=66329,989.864,60189
-Orient=0,0,0,1
-Scale=1,1,1
-spawnPackage=11_jld_HogcatcherMix_43_44
 
 [ENTRY]
 ID=151027898

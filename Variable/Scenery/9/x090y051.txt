@@ -340,7 +340,7 @@ Orient=0,-0.632673,0,0.774419
 Scale=1,1,1
 links_count=1
 link=151055161,1
-spawnPackage=2a_rhl_madCowCamp_general
+spawnPackage=2a_rhl_dunkelhimerBrewery_general
 
 [ENTRY]
 ID=151055161
@@ -377,7 +377,7 @@ Asset=Manipulator-SpawnPoint
 Pos=67935,374.239,38360
 Orient=0,-0.688921,0,0.724836
 Scale=1,1,1
-spawnPackage=2a_rhl_madCowCamp_general
+spawnPackage=2a_rhl_dunkelhimerBrewery_general
 
 [ENTRY]
 ID=151055165

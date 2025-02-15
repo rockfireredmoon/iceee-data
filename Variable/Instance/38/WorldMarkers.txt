@@ -1,0 +1,60 @@
+[ENTRY]
+Name=Goliath Ruins Entrance
+Comment=[Comment here]
+Position=3532.0,770.0,4961.0
+
+[ENTRY]
+Name=Argot and Sharabat's Room
+Comment=[Comment here]
+Position=3528.0,590.0,2307.0
+
+[ENTRY]
+Name=Grokk's Room 1
+Comment=[Comment here]
+Position=2796.0,650.0,1787.0
+
+[ENTRY]
+Name=Grokk's Room 2
+Comment=[Comment here]
+Position=4252.0,650.0,1791.0
+
+[ENTRY]
+Name=Right Side Fountain Room
+Comment=[Comment here]
+Position=4312.0,650.0,2899.0
+
+[ENTRY]
+Name=Left Side Statue Room
+Comment=[Comment here]
+Position=2689.0,650.0,2936.0
+
+[ENTRY]
+Name=Back-Center Room
+Comment=[Comment here]
+Position=3534.0,590.0,1301.0
+
+[ENTRY]
+Name=Maut the Mystic's Room
+Comment=[Comment here]
+Position=5180.0,590.0,2751.0
+
+[ENTRY]
+Name=Upper Right Corner Room
+Comment=[Comment here]
+Position=4997.0,590.0,1127.0
+
+[ENTRY]
+Name=Upper Left Corner Room
+Comment=[Comment here]
+Position=2084.0,590.0,1148.0
+
+[ENTRY]
+Name=Rockmae & Stallonus's Room
+Comment=[Comment here]
+Position=2304.0,590.0,1622.0
+
+[ENTRY]
+Name=Ritt's Room
+Comment=[Comment here]
+Position=1887.0,590.0,2724.0
+

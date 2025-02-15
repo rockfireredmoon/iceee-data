@@ -1,0 +1,15 @@
+[ENTRY]
+Name=Forest Cavern Entrance
+Comment=[Comment here]
+Position=3492.0,220.0,2382.0
+
+[ENTRY]
+Name=Lynott's Room
+Comment=[Comment here]
+Position=3187.0,160.0,1116.0
+
+[ENTRY]
+Name=Frietz Splithoof's Platform
+Comment=[Comment here]
+Position=2273.0,174.0,1108.0
+
